@@ -1,0 +1,18 @@
+:root {
+  --light-green: #e8f5e8;
+  --dark-green: #2d5a27;
+}
+
+header a {
+  background-color: var(--dark-green);
+  color: white;
+}
+
+article {
+  border-left-color: var(--dark-green);
+  background-color: var(--light-green);
+}
+
+article>* {
+  display: block;
+}

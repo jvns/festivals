@@ -1,0 +1,129 @@
+[
+  {
+    "company": "Repercussion Theatre",
+    "link": "https://www.repercussiontheatre.com/summer-tour-2025/",
+    "showtimes": [
+      {
+        "city": "Notre-Dame-de-Grâce (NDG)",
+        "datetime": "2025-07-24 19:00:00",
+        "park": "Trenholme Park",
+        "venue": "Trenholme Park / Notre-Dame-de-Grâce (NDG)"
+      },
+      {
+        "city": "Outremont",
+        "datetime": "2025-07-25 19:00:00",
+        "park": "Mount Royal Cemetery",
+        "venue": "Mount Royal Cemetery / Outremont"
+      },
+      {
+        "city": "Stanstead",
+        "datetime": "2025-07-26 19:00:00",
+        "park": "Stone Circle",
+        "venue": "Stone Circle / Stanstead"
+      },
+      {
+        "city": "Stanstead",
+        "datetime": "2025-07-27 14:00:00",
+        "park": "Stone Circle",
+        "venue": "Stone Circle / Stanstead"
+      },
+      {
+        "city": "Pointe-Claire",
+        "datetime": "2025-07-29 19:00:00",
+        "park": "Stewart Park",
+        "venue": "Stewart Park / Pointe-Claire"
+      },
+      {
+        "city": "Kirkland",
+        "datetime": "2025-07-30 19:00:00",
+        "park": "Ecclestone Park",
+        "venue": "Ecclestone Park / Kirkland"
+      },
+      {
+        "city": "Dorval",
+        "datetime": "2025-07-31 19:00:00",
+        "park": "Parc Pine Beach",
+        "venue": "Parc Pine Beach / Dorval"
+      },
+      {
+        "city": "Dollard-des-Ormeaux (DDO)",
+        "datetime": "2025-08-01 19:00:00",
+        "park": "Bibliothèque publique de Dollard-des-Ormeaux",
+        "venue": "Bibliothèque publique de Dollard-des-Ormeaux / Dollard-des-Ormeaux (DDO)"
+      },
+      {
+        "city": "",
+        "datetime": "2025-08-02 19:00:00",
+        "park": "Ville Saint-Laurent",
+        "venue": "Ville Saint-Laurent"
+      },
+      {
+        "city": "Hudson",
+        "datetime": "2025-08-03 17:00:00",
+        "park": "Greenwood center",
+        "venue": "Greenwood center / Hudson"
+      },
+      {
+        "city": "Côte Saint Luc",
+        "datetime": "2025-08-05 18:00:00",
+        "park": "Ashkelon Gardens",
+        "venue": "Ashkelon Gardens / Côte Saint Luc"
+      },
+      {
+        "city": "Westmount",
+        "datetime": "2025-08-07 19:00:00",
+        "park": "Westmount Park",
+        "venue": "Westmount Park / Westmount"
+      },
+      {
+        "city": "Westmount",
+        "datetime": "2025-08-08 19:00:00",
+        "park": "Westmount Park",
+        "venue": "Westmount Park / Westmount"
+      },
+      {
+        "city": "Morin Heights",
+        "datetime": "2025-08-09 19:00:00",
+        "park": "Basler Park",
+        "venue": "Basler Park / Morin Heights"
+      },
+      {
+        "city": "Plateau Mont-Royal",
+        "datetime": "2025-08-10 19:00:00",
+        "park": "Sir-Wilfrid-Laurier Park",
+        "venue": "Sir-Wilfrid-Laurier Park / Plateau Mont-Royal"
+      },
+      {
+        "city": "Park Extension",
+        "datetime": "2025-08-12 19:00:00",
+        "park": "Jarry Park",
+        "venue": "Jarry Park / Park Extension"
+      },
+      {
+        "city": "Rivière Des Prairies",
+        "datetime": "2025-08-13 19:00:00",
+        "park": "Armand-Bombardier Park",
+        "venue": "Armand-Bombardier Park / Rivière Des Prairies"
+      },
+      {
+        "city": "Town of Mount Royal",
+        "datetime": "2025-08-14 19:00:00",
+        "park": "Connought Park",
+        "venue": "Connought Park / Town of Mount Royal"
+      },
+      {
+        "city": "Baie D’Urfé",
+        "datetime": "2025-08-15 19:00:00",
+        "park": "Fritz Farm",
+        "venue": "Fritz Farm / Baie D’Urfé"
+      },
+      {
+        "city": "Westmount",
+        "datetime": "2025-08-16 19:00:00",
+        "park": "Westmount Park",
+        "venue": "Westmount Park / Westmount"
+      }
+    ],
+    "title": "The Importance of Being Earnest"
+  }
+]

@@ -1,0 +1,138 @@
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s;
+  padding: 5px 10px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+nav a:hover {
+  background-color: #666;
+}
+
+h1,
+p,
+ul {
+  margin-bottom: 2rem;
+}
+
+main {
+  font-size: .9rem;
+}
+
+
+/* Use main element for calendar grid - inherits from calendar-base.css */
+
+details[open] summary {
+  display: none;
+}
+
+main li {
+  list-style: none;
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+h3 {
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+/* Festival background colors */
+.festival-fantasia {
+  --color: #4d2283;
+}
+
+.festival-mutek {
+  --color: blue;
+}
+
+.festival-theatre-de-verdure {
+  --color: #2d5a27;
+}
+
+.festival-shakespeare- {
+  --color: #ff65c3;
+}
+
+.festival-fireworks {
+  --color: red;
+}
+
+.festival-nuits-d\'afrique {
+  --color: #ffa800;
+}
+
+.festival-haïti-en-folie {
+  --color: #ffd980;
+}
+
+main article {
+  padding: 0 0.5rem;
+  margin: 0.25rem 0;
+  border-left: 3px solid #ddd;
+  border-left-color: var(--color);
+}
+
+.cal-link {
+  text-decoration: none;
+  display: none;
+  padding: 4px 6px;
+  position: absolute;
+  right: -18px;
+  color: #777;
+
+  top: -6px;
+}
+
+.cal-link img {
+  width: 25px;
+}
+
+.event:hover .cal-link {
+  display: inline;
+  font-weight: bold;
+}
+
+.event {
+  position: relative;
+  display: flex;
+}
+
+.event>div {
+  width: calc(100% - 10px);
+}
+
+@media (max-width: 800px) {
+  .cal-link {
+    display: inline;
+    right: 0;
+
+    top: -4px;
+  }
+
+  .event {
+    line-height: 1.6em;
+  }
+
+  .event>div {
+    width: calc(100% - 30px);
+  }
+}

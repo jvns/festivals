@@ -1,0 +1,25 @@
+{% extends 'calendar-base.html' %}
+
+{% block title %}Festival International Nuits d'Afrique 2025{% endblock %}
+
+{% block header %}
+<header>
+    <h1>Festival International Nuits d'Afrique 2025</h1>
+    <a href="https://www.festivalnuitsdafrique.com/programmation-festival-nuits-dafrique-2025-gratuit/?category=664&concert=yes">Official Site</a>
+</header>
+{% endblock %}
+
+{% block event_content %}
+<article class="card">
+    <time>{{ event.time }}</time>
+    <a href="{{ event.link }}">{{ event.title }}</a>
+    <img onclick="opendialog(event)" src="/images/info.svg">
+    <dialog closed style="--image: url('{{event.image}}')">
+        <p><strong>Title:</strong> {{event.title}}</p>
+        {% if event.description %}
+        <p><strong>Description:</strong> {{event.description}}</p>
+        {% endif %}
+        <button>✕</button>
+    </dialog>
+</article>
+{% endblock %}

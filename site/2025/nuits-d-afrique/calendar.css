@@ -1,0 +1,12 @@
+/* Nuits d'Afrique specific styles */
+
+.venue {
+  font-size: 0.9em;
+  color: #666;
+  font-style: italic;
+}
+
+article.card {
+  border-left-color: #ffa800;
+  background-color: #ffa80010;
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "artists": "Valentina Magaletti (IT/UK), Stephen Beaupré (CA/QC)",
+    "link": "https://montreal.mutek.org/en/shows/2025/experience-1",
+    "showtimes": [
+      {
+        "datetime": "2025-08-19 18:30:00",
+        "venue": "Esplanade Tranquille"
+      }
+    ],
+    "ticket_status": "free",
+    "title": "EXPÉRIENCE 1"
+  },
+  {
+    "artists": "Lio (LB/QC), Garden of Magic (CA), Bergsonist (MA/US), Cousin (AU), Al Wootton (UK)",
+    "link": "https://montreal.mutek.org/en/shows/2025/experience-2",
+    "showtimes": [
+      {
+        "datetime": "2025-08-20 17:00:00",
+        "venue": "Esplanade Tranquille"
+      }
+    ],
+    "ticket_status": "free",
+    "title": "EXPÉRIENCE 2"
+  },
+  {
+    "artists": "Guillaume Coutu Dumont & Line Katcho (CA/QC), Ouri (FR/QC), The Bionic Harpist & Techno Para Dos (US/QC+MX)",
+    "link": "https://montreal.mutek.org/en/shows/2025/theatre-de-verdure",
+    "showtimes": [
+      {
+        "datetime": "2025-08-20 19:30:00",
+        "venue": "Théâtre de Verdure - Parc La Fontaine"
+      }
+    ],
+    "ticket_status": "free",
+    "title": "THÉÂTRE DE VERDURE"
+  },
+  {
+    "artists": "Yu Su (CN/CA), upsammy & Valentina Magaletti (NL+IT/UK), James Holden & Waclaw Zimpel (UK/PL)",
+    "link": "https://montreal.mutek.org/en/shows/2025/nocturne-1",
+    "showtimes": [
+      {
+        "datetime": "2025-08-20 22:00:00",
+        "venue": "Société des arts technologiques [SAT]"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "NOCTURNE 1"
+  },
+  {
+    "artists": "Cleo Leigh (CA), DELAVELOUR (CA/QC), Jade Telemann (CA/QC), SXXN (CA), Techno Para Dos (MX)",
+    "link": "https://montreal.mutek.org/en/shows/2025/experience-3",
+    "showtimes": [
+      {
+        "datetime": "2025-08-21 17:00:00",
+        "venue": "Esplanade Tranquille"
+      }
+    ],
+    "ticket_status": "free",
+    "title": "EXPÉRIENCE 3"
+  },
+  {
+    "artists": "Max Cooper (UK)",
+    "link": "https://montreal.mutek.org/en/shows/2025/special-event-max-cooper-presents-lattice-3d-av",
+    "showtimes": [
+      {
+        "datetime": "2025-08-21 19:00:00",
+        "venue": "Théatre Maisonneuve de la Place des Arts"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "SPECIAL EVENT | Max Cooper presents Lattice 3D/AV"
+  },
+  {
+    "artists": "Gadi Sassoon & Portrait XO feat. 555n (IT+US/DE), Holy Tongue (IT/UK+JP/UK+UK), Phèdre (CA), The Fear Ratio (James Ruskin & Mark Broom) (UK)",
+    "link": "https://montreal.mutek.org/en/shows/2025/nocturne-2",
+    "showtimes": [
+      {
+        "datetime": "2025-08-21 22:30:00",
+        "venue": "Société des arts technologiques [SAT]"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "NOCTURNE 2"
+  },
+  {
+    "artists": "Madame Gandhi (US), OSTR-SIZE (CA/QC), Raf Reza (BD/CA), ROLROLROL (NL), SLIBERIUM (CA/QC)",
+    "link": "https://montreal.mutek.org/en/shows/2025/experience-4",
+    "showtimes": [
+      {
+        "datetime": "2025-08-22 17:00:00",
+        "venue": "Esplanade Tranquille"
+      }
+    ],
+    "ticket_status": "free",
+    "title": "EXPÉRIENCE 4"
+  },
+  {
+    "artists": "Quayola (IT), K-Phi-A (FR/CA+KR/CA+JP), Abul Mogard & Grand River (IT)",
+    "link": "https://montreal.mutek.org/en/shows/2025/a-visions-1",
+    "showtimes": [
+      {
+        "datetime": "2025-08-22 18:15:00",
+        "venue": "Théatre Maisonneuve de la Place des Arts"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "A/VISIONS 1"
+  },
+  {
+    "artists": "Speedy J (NL), Aurora Halal (US), Kevin Saunderson & Dantiez present e-Dancer (US), France Jobin & Markus Heckmann (CA/QC + DE), machìna (KR/JP)",
+    "link": "https://montreal.mutek.org/en/shows/2025/metropolis-1",
+    "showtimes": [
+      {
+        "datetime": "2025-08-22 22:00:00",
+        "venue": "MTELUS"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "MÉTROPOLIS 1"
+  },
+  {
+    "artists": "Gayance (QC/PT), Kyle Hall (US), Loidis (US), Martyn Bootyspoon (CA/QC)",
+    "link": "https://montreal.mutek.org/en/shows/2025/nocturne-3",
+    "showtimes": [
+      {
+        "datetime": "2025-08-22 22:30:00",
+        "venue": "Société des arts technologiques [SAT]"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "NOCTURNE 3"
+  },
+  {
+    "artists": "Baby Volcano (GT/CH), Lisa Pulsatilla (AT/QC), RICO X PARIA Ensemble (CO/QC+CO)",
+    "link": "https://montreal.mutek.org/en/shows/2025/experience-5",
+    "showtimes": [
+      {
+        "datetime": "2025-08-23 17:00:00",
+        "venue": "Esplanade Tranquille"
+      }
+    ],
+    "ticket_status": "free",
+    "title": "EXPÉRIENCE 5"
+  },
+  {
+    "artists": "Shackleton & Wacław Zimpel ft. Siddhartha Belmannu (UK+PL+IN), Ash Fure (US), Alexis Langevin-Tétrault (CA/QC)",
+    "link": "https://montreal.mutek.org/en/shows/2025/a-visions-2",
+    "showtimes": [
+      {
+        "datetime": "2025-08-23 18:15:00",
+        "venue": "Théatre Maisonneuve de la Place des Arts"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "A/VISIONS 2"
+  },
+  {
+    "artists": "Satoshi Tomiie (JP), Nicola Cruz (EC), Hodge (UK), Cassy (UK/AT), RAMZi (CA/QC)",
+    "link": "https://montreal.mutek.org/en/shows/2025/metropolis-2",
+    "showtimes": [
+      {
+        "datetime": "2025-08-23 22:00:00",
+        "venue": "MTELUS"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "MÉTROPOLIS 2"
+  },
+  {
+    "artists": "NikNak (UK), Ma Sha (US), i+eo (PH/CA+CA), Slikback (KE/PL)",
+    "link": "https://montreal.mutek.org/en/shows/2025/nocturne-4",
+    "showtimes": [
+      {
+        "datetime": "2025-08-23 22:30:00",
+        "venue": "Société des arts technologiques [SAT]"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "NOCTURNE 4"
+  },
+  {
+    "artists": "Priori (CA/QC), Nick León (us), Ciel (CA)",
+    "link": "https://montreal.mutek.org/en/shows/2025/piknic-electronik-mtl-11",
+    "showtimes": [
+      {
+        "datetime": "2025-08-24 14:00:00",
+        "venue": "Parc Jean-Drapeau"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "Piknic Electronik MTL #11"
+  },
+  {
+    "artists": "Florence-Delphine Roux (CA/QC), Safia Nihil (CA/QC), TUSH (CA)",
+    "link": "https://montreal.mutek.org/en/shows/2025/experience-6",
+    "showtimes": [
+      {
+        "datetime": "2025-08-24 17:00:00",
+        "venue": "Esplanade Tranquille"
+      }
+    ],
+    "ticket_status": "free",
+    "title": "EXPÉRIENCE 6"
+  },
+  {
+    "artists": "aria (CA), Sabrina Ratté & Roger Tellier-Craig (CA/QC), Shackleton (UK), Topdown Dialectic (US)",
+    "link": "https://montreal.mutek.org/en/shows/2025/nocturne-5",
+    "showtimes": [
+      {
+        "datetime": "2025-08-24 22:30:00",
+        "venue": "Société des arts technologiques [SAT]"
+      }
+    ],
+    "ticket_status": "ticketed",
+    "title": "NOCTURNE 5"
+  }
+]

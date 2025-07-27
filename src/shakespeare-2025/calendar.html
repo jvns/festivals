@@ -1,0 +1,21 @@
+{% extends 'calendar-base.html' %}
+
+{% block title %}Shakespeare in the Park 2025{% endblock %}
+
+{% block header %}
+<header>
+    <h1>Shakespeare in the Park 2025</h1>
+    <h2>The Importance of being Earnest</h2>
+    <a href="https://www.repercussiontheatre.com/summer-tour-2025/">Official Site</a>
+</header>
+{% endblock %}
+
+{% block event_content %}
+<article class="card">
+    <time>{{event.time}}</time>
+    <div>
+        <div class="park">{{event.park}}</div>
+        <div class="city">{{event.city}} </div>
+    </div>
+</article>
+{% endblock %}

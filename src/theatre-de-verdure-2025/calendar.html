@@ -1,0 +1,18 @@
+{% extends 'calendar-base.html' %}
+
+{% block title %}Théâtre de Verdure 2025{% endblock %}
+
+{% block header %}
+<header>
+    <h1>Théâtre de Verdure 2025</h1>
+    <h2>Parc La Fontaine</h2>
+    <a href="https://montreal.ca/lieux/theatre-de-verdure">Official Site</a>
+</header>
+{% endblock %}
+
+{% block event_content %}
+<article class="card">
+    <time>{{ event.time }}</time>
+    <a href="{{ event.link }}">{{ event.title }}</a>
+</article>
+{% endblock %}

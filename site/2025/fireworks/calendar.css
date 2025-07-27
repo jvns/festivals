@@ -1,0 +1,14 @@
+:root {
+  --light-red: #ffeaea;
+  --dark-red: #8b0000;
+}
+
+header a {
+  background-color: var(--dark-red);
+  color: white;
+}
+
+article {
+  background-color: #f2f2f2;
+  border-left-color: black;
+}

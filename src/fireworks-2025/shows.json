@@ -1,0 +1,74 @@
+[
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/viva-latino",
+    "showtimes": [
+      {
+        "datetime": "2025-06-26 22:00:00"
+      }
+    ],
+    "title": "Viva Latino"
+  },
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/italy",
+    "showtimes": [
+      {
+        "datetime": "2025-07-03 22:00:00"
+      }
+    ],
+    "title": "Italy"
+  },
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/japan",
+    "showtimes": [
+      {
+        "datetime": "2025-07-06 22:00:00"
+      }
+    ],
+    "title": "Japan"
+  },
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/canada",
+    "showtimes": [
+      {
+        "datetime": "2025-07-10 22:00:00"
+      }
+    ],
+    "title": "Canada"
+  },
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/switzerland",
+    "showtimes": [
+      {
+        "datetime": "2025-07-17 22:00:00"
+      }
+    ],
+    "title": "Switzerland"
+  },
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/united-states-of-america",
+    "showtimes": [
+      {
+        "datetime": "2025-07-24 22:00:00"
+      }
+    ],
+    "title": "United States of America"
+  },
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/france",
+    "showtimes": [
+      {
+        "datetime": "2025-07-27 22:00:00"
+      }
+    ],
+    "title": "France"
+  },
+  {
+    "link": "https://www.sixflags.com/larondeen/linternational-des-feux/program/tribute-to-taylor-swift",
+    "showtimes": [
+      {
+        "datetime": "2025-07-31 22:00:00"
+      }
+    ],
+    "title": "Tribute to Taylor Swift"
+  }
+]

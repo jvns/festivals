@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="/2025/calendar-base.css">
+    <link rel="stylesheet" href="calendar.css">
+</head>
+<body>
+    <nav class="site-nav">
+        <a href="/">julia's montreal festival site</a>
+        <ul>
+            <li><a href="/2025/fringe">Fringe</a></li>
+            <li><a href="/2025/fireworks">Fireworks</a></li>
+            <li><a href="/2025/theatre-de-verdure">Theatre de Verdure</a></li>
+            <li><a href="/2025/fantasia">Fantasia</a></li>
+            <li><a href="/2025/shakespeare">Shakespeare</a></li>
+            <li><a href="/2025/mutek">MUTEK</a></li>
+            <li><a href="/2025/nuits-d-afrique">Nuits d'Afrique</a></li>
+            <li><a href="/2025/haiti-en-folie">Haïti en Folie</a></li>
+        </ul>
+    </nav>
+
+<script>
+function opendialog(event) {
+    const dialog = event.target.nextElementSibling;
+    dialog.showModal();
+
+    const closeButton = dialog.querySelector('button');
+    closeButton.onclick = () => dialog.close();
+
+    // Close dialog when clicking on backdrop
+    dialog.addEventListener('click', (event) => {
+        if (event.target === dialog) {
+            dialog.close();
+        }
+    });
+}
+</script>
+    
+    {% block header %}{% endblock %}
+    
+    <main>
+        <div class="weekday">Mon</div>
+        <div class="weekday">Tue</div>
+        <div class="weekday">Wed</div>
+        <div class="weekday">Thu</div>
+        <div class="weekday">Fri</div>
+        <div class="weekday">Sat</div>
+        <div class="weekday">Sun</div>
+
+        {% for i in range(start_weekday) %}
+        <section></section>
+        {% endfor %}
+
+        {% for date in calendar_dates %}
+        {% set day_events = events_by_date.get(date, []) %}
+        <section{% if not day_events %} class="empty"{% endif %}>
+            <h2><span class="weekday-mobile">{{ date.strftime('%A, ') }}</span>{{ date.strftime('%B %d') }}</h2>
+            
+            {% if day_events %}
+                {% for event in day_events %}
+                {% block event_content scoped %}{% endblock %}
+                {% endfor %}
+            {% endif %}
+        </section>
+        {% endfor %}
+    </main>
+</body>
+</html>

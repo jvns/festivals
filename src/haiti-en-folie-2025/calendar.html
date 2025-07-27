@@ -1,0 +1,50 @@
+{% extends 'calendar-base.html' %}
+
+{% block title %}Haïti en Folie 2025 Calendar{% endblock %}
+
+{% block header %}
+<header>
+    <h1>Haïti en Folie 2025</h1>
+    <a href="https://montreal.haitienfolie.com/">Festival Website</a>
+</header>
+{% endblock %}
+
+{% block event_content %}
+<article class="card">
+    <time>{{ event.time }}</time>
+    <div>
+    <a href="{{ event.link }}">{{ event.title }}
+        {% if event.sub_title %}
+        - {{ event.sub_title }}
+        {% endif %}
+    </a>
+    <br><small>{{ event.venue }}</small>
+    </div>
+    <img onclick="opendialog(event)" src="/images/info.svg">
+    <dialog closed{% if event.image %} style="--image: url('{{event.image}}')"{% endif %}>
+        <p><strong>Title:</strong> {{event.title}}</p>
+        
+        {% if event.sub_title %}
+        <p><strong>Subtitle:</strong> {{ event.sub_title }}</p>
+        {% endif %}
+        
+        {% if event.subject %}
+        <p><strong>Subject:</strong> {{ event.subject }}</p>
+        {% endif %}
+        
+        {% if event.type %}
+        <p><strong>Type:</strong> {{ event.type }}</p>
+        {% endif %}
+        
+        {% if event.venue %}
+        <p><strong>Venue:</strong> {{ event.venue }}</p>
+        {% endif %}
+
+        {% if event.description %}
+        <p><strong>Description:</strong> {{event.description | safe}}</p>
+        {% endif %}
+        
+        <button>✕</button>
+    </dialog>
+</article>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends 'calendar-base.html' %}
+
+{% block title %}Mutek 2025 Calendar{% endblock %}
+
+{% block header %}
+<header>
+    <h1>MUTEK 2025</h1>
+    <a href="https://montreal.mutek.org">Official Site</a>
+</header>
+{% endblock %}
+
+{% block event_content %}
+<article class="card {{ 'free' if event.ticket_status == 'free' else 'ticketed' }}">
+    <time>{{ event.time }}</time>
+    <div>
+        <a href="{{ event.link }}">{{ event.title }}{% if event.ticket_status == 'ticketed' %} ($){% endif %}</a>
+        <br><small>{{ event.venue }}</small>
+    </div>
+</article>
+{% endblock %}

@@ -1,0 +1,23 @@
+{
+  "title": "The Biscuiteater",
+  "company": "Theatre Company Name",
+  "showtimes": [
+    {
+      "datetime": "2025-06-07 19:45:00",
+      "venue": "Main Stage"
+    },
+    {
+      "datetime": "2025-06-08 16:15:00", 
+      "venue": "Main Stage"
+    },
+    {
+      "datetime": "2025-06-10 18:00:00",
+      "venue": "Studio Theatre"
+    }
+  ],
+  "link": "https://festival.com/event/the-biscuiteater",
+  "duration": 60,
+  "description": "A hilarious comedy about...",
+  "image_url": "https://festival.com/images/biscuiteater.jpg",
+  "language": "en"
+}

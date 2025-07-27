@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>julia's montreal festival site</title>
+  <link rel="stylesheet" href="/2025/calendar-base.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>julia's montreal festival site</h1>
+  </header>
+
+
+  <p style="text-align: center">
+    Hello! This is a website with simple no-frills schedules for all of
+    Montreal festivals I want to go to.
+  </p>
+  <nav>
+    <ul>
+      <li><a href="/2025/fringe">Fringe</a></li>
+      <li><a href="/2025/fireworks">Fireworks</a></li>
+      <li><a href="/2025/theatre-de-verdure">Theatre de Verdure</a></li>
+      <li><a href="/2025/fantasia">Fantasia</a></li>
+      <li><a href="/2025/shakespeare">Shakespeare in the Park</a></li>
+      <li><a href="/2025/mutek">MUTEK</a></li>
+      <li><a href="/2025/nuits-d-afrique">Nuits d'Afrique</a></li>
+      <li><a href="/2025/haiti-en-folie">Haiti en Folie</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <div class="weekday">Mon</div>
+    <div class="weekday">Tue</div>
+    <div class="weekday">Wed</div>
+    <div class="weekday">Thu</div>
+    <div class="weekday">Fri</div>
+    <div class="weekday">Sat</div>
+    <div class="weekday">Sun</div>
+
+    {% macro render_event(event, festival_name) %}
+    <div class="event">
+      <div>
+      <time>{{ event.datetime.strftime('%H:%M') }}</time>
+      <a href="{{ event.link }}">{{ event.title }}</a>
+      {% if event.venue and event.venue != 'TBD' %}
+      <br><small>{{ event.venue }}</small>
+      {% endif %}
+      </div>
+      <a class="cal-link" target="_blank" href="{{ generate_google_calendar_link(event, festival_name) }}"><img src="/images/add-to-cal.svg"></a>
+  </div>
+    {% endmacro %}
+
+    {% for date in calendar_dates %}
+    <section style="grid-column: {{date.weekday() + 1}}">
+      <h2><time datetime="{{date.isoformat()}}">{{ date.strftime('%B %d') }}</time></h2>
+
+      {% set day_events = events_by_date.get(date, []) %}
+      {% if day_events %}
+      {% for festival_name, festival_events in day_events.items() %}
+      <article class="festival-{{ festival_name.lower().replace(' ', '-').replace('in-the-park', '') }}">
+        <h3>{{ festival_name }}</h3>
+        {% for event in festival_events[:3] %}
+        {{ render_event(event, festival_name) }}
+        {% endfor %}
+        {% if festival_events|length > 3 %}
+        <details>
+          <summary>{{ festival_events|length - 3 }} more...</summary>
+          {% for event in festival_events[3:] %}
+          {{ render_event(event, festival_name) }}
+          {% endfor %}
+        </details>
+        {% endif %}
+      </article>
+      {% endfor %}
+      {% endif %}
+    </section>
+    {% endfor %}
+  </main>
+
+  <script>
+    // Hide past days
+    const today = new Date().toISOString().split('T')[0];
+    const main = document.querySelector('main');
+    let firstVisibleColumn = null;
+    
+    document.querySelectorAll('main time[datetime]').forEach(time => {
+      const section = time.closest('section');
+      if (time.getAttribute('datetime') < today) {
+        section.style.display = 'none';
+      } else if (firstVisibleColumn === null) {
+        firstVisibleColumn = parseInt(section.style.gridColumn);
+      }
+    });
+    
+    // insert empty sections
+    for (let i = 1; i < firstVisibleColumn; i++) {
+      const emptySection = document.createElement('section');
+      main.insertBefore(emptySection, main.querySelector('section:not(.weekday)'));
+    }
+  </script>
+
+</body>
+
+</html>

@@ -1,10 +1,7 @@
 # festivals.jvns.ca
 
-This repository has:
-
-* a static HTML site in `site/`, deployed to https://festivals.jvns.ca
-* a bunch of Python scripts that scrape Montreal festival websites to generate
-  the site in `src/`
+This repository has a bunch of Python scripts that scrape Montreal festival
+websites to generate a static HTML site.
 
 ## building
 

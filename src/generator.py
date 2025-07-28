@@ -1,5 +1,6 @@
 import json
 import os
+import shutil
 from datetime import datetime, timedelta
 from pathlib import Path
 from collections import defaultdict
@@ -47,6 +48,42 @@ def load_shows(shows_json_path):
     return events_by_date
 
 
+def copy_static_assets():
+    """Copy static assets from src/static to site/"""
+    static_dir = Path("src/static")
+    site_dir = Path("site")
+    
+    if static_dir.exists():
+        # Copy images
+        if (static_dir / "images").exists():
+            os.makedirs(site_dir / "images", exist_ok=True)
+            shutil.copytree(static_dir / "images", site_dir / "images", dirs_exist_ok=True)
+        
+        # Copy 2025 static files
+        if (static_dir / "2025").exists():
+            os.makedirs(site_dir / "2025", exist_ok=True)
+            for file in (static_dir / "2025").glob("*"):
+                if file.is_file():
+                    if file.name == "style.css":
+                        # Main page style.css goes to site root
+                        shutil.copy2(file, site_dir / "style.css")
+                    else:
+                        # Other files like calendar-base.css go to site/2025/
+                        shutil.copy2(file, site_dir / "2025" / file.name)
+
+
+def copy_festival_assets(festival_src_dir, festival_output_dir):
+    """Copy festival-specific CSS and other assets"""
+    festival_path = Path(festival_src_dir)
+    output_path = Path(festival_output_dir)
+    
+    # Copy calendar.css if it exists
+    css_file = festival_path / "calendar.css"
+    if css_file.exists():
+        os.makedirs(output_path, exist_ok=True)
+        shutil.copy2(css_file, output_path / "calendar.css")
+
+
 def render_calendar(calendar_html_path, shows_json_path, output_dir):
     # Load and organize shows
     events_by_date = load_shows(shows_json_path)
@@ -82,6 +119,10 @@ def render_calendar(calendar_html_path, shows_json_path, output_dir):
 
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(html)
+
+    # Copy festival-specific assets
+    festival_src_dir = template_path.parent
+    copy_festival_assets(festival_src_dir, output_dir)
 
     total_events = sum(len(events) for events in events_by_date.values())
     print(

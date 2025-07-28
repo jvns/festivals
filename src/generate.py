@@ -2,7 +2,7 @@ from collections import defaultdict
 from datetime import timedelta
 from urllib.parse import quote
 from jinja2 import Template
-from src.generator import build_date_range, load_shows
+from src.generator import build_date_range, load_shows, copy_static_assets
 
 FESTIVALS = [
     {"path": "src/fantasia-2025/shows.json", "name": "Fantasia"},
@@ -81,6 +81,10 @@ def generate_html():
 
 
 if __name__ == "__main__":
+    # Copy static assets first
+    copy_static_assets()
+    
+    # Generate main page HTML
     html = generate_html()
     with open("site/index.html", "w", encoding="utf-8") as f:
         f.write(html)

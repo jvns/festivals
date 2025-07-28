@@ -1,4 +1,4 @@
 set -euo pipefail
 export PYTHONPATH=.
-source scripts/scrape.sh
+pip install -r requirements.txt
 source scripts/generate.sh

@@ -2,7 +2,7 @@
 Fetch Wild Pride program data from the website and convert to fringe format
 """
 
-import json
+import re
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urljoin
@@ -13,7 +13,6 @@ from dateutil import parser
 from src.cache import HTTPCache
 import src.showlib as showlib
 from src.showlib import Show, Showtime
-
 
 def get_shows():
     cache = HTTPCache()
@@ -40,49 +39,37 @@ def get_shows():
         link_elem = h3.find('a')
         title_text = h3.get_text()
         
-        if link_elem:
-            link = urljoin(url, link_elem['href'])
-            title = link_elem.get_text().strip()
-        else:
-            link = ""
-            title = title_text.split(' by ')[0].strip()
-            
+        link = urljoin(url, link_elem['href'])
+        title = link_elem.get_text().strip()
+
+        # Extract organizer from text after the link in h3
+        organizer = ""
+        for sibling in link_elem.next_siblings:
+            if hasattr(sibling, 'strip'):
+                organizer += sibling.strip()
+        organizer = re.sub(r'^\s*by\s+', '', organizer)
+
         details = div.get_text().strip().split('\n')
-        details = [d.strip() for d in details if d.strip()]
-        
-        date_time = details[0] if len(details) > 0 else ""
-        location = details[1] if len(details) > 1 else ""
-        audience = details[2] if len(details) > 2 else ""
-        price = details[3] if len(details) > 3 else ""
-        
+        date_text, location, audience, price = [d.strip() for d in details]
         try:
-            import re
-            # Extract start time from ranges like "19h to 22h" or "from 19h to 22h"
-            time_range = re.search(r'(?:from\s+)?(\d{1,2})h(?:\d{2})?\s+to\s+\d{1,2}h', date_time)
-            if time_range:
-                start_hour = int(time_range.group(1))
-                date_part = re.search(r'(July|August)\s+\d{1,2}', date_time)
-                if date_part:
-                    dt = parser.parse(f"{date_part.group(0)} {start_hour}:00", fuzzy=True)
-                else:
-                    dt = datetime(2025, 8, 1, start_hour, 0)
-            else:
-                dt = parser.parse(date_time, fuzzy=True)
-        except:
-            dt = datetime(2025, 8, 1, 12, 0)
-            
-        show = Show(
-            title=title,
-            showtimes=[Showtime(dt)],
-            link=link,
-            extra={
+            dt = parser.parse(date_text)
+
+            extra_fields = {
                 "location": location,
                 "audience": audience,
                 "price": price,
-                "image": ""
+                "image": "",
+                "organizer": organizer,
             }
-        )
-        shows.append(show)
+            show = Show(
+                title=title,
+                showtimes=[Showtime(dt)],
+                link=link,
+                extra=extra_fields
+            )
+            shows.append(show)
+        except:
+            pass
 
     return shows
 

@@ -4,6 +4,7 @@
     "image": "",
     "link": "https://wildpride.ca/en/dates/opening/",
     "location": "Square Saint-Louis",
+    "organizer": "Tealy Ka’senni:saks Normandin",
     "price": "Free",
     "showtimes": [
       {
@@ -15,177 +16,9 @@
   {
     "audience": "For all",
     "image": "",
-    "link": "https://wildpride.ca/en/dates/crush-flash-week/",
-    "location": "CRUSH Studio (4529 Clark, Studio 205a)",
-    "price": "Message artist for pricing",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 12:00:00"
-      }
-    ],
-    "title": "Crush Flash Week"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/convergent-conversations/",
-    "location": "Teesri Duniya Theatre",
-    "price": "PWYC",
-    "showtimes": [
-      {
-        "datetime": "2025-07-31 19:00:00"
-      }
-    ],
-    "title": "Convergent Conversations"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/spurs/",
-    "location": "Toscadura (4388 St Laurent Blvd, Montreal)",
-    "price": "$10 or PWYC",
-    "showtimes": [
-      {
-        "datetime": "2025-07-31 19:00:00"
-      }
-    ],
-    "title": "SPURS Night"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/launch/",
-    "location": "Ping Pong Club",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-07-31 20:00:00"
-      }
-    ],
-    "title": "Launch Party - Intifada on the Dance Floor"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/play-reading/",
-    "location": "Teesri Duniya Theatre",
-    "price": "Tickets starting at $7",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 12:00:00"
-      }
-    ],
-    "title": "Play Production, Regarding Antigone"
-  },
-  {
-    "audience": "For all Queer adults",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/boxing-class/",
-    "location": "Pelea Boxing Club (8400 Blvd Saint-Laurent, #307)",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 12:00:00"
-      }
-    ],
-    "title": "Boxing Class"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/dancing-djinn/",
-    "location": "Cafe Cleopatre (1230 St Laurent Blvd)",
-    "price": "from $35",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 20:00:00"
-      }
-    ],
-    "title": "Cabaret The Dancing DJinn"
-  },
-  {
-    "audience": "For queer youth, aged 14 to 30",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/youth-activities/",
-    "location": "L'Asterisk",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 16:00:00"
-      }
-    ],
-    "title": "Youth Activities"
-  },
-  {
-    "audience": "For BIPOCs",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/erotic-grief-ritual/",
-    "location": "Brique par Brique",
-    "price": "Tiered pricing from $1 to $25",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 17:00:00"
-      }
-    ],
-    "title": "Erotic Grief Ritual"
-  },
-  {
-    "audience": "For queers",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/improv/",
-    "location": "Teesri Duniya Theatre",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-02 12:00:00"
-      }
-    ],
-    "title": "Queer Improv Workshop"
-  },
-  {
-    "audience": "For queer people",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/outrun/",
-    "location": "Lafontaine Park",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-02 09:45:00"
-      }
-    ],
-    "title": "Running Club"
-  },
-  {
-    "audience": "For transfems",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/transfem-board-game/",
-    "location": "l'Euguelionne",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-03 17:00:00"
-      }
-    ],
-    "title": "Transfem Board Game Night"
-  },
-  {
-    "audience": "For queers",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/pilates/",
-    "location": "Moving Just Fine Studio (642 rue de Courcelle #305)",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 12:00:00"
-      }
-    ],
-    "title": "Pilates"
-  },
-  {
-    "audience": "For all",
-    "image": "",
     "link": "https://wildpride.ca/en/dates/video-game-panel/",
     "location": "Batiment 7 (1900 Rue le Ber)",
+    "organizer": "Press Start Co-op",
     "price": "PWYC",
     "showtimes": [
       {
@@ -195,23 +28,11 @@
     "title": "Queer Gaming Panel"
   },
   {
-    "audience": "For queer people",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/queer-skate-jam/",
-    "location": "Ahuntsic skate park",
-    "price": "Accepting donations for QPIRG Concordia",
-    "showtimes": [
-      {
-        "datetime": "2025-08-02 10:00:00"
-      }
-    ],
-    "title": "Queer Skate Jam"
-  },
-  {
     "audience": "Queer & trans people",
     "image": "",
     "link": "https://wildpride.ca/en/dates/yoga/",
     "location": "Mouvement Imparfait Studio (3320 rue Ontario Est)",
+    "organizer": "Mouvement Imparfait",
     "price": "$5",
     "showtimes": [
       {
@@ -221,49 +42,11 @@
     "title": "Accessible Yoga Class (Fr)"
   },
   {
-    "audience": "For BIPOC queer and trans people",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/clay-day/",
-    "location": "Studio 3 Tables (4710 rue St-Ambroise, local 348)",
-    "price": "PWYC",
-    "showtimes": [
-      {
-        "datetime": "2025-08-02 19:00:00"
-      }
-    ],
-    "title": "Clay Play"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/karaoke/",
-    "location": "BMP Co-op",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-02 21:00:00"
-      }
-    ],
-    "title": "Karaoke & Sign Painting"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/frky/",
-    "location": "Ctrllab (3634 St Laurent Blvd)",
-    "price": "From $10",
-    "showtimes": [
-      {
-        "datetime": "2025-08-02 22:00:00"
-      }
-    ],
-    "title": "FRKY x Wild Pride"
-  },
-  {
     "audience": "For lesbo-queer community, trans-friendly",
     "image": "",
     "link": "https://wildpride.ca/en/dates/picnic-for-palestine/",
     "location": "Laurier park",
+    "organizer": "Collectif Laurier–Sainte-Marie pour la Palestine",
     "price": "Free",
     "showtimes": [
       {
@@ -273,88 +56,11 @@
     "title": "Picnic for Palestine"
   },
   {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/plantain-and-rice-cookout/",
-    "location": "Brique par Brique (633 av. Beaumont)",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-03 15:00:00"
-      }
-    ],
-    "title": "Plantain & Rice Market & Cookout"
-  },
-  {
-    "audience": "For families",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/storytime-with-lubie/",
-    "location": "Librairie L’Euguélionne (1426 rue Beaudry)",
-    "price": "PWYC",
-    "showtimes": [
-      {
-        "datetime": "2025-08-03 11:00:00"
-      }
-    ],
-    "title": "Storytime with Niko Lubie"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/dosidontcha/",
-    "location": "Toscadura (4388 St-Laurent Blvd)",
-    "price": "$10",
-    "showtimes": [
-      {
-        "datetime": "2025-08-05 19:00:00"
-      }
-    ],
-    "title": "Do Si Dontcha Line Dancing"
-  },
-  {
-    "audience": "For Queers",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/infinity-movement/",
-    "location": "Infinity Studio (5957 rue de verdun)",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 12:00:00"
-      }
-    ],
-    "title": "Workout Class"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/reading-for-palestine/",
-    "location": "Bar Star Bar (4671 St Laurent Blvd)",
-    "price": "PWYC with recommended donation of $20",
-    "showtimes": [
-      {
-        "datetime": "2025-08-05 19:00:00"
-      }
-    ],
-    "title": "Solidarity reading for Palestine"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/carved-from-fire/",
-    "location": "QPIRG Concordia (2100 rue Guy,",
-    "price": "Sliding scale, $10 to $15",
-    "showtimes": [
-      {
-        "datetime": "2025-08-06 18:00:00"
-      }
-    ],
-    "title": "Carved from Fire"
-  },
-  {
     "audience": "For 18 plus",
     "image": "",
     "link": "https://wildpride.ca/en/dates/deboutes-stand-up/",
     "location": "Bar Social Verdun",
+    "organizer": "Collective Debout.tes",
     "price": "PWYC",
     "showtimes": [
       {
@@ -364,62 +70,11 @@
     "title": "Debout.tes Stand-up"
   },
   {
-    "audience": "Trans people & loved ones",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/trans-legal-clinic/",
-    "location": "L'Asterisk",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-06 16:00:00"
-      }
-    ],
-    "title": "Trans Legal Clinic"
-  },
-  {
-    "audience": "QTBIPOC centered, but open to all respectful guests",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/lotus-blanc/",
-    "location": "Co-op BMP (3714 Avenue du Parc)",
-    "price": "PWYC from $11.43",
-    "showtimes": [
-      {
-        "datetime": "2025-08-07 20:30:00"
-      }
-    ],
-    "title": "Le Lotus Blanc"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/murmurs/",
-    "location": "MaBrasserie (2300 rue Holt)",
-    "price": "Sliding scale from $18 to $30",
-    "showtimes": [
-      {
-        "datetime": "2025-08-01 18:00:00"
-      }
-    ],
-    "title": "Murmures et Melodies (Fr)"
-  },
-  {
-    "audience": "For queer BIPOCs",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/screenprinting/",
-    "location": "Brique par Brique (633 Beaumont Ave)",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-07 17:00:00"
-      }
-    ],
-    "title": "Screenprinting & Animation Workshop"
-  },
-  {
     "audience": "For all",
     "image": "",
     "link": "https://wildpride.ca/en/dates/cabaret/",
     "location": "Bar le Ritz",
+    "organizer": "Alterheros & PACQ",
     "price": "PWYC",
     "showtimes": [
       {
@@ -429,49 +84,11 @@
     "title": "Cabaret Show"
   },
   {
-    "audience": "All",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/community-day/",
-    "location": "Teesri Duniya Theatre",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-08 10:00:00"
-      }
-    ],
-    "title": "Community Day"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/day-party/",
-    "location": "Brique par Brique",
-    "price": "PWYC",
-    "showtimes": [
-      {
-        "datetime": "2025-08-08 15:00:00"
-      }
-    ],
-    "title": "Variety Show & Crip Rave"
-  },
-  {
-    "audience": "18 plus",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/discono/",
-    "location": "SAT Montreal",
-    "price": "Ticketed",
-    "showtimes": [
-      {
-        "datetime": "2025-08-08 22:00:00"
-      }
-    ],
-    "title": "Discono Club"
-  },
-  {
     "audience": "For all",
     "image": "",
     "link": "https://wildpride.ca/en/dates/shabbat-dinner/",
     "location": "Parc Charlevoix (2700 rue Rufus-Rockhead)",
+    "organizer": "Helem Montreal & IJV",
     "price": "Free",
     "showtimes": [
       {
@@ -481,88 +98,11 @@
     "title": "Shabbat Dinner"
   },
   {
-    "audience": "For trans migrants",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/trans-care-day/",
-    "location": "Register to find out",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-08 00:00:00"
-      }
-    ],
-    "title": "Trans care day"
-  },
-  {
-    "audience": "For sapphics, 18 plus",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/virtualis/",
-    "location": "Cinema l'Amour",
-    "price": "Ticketed",
-    "showtimes": [
-      {
-        "datetime": "2025-08-08 21:00:00"
-      }
-    ],
-    "title": "Sapphic Rave"
-  },
-  {
-    "audience": "For Black Queer folks",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/dancing-freedom/",
-    "location": "Black Healing Centre (2100 av. de Marlowe, suite 449)",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-09 13:00:00"
-      }
-    ],
-    "title": "Dancing Freedom"
-  },
-  {
-    "audience": "For lesbo-queer community, trans-friendly",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/lesboqueer-picnic/",
-    "location": "Mederic-Martin park",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-09 13:00:00"
-      }
-    ],
-    "title": "Lesbo-Queer Picnic"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/physical-theatre/",
-    "location": "Teesri Duniya Theatre, outside gardin",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-09 14:00:00"
-      }
-    ],
-    "title": "Physical Theatre Community Workshop"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/queer-market/",
-    "location": "151 Ontario St E",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-09 14:00:00"
-      }
-    ],
-    "title": "Queer Market"
-  },
-  {
     "audience": "All",
     "image": "",
     "link": "https://wildpride.ca/en/dates/march/",
     "location": "Place des Arts",
+    "organizer": "Wild Pride",
     "price": "Free",
     "showtimes": [
       {
@@ -576,6 +116,7 @@
     "image": "",
     "link": "https://wildpride.ca/en/dates/art-and-poetry-night/",
     "location": "Black Healing Centre",
+    "organizer": "Rainbow Spice Collective",
     "price": "PWYC",
     "showtimes": [
       {
@@ -585,140 +126,11 @@
     "title": "Intersectional Art & Poetry Night"
   },
   {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/magic-and-movement/",
-    "location": "Brique par Brique",
-    "price": "PWYC",
-    "showtimes": [
-      {
-        "datetime": "2025-08-13 17:00:00"
-      }
-    ],
-    "title": "Magic & Movement"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/queer-caribbean-bbq/",
-    "location": "UNIA Hall",
-    "price": "$7",
-    "showtimes": [
-      {
-        "datetime": "2025-08-13 17:00:00"
-      }
-    ],
-    "title": "Le Rhum Shoppe, Queer Caribbean BBQ (Fr)"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/zone-out-contest/",
-    "location": "Parc Jarry",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-13 17:00:00"
-      }
-    ],
-    "title": "Zone Out Contest"
-  },
-  {
-    "audience": "For Black folks",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/conflict/",
-    "location": "Black Healing Centre",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-14 20:00:00"
-      }
-    ],
-    "title": "Conflict Resolution Panel"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/burlesque-wild-pride/",
-    "location": "Espace Tapage, Batiment 7 (1900 rue le Ber)",
-    "price": "Ticketed at sliding scale from $10",
-    "showtimes": [
-      {
-        "datetime": "2025-08-15 20:00:00"
-      }
-    ],
-    "title": "Juice Me - Burlesque"
-  },
-  {
-    "audience": "For sex workers, allies & those interested in sex work",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/queering-sex-work/",
-    "location": "l'Euguelionne (1462 rue Beaudry)",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-15 17:00:00"
-      }
-    ],
-    "title": "Queering Sex Work"
-  },
-  {
-    "audience": "All",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/messy/",
-    "location": "Bain Mathieu",
-    "price": "Ticketed",
-    "showtimes": [
-      {
-        "datetime": "2025-08-16 23:00:00"
-      }
-    ],
-    "title": "Messy Party Night"
-  },
-  {
-    "audience": "For all, Black folks centered",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/queer-legacy-kiki-ball/",
-    "location": "Ausgang Plaza",
-    "price": "Free for Black folks, sliding scale for others",
-    "showtimes": [
-      {
-        "datetime": "2025-08-16 20:00:00"
-      }
-    ],
-    "title": "Queer Legacy Kiki Ball - Ballroom"
-  },
-  {
-    "audience": "For all",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/party/",
-    "location": "La Sala Rossa",
-    "price": "Ticketed",
-    "showtimes": [
-      {
-        "datetime": "2025-08-17 00:00:00"
-      }
-    ],
-    "title": "Closing Party - Featuring Habibitch"
-  },
-  {
-    "audience": "For Trans people & loved ones",
-    "image": "",
-    "link": "https://wildpride.ca/en/dates/trans-swim/",
-    "location": "Piscine Quintal",
-    "price": "Free",
-    "showtimes": [
-      {
-        "datetime": "2025-08-17 15:00:00"
-      }
-    ],
-    "title": "Swimming for trans families"
-  },
-  {
     "audience": "For all, QTBIPOC centered",
     "image": "",
     "link": "https://wildpride.ca/en/dates/abolitionist-meditation/",
     "location": "Black Healing Centre",
+    "organizer": "L'Asterisk",
     "price": "Free",
     "showtimes": [
       {
@@ -732,6 +144,7 @@
     "image": "",
     "link": "https://wildpride.ca/en/dates/closing-ceremony/",
     "location": "Square Saint-Louis",
+    "organizer": "Tealy Ka'Senni:Saks Normandin",
     "price": "Free",
     "showtimes": [
       {

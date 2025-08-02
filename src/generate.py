@@ -24,6 +24,7 @@ FESTIVALS = [
         "path": "src/haiti-en-folie-2025/shows.json",
         "name": "Haïti en Folie",
     },
+    {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride"},
 ]
 
 

@@ -26,6 +26,16 @@ class Showtime:
             result.update(self.extra)
         return result
 
+    def __repr__(self):
+        from pprint import pformat
+        return pformat(vars(self))
+
+    def __eq__(self, other):
+        if not isinstance(other, Showtime):
+            return False
+        return (self.datetime == other.datetime and
+                self.venue == other.venue and
+                self.extra == other.extra)
 
 class Show:
     def __init__(

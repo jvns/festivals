@@ -12,7 +12,12 @@
 {% block event_content %}
 <article class="card">
     <time>{{ event.time }}</time>
-    <a href="{{ event.link }}">{{ event.title }}</a>
+    <div>
+        <a href="{{ event.link }}">{{ event.title }}</a>
+        {% if event.venue %}
+        <br><small>{{ event.venue }}</small>
+        {% endif %}
+    </div>
     <img onclick="opendialog(event)" src="/images/info.svg">
     <dialog closed style="--image: url('{{event.image}}')">
     <p><strong>Title:</strong> {{event.title}}</p>

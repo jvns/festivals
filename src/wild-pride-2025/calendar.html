@@ -21,8 +21,11 @@
     <img onclick="opendialog(event)" src="/images/info.svg">
     <dialog closed style="--image: url('{{event.image}}')">
     <p><strong>Title:</strong> {{event.title}}</p>
-    {% if event.organizer %}
+    {% if event.description %}
     <p><strong>Organizer:</strong> {{ event.organizer }}</p>
+    {% endif %}
+    {% if event.description %}
+    <p><strong>Description:</strong> {{ event.description }}</p>
     {% endif %}
     <p><strong>Date:</strong> {{ date.strftime('%B %d, %Y') }}</p>
     <p><strong>Start time:</strong> {{ event.time }}</p>

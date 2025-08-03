@@ -3,10 +3,10 @@ Fetch Wild Pride program data from the website and convert to fringe format
 """
 
 import re
-from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
+from concurrent.futures import ThreadPoolExecutor
 
 from bs4 import BeautifulSoup
 
@@ -69,7 +69,26 @@ def get_shows():
             )
             shows.append(show)
 
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        shows = list(executor.map(lambda s: fetch_description(cache, s), shows))
+
     return shows
+
+def fetch_description(cache, show):
+    content = cache.fetch(show.link, timeout=10)
+    content = content.encode('latin-1').decode('utf-8')
+    soup = BeautifulSoup(content, "html.parser")
+
+    event = soup.find(class_="flex-event")
+    if event:
+        event.find(class_="cal-event-highlights").extract()
+        show.extra['description'] = event.get_text().strip()
+
+    poster = soup.find(class_="poster")
+    if poster:
+        show.extra['image'] = urljoin(show.link, poster.find("img")["src"])
+
+    return show
 
 def parse_time(time_str):
     if time_str == 'midnight':

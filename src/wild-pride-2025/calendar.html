@@ -21,6 +21,9 @@
     {% endif %}
     <p><strong>Date:</strong> {{ date.strftime('%B %d, %Y') }}</p>
     <p><strong>Start time:</strong> {{ event.time }}</p>
+    {% if event.end_time %}
+    <p><strong>End time:</strong> {{ event.end_time }}</p>
+    {% endif %}
     {% if event.location %}
     <p><strong>Location:</strong> {{ event.location }}</p>
     {% endif %}

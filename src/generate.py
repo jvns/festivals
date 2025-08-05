@@ -24,6 +24,10 @@ FESTIVALS = [
         "path": "src/haiti-en-folie-2025/shows.json",
         "name": "Haïti en Folie",
     },
+    {
+        "path": "src/presence-autochtone-2025/shows.json",
+        "name": "Présence Autochtone",
+    },
 ]
 
 

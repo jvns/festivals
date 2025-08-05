@@ -1,9 +1,11 @@
 from datetime import datetime
 from pathlib import Path
 import re
+from concurrent.futures import ThreadPoolExecutor
 
 from bs4 import BeautifulSoup
 from dateutil import parser
+from html_sanitizer.sanitizer import Sanitizer
 
 from src.cache import HTTPCache
 import src.showlib as showlib
@@ -40,11 +42,12 @@ def get_shows():
         show = Show(title=title, showtimes=showtimes, link=url, extra={})
         shows.append(show)
 
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        shows = list(executor.map(lambda s: fetch_description(cache, s), shows))
     return shows
 
 def parse_dates(date_text):
     results = []
-    print(date_text)
     day, times = re.search(r"(August\s+\d+), (.*)",
                           date_text, flags=re.I).groups()
     times = re.split(r"\s*(?:&|and|,)\s*", times, flags=re.I)
@@ -54,8 +57,23 @@ def parse_dates(date_text):
         time = re.sub(r"pm pm", "pm", time) # silly typo
         results.append(parser.parse(f"{day} {time}"))
 
-    print(results)
     return results
+
+def fetch_description(cache, show):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0"
+    }
+    content = cache.fetch(show.link, headers=headers, timeout=10)
+    soup = BeautifulSoup(content, "html.parser")
+
+    if (text_wrapper := soup.find(class_="uk-text")):
+        show.extra["description"] = Sanitizer().sanitize(text_wrapper.decode_contents())
+
+    if (cover_wrapper := soup.find(class_="uk-cover-container")):
+        if (cover_img := cover_wrapper.find("img")):
+            show.extra["image"] = cover_img["data-src"]
+
+    return show
 
 def main():
     shows = get_shows()

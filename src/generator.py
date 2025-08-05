@@ -85,11 +85,17 @@ def copy_festival_assets(festival_src_dir, festival_output_dir):
 
 
 def render_calendar(calendar_html_path, shows_json_path, output_dir):
+    # Import here to avoid circular imports
+    from src.generate import get_festivals_metadata
+    
     # Load and organize shows
     events_by_date = load_shows(shows_json_path)
 
     # Generate calendar date range from the events
     calendar_dates = build_date_range(events_by_date)
+    
+    # Get festivals metadata for navigation
+    festivals_metadata = get_festivals_metadata()
 
     # Set up Jinja2 template rendering
     template_path = Path(calendar_html_path)
@@ -109,6 +115,7 @@ def render_calendar(calendar_html_path, shows_json_path, output_dir):
         events_by_date=events_by_date,
         calendar_dates=calendar_dates,
         start_weekday=calendar_dates[0].weekday(),
+        festivals_metadata=festivals_metadata,
     )
     soup = BeautifulSoup(html, "html.parser")
     html = soup.prettify()

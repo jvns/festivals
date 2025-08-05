@@ -55,6 +55,45 @@ def generate_google_calendar_link(event, festival_name):
     return url
 
 
+def get_festival_date_range(festival_path):
+    """Get the start and end dates for a festival from its JSON data."""
+    try:
+        events_by_date = load_shows(festival_path)
+        if not events_by_date:
+            return None, None
+        
+        dates = list(events_by_date.keys())
+        start_date = min(dates)
+        end_date = max(dates)
+        return start_date, end_date
+    except (FileNotFoundError, json.JSONDecodeError):
+        return None, None
+
+
+def get_festivals_metadata():
+    """Get metadata for all festivals including date ranges."""
+    festivals_metadata = []
+    
+    for festival_config in FESTIVALS:
+        start_date, end_date = get_festival_date_range(festival_config["path"])
+        
+        # Create URL slug from festival name
+        slug = festival_config["name"].lower().replace(' ', '-').replace("'", '').replace('ï', 'i').replace('é', 'e')
+        if slug == "shakespeare-in-the-park":
+            slug = "shakespeare"
+        
+        metadata = {
+            "name": festival_config["name"],
+            "slug": slug,
+            "start_date": start_date,
+            "end_date": end_date,
+            "path": festival_config["path"]
+        }
+        festivals_metadata.append(metadata)
+    
+    return festivals_metadata
+
+
 def load_shows_data():
     """Load all shows and group them by date and festival."""
     all_events_by_date = defaultdict(lambda: defaultdict(list))
@@ -76,11 +115,13 @@ def generate_html():
 
     events_by_date = load_shows_data()
     calendar_dates = build_date_range(events_by_date)
+    festivals_metadata = get_festivals_metadata()
 
     template = Template(template_content)
     return template.render(
         calendar_dates=calendar_dates,
         events_by_date=events_by_date,
+        festivals_metadata=festivals_metadata,
         generate_google_calendar_link=generate_google_calendar_link,
     )
 

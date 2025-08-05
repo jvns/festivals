@@ -63,10 +63,9 @@ dialog {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
   background:
-    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
     var(--image);
   background-size: cover;
-  color: white;
 }
 
 dialog::backdrop {
@@ -85,7 +84,7 @@ dialog button {
   top: 8px;
   padding: 8px;
   /* Slightly smaller for better proportion */
-  color: white;
+  color: black;
   background: transparent;
   outline: 0;
   font-size: 1.2rem;

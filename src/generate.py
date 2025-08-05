@@ -5,30 +5,35 @@ from jinja2 import Template
 from src.generator import build_date_range, load_shows, copy_static_assets
 
 FESTIVALS = [
-    {"path": "src/fantasia-2025/shows.json", "name": "Fantasia"},
+    {"path": "src/fantasia-2025/shows.json", "name": "Fantasia", "color": "#8b0000"},
     {
         "path": "src/shakespeare-2025/shows.json",
         "name": "Shakespeare in the Park",
+        "color": "#ff65c3"
     },
-    {"path": "src/mutek-2025/shows.json", "name": "MUTEK"},
+    {"path": "src/mutek-2025/shows.json", "name": "MUTEK", "color": "#ff6347"},
     {
         "path": "src/theatre-de-verdure-2025/shows.json",
         "name": "Theatre de Verdure",
+        "color": "#228b22"
     },
-    {"path": "src/fireworks-2025/shows.json", "name": "Fireworks"},
+    {"path": "src/fireworks-2025/shows.json", "name": "Fireworks", "color": "#4169e1"},
     {
         "path": "src/nuits-d-afrique-2025/shows.json",
         "name": "Nuits d'Afrique",
+        "color": "#ff8c00"
     },
     {
         "path": "src/haiti-en-folie-2025/shows.json",
         "name": "Haïti en Folie",
+        "color": "#dc143c"
     },
     {
         "path": "src/presence-autochtone-2025/shows.json",
         "name": "Présence Autochtone",
+        "color": "#fb630b"
     },
-    {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride"},
+    {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride", "color": "#fccaca"},
 ]
 
 
@@ -87,7 +92,8 @@ def get_festivals_metadata():
             "slug": slug,
             "start_date": start_date,
             "end_date": end_date,
-            "path": festival_config["path"]
+            "path": festival_config["path"],
+            "color": festival_config.get("color")
         }
         festivals_metadata.append(metadata)
     

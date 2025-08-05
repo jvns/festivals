@@ -61,7 +61,8 @@
       {% set day_events = events_by_date.get(date, []) %}
       {% if day_events %}
       {% for festival_name, festival_events in day_events.items() %}
-      <article class="festival-{{ festival_name.lower().replace(' ', '-').replace('in-the-park', '') }}">
+      {% set festival_meta = festivals_metadata | selectattr('name', 'equalto', festival_name) | first %}
+      <article {% if festival_meta and festival_meta.color %}style="--color: {{ festival_meta.color }}"{% endif %}>
         <h3>{{ festival_name }}</h3>
         {% for event in festival_events[:3] %}
         {{ render_event(event, festival_name) }}

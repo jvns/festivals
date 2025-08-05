@@ -55,35 +55,6 @@ h3 {
   display: inline-block;
 }
 
-/* Festival background colors */
-.festival-fantasia {
-  --color: #4d2283;
-}
-
-.festival-mutek {
-  --color: blue;
-}
-
-.festival-theatre-de-verdure {
-  --color: #2d5a27;
-}
-
-.festival-shakespeare- {
-  --color: #ff65c3;
-}
-
-.festival-fireworks {
-  --color: red;
-}
-
-.festival-nuits-d\'afrique {
-  --color: #ffa800;
-}
-
-.festival-haïti-en-folie {
-  --color: #ffd980;
-}
-
 main article {
   padding: 0 0.5rem;
   margin: 0.25rem 0;

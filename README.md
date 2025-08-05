@@ -76,4 +76,4 @@ Each festival has its own template (`calendar.html`) and CSS (`calendar.css`). `
 5. Update the `scripts/build.sh` build script
 6. Update the main page:
   - Add the festival to the `FESTIVALS` dict in `src/generate.py`
-  - Add a navigation link in `src/2025/calendar-base.html`
+  - Add a navigation link in `src/2025/template.html`

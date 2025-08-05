@@ -1,0 +1,938 @@
+[
+  {
+    "audience": "All",
+    "description": "You are officially invited Wild Pride’s opening this Wednesday July 30th, from 5:30 to 6:30 PM at Square Saint-Louis with Tealy Ka’senni:saks Normandin.\nJoin us in the spirit of radical queerness as we commence Wild Pride with an opening ceremony grounded in collective power and revolutionary love. This is a moment to acknowledge our relentless efforts in the last years : countless hours of grassroots organizing, community healing, militant action, and reclaiming spaces that once belonged to us.",
+    "image": "https://wildpride.ca/assets/opening.png",
+    "link": "https://wildpride.ca/en/dates/opening/",
+    "location": "Square Saint-Louis",
+    "organizer": "Tealy Ka’senni:saks Normandin",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-07-30 17:30:00",
+        "venue": "Square Saint-Louis"
+      }
+    ],
+    "title": "Opening Ceremony"
+  },
+  {
+    "audience": "For all",
+    "description": "Immigration. Queerness. Art. Living as a queer, immigrant artist on Turtle Island invites a host of bureaucracies, suspicion, and unique lived experiences. Your identity and life choices become the topic of both government and personal scrutiny.\nThe ‘Convergent Conversations’ panel invites three Queer, BIPOC immigrant artists to share their triumphs and challenges, navigating the personal, professional, and governmental circles in their lives. Join our conversation and learn more about the lived realities of these converging identities.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/convergent.png",
+    "link": "https://wildpride.ca/en/dates/convergent-conversations/",
+    "location": "Teesri Duniya Theatre",
+    "organizer": "Sarra Mirghani",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-07-31 19:00:00",
+        "end_time": "20:30",
+        "venue": "Teesri Duniya Theatre"
+      }
+    ],
+    "title": "Convergent Conversations"
+  },
+  {
+    "audience": "For all",
+    "description": "SPURS is a queer line dancing community that shares traditional steps in an inclusive context, dancing to country classics and contemporary pop. Since 2023 SPURS has been celebrating queer cowboy lineage through events in both Montreal and Toronto. Montreal SPURS is hosted by Noel Vezina, a passionate dancer and teacher who will have you effortlessly in lockstep before you know it. All are welcome to come stomp, spin and scuff their boots with SPURS!",
+    "image": "https://wildpride.ca/assets/spurs.png",
+    "link": "https://wildpride.ca/en/dates/spurs/",
+    "location": "Toscadura (4388 St Laurent Blvd, Montreal)",
+    "organizer": "SPURS",
+    "price": "$10 or PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-07-31 19:00:00",
+        "end_time": "22:00",
+        "venue": "Toscadura (4388 St Laurent Blvd, Montreal)"
+      }
+    ],
+    "title": "SPURS Night"
+  },
+  {
+    "audience": "For all",
+    "description": "Launch party to kick off Pride without compromise. Come dance, meet the community and celebrate our queer resistance.",
+    "image": "https://wildpride.ca/assets/launch.png",
+    "link": "https://wildpride.ca/en/dates/launch/",
+    "location": "Ping Pong Club",
+    "organizer": "Wild Pride",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-07-31 20:00:00",
+        "end_time": "02:00",
+        "venue": "Ping Pong Club"
+      }
+    ],
+    "title": "Launch Party - Intifada on the Dance Floor"
+  },
+  {
+    "audience": "For all",
+    "description": "Inspired by a true story, and inspired by the classic greek tragedy of Antigone, and inspired by war photography, and inspired by my weak memory, and inspired by a revolution, and inspired by state propaganda, and inspired by a song she sang, and inspired by cringe diaspora poetry, and-\nTrigger Warning: This play contains scenes of violence inflicted by others and self. Viewer discretion is advised. For more detailed information, please contact thesky.limit.theatre@gmail.com .\nRegarding Antigone was developed in part with the support of Infinithéâtre's Artist-in-Residence program, the Conseil des Arts de Montréal and the Ministry of Ecmployment and Social Solidarity.\n\nPlaywright and Performer: Banafsheh Hassani بنفشه حسنی\nDirector: Art Babayants Արտ Բաբայանց\nAsst. Director/SFX: Sarah Larmony\nStage Manager/Dramaturg: esi callender\nDesigners: Maryanna Chan (set, props, costume), Ashley Naomi Skye (sound), Asa Kohn (lights)\nProduction Manager/Outreach Coordinator: Corbeau Sandoval\nTalkback Facilitator: oli vee\nGraphic Designer: nafleri\nCare Consultants: Lyn Lan Phan (drama therapy), Mark Underwood (active listening), Peter Farbridge (ethical art practices)\n\nYou can see more on their Instagrams: TSLT and Sort Of.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/regarding-antigone.png",
+    "link": "https://wildpride.ca/en/dates/play-reading/",
+    "location": "Teesri Duniya Theatre",
+    "organizer": "The Sky is the Limit and Sort Of Production",
+    "price": "Tickets starting at $7",
+    "showtimes": [
+      {
+        "datetime": "2025-07-31 20:30:00",
+        "venue": "Teesri Duniya Theatre"
+      },
+      {
+        "datetime": "2025-08-01 20:30:00",
+        "venue": "Teesri Duniya Theatre"
+      }
+    ],
+    "title": "Play Production, Regarding Antigone"
+  },
+  {
+    "audience": "For all Queer adults",
+    "description": "For Wild Pride, we’re offering a free weekly intro to boxing and weightlifting class!\nWe have gender neutral lockers, seating for anyone needing to relax or step away momentarily and a sink to replenish water bottles. Bathrooms are outside of our space, in a common area and are unfortunately not gender neutral.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/boxing.png",
+    "link": "https://wildpride.ca/en/dates/boxing-class/",
+    "location": "Pelea Boxing Club (8400 Blvd Saint-Laurent, #307)",
+    "organizer": "Pelea Boxing Club",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-01 15:00:00",
+        "venue": "Pelea Boxing Club (8400 Blvd Saint-Laurent, #307)"
+      },
+      {
+        "datetime": "2025-08-08 15:00:00",
+        "venue": "Pelea Boxing Club (8400 Blvd Saint-Laurent, #307)"
+      },
+      {
+        "datetime": "2025-08-15 15:00:00",
+        "venue": "Pelea Boxing Club (8400 Blvd Saint-Laurent, #307)"
+      }
+    ],
+    "title": "Boxing Class"
+  },
+  {
+    "audience": "For all",
+    "description": "By popular demand, CABARET: THE DANCING DJINN returns to Montreal with a unique show to blow your minds away.\nHosted by iconic vocalist, NIKOTINE, and legendary bellydancer, SAMARA, - The Dancing Djinn is a 1.5 hour show that takes you on a journey through the desert in search of an oasis -- complete with live music, oriental dance, burlesque, jazz numbers, cabaret extravaganza, and storytelling like you've never seen before.\nThis show is an original cabaret. You are encouraged to bring your loved ones, drink, laugh and dance as you watch. You are meant to ENJOY the show with all your senses, and wear whatever you like that makes you feel special.\nThis event is perfect for friends, dates, lovers, family members - come have a special cabaret evening like no other at Monteal's iconic Cafe Cleopatre.\nTHE DANCING DJINN blends drag, original music, storytelling, and highly entertaining dance numbers.\nNOTE: Seating is first-come first-serve. Purchasing bundled tickets does not guarantee tables. Please arrive early to sit together.\nTickets do not include food or drinks. Bar available for (delicious!) drink orders.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/djinn.png",
+    "link": "https://wildpride.ca/en/dates/dancing-djinn/",
+    "location": "Cafe Cleopatre (1230 St Laurent Blvd)",
+    "organizer": "Nikotine & Samara",
+    "price": "from $35",
+    "showtimes": [
+      {
+        "datetime": "2025-08-01 20:00:00",
+        "venue": "Cafe Cleopatre (1230 St Laurent Blvd)"
+      }
+    ],
+    "title": "Cabaret The Dancing DJinn"
+  },
+  {
+    "audience": "For queer youth, aged 14 to 30",
+    "description": "Youth activities. There will be gender gear, STM tickets, and active listening.",
+    "image": "https://wildpride.ca/en/dates/youth-activities/",
+    "link": "https://wildpride.ca/en/dates/youth-activities/",
+    "location": "L'Asterisk",
+    "organizer": "Jeunesse Lambda",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-01 16:00:00",
+        "end_time": "20:00",
+        "venue": "L'Asterisk"
+      },
+      {
+        "datetime": "2025-08-08 16:00:00",
+        "end_time": "20:00",
+        "venue": "L'Asterisk"
+      },
+      {
+        "datetime": "2025-08-15 16:00:00",
+        "end_time": "20:00",
+        "venue": "L'Asterisk"
+      },
+      {
+        "datetime": "2025-08-02 12:00:00",
+        "end_time": "17:00",
+        "venue": "L'Asterisk"
+      },
+      {
+        "datetime": "2025-08-09 12:00:00",
+        "end_time": "17:00",
+        "venue": "L'Asterisk"
+      },
+      {
+        "datetime": "2025-08-05 14:00:00",
+        "end_time": "19:00",
+        "venue": "L'Asterisk"
+      }
+    ],
+    "title": "Youth Activities"
+  },
+  {
+    "audience": "For BIPOCs",
+    "description": "Within this communal portal we’ll be using Kai Cheng’s Tree of Cultural Erotic Growth as a tool for curiosity and dreaming. As we reflect on our erotic selves and the beliefs we are ready to let go of, we’ll use communal ritual to release with gratitude and the power of our collective intention. There will be journalling/doodling, sharing, movement and voice.\nThe intention of the ritual is to honour our personal grief, while co creating a container to witness one another in our losses. The invitation is to follow your pleasure and feel as good as possible in the holding.\nMay we compost what we no longer need to make space for our deepest desires\nPlease note: all of you is welcome and choosing your level of participation is encouraged. There is no right or wrong way to feel grief, no hierarchy in experiences, no fixing or advising.\nJess Lieu (she/her), a Somatic Pleasure Educator and residing in Tiohtià:ke/Mooniyang/Montreal. With a dedication to fostering bodily wisdom and joy, Jess illuminates the pathways of pleasure, desire, and consent through intimate, one-on-one explorations, bodywork and workshops. Informed by Somatic Sex Education, Energetic Ecology, BodyMind Centering and death studies, she entrusts the body as a portal to personal and collective transformation.\nPrice :\nSliding scale $1-$25\n\n See more here.",
+    "image": "https://wildpride.ca/assets/erotic-grief.png",
+    "link": "https://wildpride.ca/en/dates/erotic-grief-ritual/",
+    "location": "Brique par Brique",
+    "organizer": "Jess Lieu",
+    "price": "Tiered pricing from $1 to $25",
+    "showtimes": [
+      {
+        "datetime": "2025-08-01 17:30:00",
+        "end_time": "19:30",
+        "venue": "Brique par Brique"
+      }
+    ],
+    "title": "Erotic Grief Ritual"
+  },
+  {
+    "audience": "For queers",
+    "description": "Do you want to learn or practice improv but are tired of scenes always revolving around straight relationships and dynamics? Here is an opportunity to improvise and learn with people who want to feel more represented in their play.\nThis is an improv workshop for anyone who identifies as queer. All skill levels welcome. Please wear comfortable clothes that you can move in. Kay Komizara is a trans theatre creator who has been producing shows and directing actors since 2013.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/kay-improv.jpg",
+    "link": "https://wildpride.ca/en/dates/improv/",
+    "location": "Teesri Duniya Theatre",
+    "organizer": "Kay Komizara",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 12:00:00",
+        "end_time": "15:00",
+        "venue": "Teesri Duniya Theatre"
+      }
+    ],
+    "title": "Queer Improv Workshop"
+  },
+  {
+    "audience": "For queer people",
+    "description": "Inclusive queer run: Meet up at the bridge in Lafontaine between 9:45h and 10h for warm-up and name sharing. Then a 3.5k or 5k run or walk at your pace. All welcome.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/outrun.png",
+    "link": "https://wildpride.ca/en/dates/outrun/",
+    "location": "Lafontaine Park",
+    "organizer": "Outrun",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 09:45:00",
+        "venue": "Lafontaine Park"
+      }
+    ],
+    "title": "Running Club"
+  },
+  {
+    "audience": "For transfems",
+    "description": "For the dolls only. Let's play, chat & care.",
+    "image": "https://wildpride.ca/assets/transfem-boardgame.jpg",
+    "link": "https://wildpride.ca/en/dates/transfem-board-game/",
+    "location": "l'Euguelionne",
+    "organizer": "Kay Komizara",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-03 17:00:00",
+        "end_time": "20:00",
+        "venue": "l'Euguelionne"
+      }
+    ],
+    "title": "Transfem Board Game Night"
+  },
+  {
+    "audience": "For queers",
+    "description": "Studio Moving Just Fine is a mat and reformer pilates studio in Montreal's Sud-Ouest with a mission to chillify the wellness space and make it more inviting and welcoming to every body.\nThe building is unfortunately not wheelchair accessible. There is an elevator up to the third floor, but there are steps to get in the building.\nFolks can wear whatever they'd like to pilates, we do our classes in socks or bare feet. If folks really want to wear shoes, we ask that they be clean (not worn outdoors).\nPilates is hard but literally anybody can do it! It's a method designed to rehabilitate injuries, and we work with clients aged 18 to 95! You do not need to have a strong core or be flexible in order to participate in a class :) Come discover what it's all about!\nLinks to sign up:\nSaturday morning emo flow mat class (August 2)\nWednesday 9am reformer class (August 6)\nSaturday 10am emo flow mat class (August 9)\n\n See more here.",
+    "image": "https://wildpride.ca/assets/movingjustfine.png",
+    "link": "https://wildpride.ca/en/dates/pilates/",
+    "location": "Moving Just Fine Studio (642 rue de Courcelle #305)",
+    "organizer": "Moving Just Fine",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 10:00:00",
+        "venue": "Moving Just Fine Studio (642 rue de Courcelle #305)"
+      },
+      {
+        "datetime": "2025-08-06 09:00:00",
+        "venue": "Moving Just Fine Studio (642 rue de Courcelle #305)"
+      },
+      {
+        "datetime": "2025-08-09 10:00:00",
+        "venue": "Moving Just Fine Studio (642 rue de Courcelle #305)"
+      }
+    ],
+    "title": "Pilates"
+  },
+  {
+    "audience": "For all",
+    "description": "Press Start’s panel brings together industry professionals often in gaming spaces to discuss \"Representation, Acceptance, and Finding Community in video games\" We aim to explore underrepresented perspectives, create connections, and highlight the impact of gayming communities.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/gaming.png",
+    "link": "https://wildpride.ca/en/dates/video-game-panel/",
+    "location": "Batiment 7 (1900 Rue le Ber)",
+    "organizer": "Press Start Co-op",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 13:00:00",
+        "venue": "Batiment 7 (1900 Rue le Ber)"
+      }
+    ],
+    "title": "Queer Gaming Panel"
+  },
+  {
+    "audience": "For queer people",
+    "description": "Open skate jam for queers and youth. Beginner workshops, boards to share, protective gear recommended.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/skate.png",
+    "link": "https://wildpride.ca/en/dates/queer-skate-jam/",
+    "location": "Ahuntsic skate park",
+    "organizer": "Les Vagabonnes, M.A.R.S. & Planche Collective",
+    "price": "Accepting donations for QPIRG Concordia",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 10:00:00",
+        "end_time": "13:00",
+        "venue": "Ahuntsic skate park"
+      }
+    ],
+    "title": "Queer Skate Jam"
+  },
+  {
+    "audience": "Queer & trans people",
+    "description": "Mouvement Imparfait est un studio de yoga, pilates, barre et entraînement qui privilégie le bien-être à la performance et rassemble les imparfait.e.s désireux.ses de bouger dans la joie tout en respectant leurs propres limites. Le cours sera donné par une personne membre de la communauté LGBTQIA2+. Le cours est ouvert à toustes !\n\n See more here.",
+    "image": "https://wildpride.ca/assets/movement.png",
+    "link": "https://wildpride.ca/en/dates/yoga/",
+    "location": "Mouvement Imparfait Studio (3320 rue Ontario Est)",
+    "organizer": "Mouvement Imparfait",
+    "price": "$5",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 15:30:00",
+        "venue": "Mouvement Imparfait Studio (3320 rue Ontario Est)"
+      }
+    ],
+    "title": "Accessible Yoga Class (Fr)"
+  },
+  {
+    "audience": "For BIPOC queer and trans people",
+    "image": "",
+    "link": "https://wildpride.ca/en/dates/clay-day/",
+    "location": "Studio 3 Tables (4710 rue St-Ambroise, local 348)",
+    "organizer": "Kindred Saga & Studio 3 Tables",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 19:00:00",
+        "end_time": "20:00",
+        "venue": "Studio 3 Tables (4710 rue St-Ambroise, local 348)"
+      }
+    ],
+    "title": "Clay Play"
+  },
+  {
+    "audience": "For all",
+    "description": "PRIDE IS A PROTEST! As a part of Wild Pride Montreal this year, Queer Karaoke is maintaining our anticapitalist, trans-forward event as an option for a corporate-free, genocide-free, anticolonial Pride.\nSwing by @coopbmp on SATURDAY, AUGUST 2ND from 9 pm to 1 am for a night of singing, dancing, and community!\nEntry is FREE, as always ♥️\nWe will also have materials for sign painting for those wanting to attend Rad Pride on August 9th or the Wild Pride march on August 10th. Find a buddy to protest with while you’re at it!",
+    "image": "https://wildpride.ca/assets/karaoke.png",
+    "link": "https://wildpride.ca/en/dates/karaoke/",
+    "location": "BMP Co-op",
+    "organizer": "Queer Karaoke MTL",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 21:00:00",
+        "end_time": "01:00",
+        "venue": "BMP Co-op"
+      }
+    ],
+    "title": "Karaoke & Sign Painting"
+  },
+  {
+    "audience": "For all",
+    "description": "The heat returns...\nJoin us Saturday, August 2nd @ctrllabmtl\nFor FRKY x Wild Pride – a tantalizing collaboration with one of the city’s fiercest crews, celebrating freedom, identity, and unapologetic self-expression.\nThe FRKS are calling, and Pride is the moment to answer. Queer, Straight, Different, or Indifferent – under the lights, we all shimmer the same. And deep down, we’re all a little FRKY.\nIn the booth: our very own Moka, joined by special guest OJPB, serving a genre-blurring ride through techno, house, disco, and rare gems that’ll leave you breathless and begging for more.\nExpect a night that builds slow and seductive, then explodes into full-throttle dancefloor ecstasy.\nHosted by @manclaudy\n\n See more here.",
+    "image": "https://wildpride.ca/assets/frky.png",
+    "link": "https://wildpride.ca/en/dates/frky/",
+    "location": "Ctrllab (3634 St Laurent Blvd)",
+    "organizer": "FRKY collective",
+    "price": "From $10",
+    "showtimes": [
+      {
+        "datetime": "2025-08-02 22:00:00",
+        "end_time": "03:00",
+        "venue": "Ctrllab (3634 St Laurent Blvd)"
+      }
+    ],
+    "title": "FRKY x Wild Pride"
+  },
+  {
+    "audience": "For lesbo-queer community, trans-friendly",
+    "description": "Bring yourselves and some snacks to share, and join LSM4P in reading stories of queer Palestinians, grabbing some stickers/pins to wear, and learning about pinkwashing in Montréal and beyond.\nWe will have activities, a mini-exhibition, and more. And, if you’re curious about how to get more involved after learning about pinkwashing and Palestine solidarity work, local organizers in attendance will be happy to share how to join up with organizing for Palestine in Montréal!\nFor access information: The closest metro is Laurier (use the “Rue Laurier” exit), and there are bathrooms nearby, up four stairs.\n(Please bring tupperware or reusable plates if you can to mitigate the environmental impact.)\n\n See more here.",
+    "image": "https://wildpride.ca/assets/picnic-palestine.png",
+    "link": "https://wildpride.ca/en/dates/picnic-for-palestine/",
+    "location": "Laurier park",
+    "organizer": "Collectif Laurier–Sainte-Marie pour la Palestine",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-03 17:00:00",
+        "venue": "Laurier park"
+      }
+    ],
+    "title": "Picnic for Palestine"
+  },
+  {
+    "audience": "For all",
+    "description": "A market by and for queer BIPOC folks with performances and a community BBQ. Love, mutual aid and food for all.\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/plantain-and-rice-cookout/",
+    "link": "https://wildpride.ca/en/dates/plantain-and-rice-cookout/",
+    "location": "Brique par Brique (633 av. Beaumont)",
+    "organizer": "Sweet Like Honey, CSL & L’Astérisk",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-03 15:00:00",
+        "end_time": "21:00",
+        "venue": "Brique par Brique (633 av. Beaumont)"
+      }
+    ],
+    "title": "Plantain & Rice Market & Cookout"
+  },
+  {
+    "audience": "For families",
+    "description": "Come share a magical morning of sparkle and stories with Niko Lubie, a brilliant drag artist — a cozy storytime just for little ones and their loved ones.\nExpect laughter, wonder, and glitter!\n\n See more here.",
+    "image": "https://wildpride.ca/assets/storytime.png",
+    "link": "https://wildpride.ca/en/dates/storytime-with-lubie/",
+    "location": "Librairie L’Euguélionne (1426 rue Beaudry)",
+    "organizer": "L’Euguélionne & LowKiki & Niko Lubie",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-03 11:00:00",
+        "end_time": "12:30",
+        "venue": "Librairie L’Euguélionne (1426 rue Beaudry)"
+      }
+    ],
+    "title": "Storytime with Niko Lubie"
+  },
+  {
+    "audience": "For all",
+    "description": "All levels, all night. A lil something for everyone. Just show up - tickets are door only.\neveryone welcome always. we do our best to cater to all the communities we’re part of all at once. we strive to bring people together in a safe enviro and love you all so much :)\n\nwear what you would wear to any country bar or line event, no dress code, be you !!\n\nline dancing is a tool for change. use it :)\nall genders. all sexualities.",
+    "image": "https://wildpride.ca/en/dates/dosidontcha/assets/dosidontcha.png",
+    "link": "https://wildpride.ca/en/dates/dosidontcha/",
+    "location": "Toscadura (4388 St-Laurent Blvd)",
+    "organizer": "Do Si Dontcha",
+    "price": "$10",
+    "showtimes": [
+      {
+        "datetime": "2025-08-05 19:00:00",
+        "end_time": "20:00",
+        "venue": "Toscadura (4388 St-Laurent Blvd)"
+      }
+    ],
+    "title": "Do Si Dontcha Line Dancing"
+  },
+  {
+    "audience": "For Queers",
+    "description": "We are always trying to remove the barrier that stop folks from entertaining places of fitness. In extension to that, we understand that coming to the studio just one time isnt enough to start to build a new practice that will support a mre active lifestyle. Infinity movements participation in Wild Pride is to help introduce a healthy community and regular practice that can support a stronger version of so that we can feel more solid in ourselves and in the world!\nOur facilities include lockers for storing your bags and clothing, enclosed stall bathrooms that can be used for changing, and two showers.\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/infinity-movement/",
+    "link": "https://wildpride.ca/en/dates/infinity-movement/",
+    "location": "Infinity Studio (5957 rue de verdun)",
+    "organizer": "Infinity Movement",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-05 16:00:00",
+        "venue": "Infinity Studio (5957 rue de verdun)"
+      },
+      {
+        "datetime": "2025-08-17 15:00:00",
+        "venue": "Infinity Studio (5957 rue de verdun)"
+      }
+    ],
+    "title": "Workout Class"
+  },
+  {
+    "audience": "For all",
+    "description": "The bilingual poetry reading « No Pride in Genocide » hosted by Montreal Writers for Palestine will be presented at Bar Star Bar on August 5th, from 7 to 9pm(doors at 6:30pm). Bring all your friends to (re)discover the work of local queer writers while standing in solidarity with Palestine!\nMontreal Writers for Palestine is an autonomous collective of writers based in Tiohtià:ke/Mooniyang who aim to challenge the complicity of Canadian cultural institutions in the occupation of Palestine, and to use their platform as artists to amplify and support anticolonial struggles.All attendees will have the chance of winning one of the book bundles raffled off during the event.\nAll proceeds will go to mutual aid in Palestine.\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/reading-for-palestine/",
+    "link": "https://wildpride.ca/en/dates/reading-for-palestine/",
+    "location": "Bar Star Bar (4671 St Laurent Blvd)",
+    "organizer": "Writers for Palestine",
+    "price": "PWYC with recommended donation of $20",
+    "showtimes": [
+      {
+        "datetime": "2025-08-05 19:00:00",
+        "end_time": "21:00",
+        "venue": "Bar Star Bar (4671 St Laurent Blvd)"
+      }
+    ],
+    "title": "Solidarity reading for Palestine"
+  },
+  {
+    "audience": "For all",
+    "description": "You’re invited to Carved from Fire, a hands-on lino patchmaking workshop where fabric becomes protest, and collective creation/ radical imagination become tools for queer and trans resistance <3\nParticipants will learn foundational linography carving and printing techniques to design and print their own custom patches; reflecting our grief, our joy, our rage, and our dreams, speaking to the world we are resisting and the one we’re trying to build.\nall materials provided!\ninstruction available in EN et FR :)\nThis workshop is facilitated by Maximillian (he/they), a qtbipoc multidisciplinary artist based here in Tiohtià:ke.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/toothwurld.png",
+    "link": "https://wildpride.ca/en/dates/carved-from-fire/",
+    "location": "QPIRG Concordia (2100 rue Guy,",
+    "organizer": "Toothwurld",
+    "price": "Sliding scale, $10 to $15",
+    "showtimes": [
+      {
+        "datetime": "2025-08-06 18:00:00",
+        "end_time": "20:00",
+        "venue": "QPIRG Concordia (2100 rue Guy,"
+      }
+    ],
+    "title": "Carved from Fire"
+  },
+  {
+    "audience": "For 18 plus",
+    "description": "Feminist, queer bilingual stand-up night. Jokes that lift us up, not down. 18+.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/debouts.png",
+    "link": "https://wildpride.ca/en/dates/deboutes-stand-up/",
+    "location": "Bar Social Verdun",
+    "organizer": "Collective Debout.tes",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-06 19:30:00",
+        "venue": "Bar Social Verdun"
+      }
+    ],
+    "title": "Debout.tes Stand-up"
+  },
+  {
+    "audience": "Trans people & loved ones",
+    "description": "Support for first name, last name or gender marker changes. Legal info and help with anti-trans and anti-queer discrimination.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/legal-clinic.png",
+    "link": "https://wildpride.ca/en/dates/trans-legal-clinic/",
+    "location": "L'Asterisk",
+    "organizer": "Juritrans",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-06 16:00:00",
+        "end_time": "21:00",
+        "venue": "L'Asterisk"
+      },
+      {
+        "datetime": "2025-08-14 13:00:00",
+        "end_time": "17:30",
+        "venue": "L'Asterisk"
+      }
+    ],
+    "title": "Trans Legal Clinic"
+  },
+  {
+    "audience": "QTBIPOC centered, but open to all respectful guests",
+    "description": "Le Lotus Blanc - is a bold, satirical live show created by and for transmasc artists. With original music, dark comedy, and theatrical chaos, this mock-resort vacation unravels into a sharp critique of white liberalism and toxic masculinity.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/lotus-blanc.png",
+    "link": "https://wildpride.ca/en/dates/lotus-blanc/",
+    "location": "Co-op BMP (3714 Avenue du Parc)",
+    "organizer": "Trans Masc Choir",
+    "price": "PWYC from $11.43",
+    "showtimes": [
+      {
+        "datetime": "2025-08-07 20:00:00",
+        "venue": "Co-op BMP (3714 Avenue du Parc)"
+      }
+    ],
+    "title": "Le Lotus Blanc"
+  },
+  {
+    "audience": "For queer BIPOCs",
+    "description": "A two-part screenprinting and traditional animation workshop led by Sidetracks and Aecolyte. Learn the basics of screenprinting and animate on top of the prints after!\nSidetracks is screenprinting collective that aims to make screenprinting accessible to projects and organizations working for social change, especially those that  work around anti-racism, anti-facism, queer liberation and that support anti-colonial struggles opposing the ongoing destruction and exploitation of Indigenous lands through colonialism and capitalism. Aecolyte is a queer Asian animator whose practice focuses on traditional mediums like frame by frame drawn animation, and stop motion animation.\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/screenprinting/",
+    "link": "https://wildpride.ca/en/dates/screenprinting/",
+    "location": "Brique par Brique (633 Beaumont Ave)",
+    "organizer": "Sherry and Sidetracks",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-07 17:00:00",
+        "end_time": "20:00",
+        "venue": "Brique par Brique (633 Beaumont Ave)"
+      }
+    ],
+    "title": "Screenprinting & Animation Workshop"
+  },
+  {
+    "audience": "For all",
+    "description": "The Untamable Cabaret, presented by Wild Pride, AlterHéros and PAQC, will take place on Saturday, August 8, door at 8pm and show at 9pm at Bar le Ritz PDB! You'll see a variety of performances, so come on out!!\nThe entrance and the bathrooms are accessible.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/cabaret.png",
+    "link": "https://wildpride.ca/en/dates/cabaret/",
+    "location": "Bar le Ritz",
+    "organizer": "Alterheros & PACQ",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-08 21:00:00",
+        "venue": "Bar le Ritz"
+      }
+    ],
+    "title": "Cabaret Show"
+  },
+  {
+    "audience": "All",
+    "description": "Food, mutual aid, local resources. Everyone is welcome to connect and share.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/comday.png",
+    "link": "https://wildpride.ca/en/dates/community-day/",
+    "location": "Teesri Duniya Theatre",
+    "organizer": "Wild Pride",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-08 10:00:00",
+        "end_time": "17:00",
+        "venue": "Teesri Duniya Theatre"
+      },
+      {
+        "datetime": "2025-08-09 10:00:00",
+        "end_time": "17:00",
+        "venue": "Teesri Duniya Theatre"
+      }
+    ],
+    "title": "Community Day"
+  },
+  {
+    "audience": "For all",
+    "description": "Wake up Disabled Dreamers, new reality just dropped!!!\nIn Pain and Insane is excited to have our very first event under the Wild Pride festival at Brique par Brique (633 Beaumont ave). Get ready to experience drag performances, songs, poetry, comedy, grief and joy all by and for the Disabled/Sick/Mad/Deaf community. Followed by a “crip rave” that prioritizes disabled needs and joys, this can look like sitting, drawing, stimming.\nSince there are limited tickets (30) please wait to buy a ticket if you are an ally until the 28th of July, as we want to give disabled/ill/mad/deaf people ample time to get their spots. That being said if you plan to attend virtually there is no cap on attendees and if you can’t get a ticket we hope to see you online!\nAccessibility Info:\n\nASL interpretation\nWheelchair accessible\nFree food and water\nMasks mandatory and available\nAir purifier\nStim toys\nNo flashing lights / loud music\nChill corner\nLots of seating\nInteractive virtual component for at-home comrades\nBreak between variety show and crip rave\nDesignated active listeners if things are overstimulating or triggering\nRides available**\n**if you need a ride, please e-mail us with accessibility needs (eg. mobility aids you will have) when you purchase your ticket.\n\nPerformance line-up coming soon! Stay tuned for poster :)\nSee you in your real life disabled dreams <3\n\n See more here.",
+    "image": "https://wildpride.ca/assets/crip-rave.jpg",
+    "link": "https://wildpride.ca/en/dates/day-party/",
+    "location": "Brique par Brique",
+    "organizer": "In Pain and Insane",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-08 15:00:00",
+        "end_time": "18:00",
+        "venue": "Brique par Brique"
+      }
+    ],
+    "title": "Variety Show & Crip Rave"
+  },
+  {
+    "audience": "18 plus",
+    "image": "",
+    "link": "https://wildpride.ca/en/dates/discono/",
+    "location": "SAT Montreal",
+    "organizer": "Tomasa Del Real Mango & Ginger",
+    "price": "Ticketed",
+    "showtimes": [
+      {
+        "datetime": "2025-08-08 22:00:00",
+        "end_time": "03:00",
+        "venue": "SAT Montreal"
+      }
+    ],
+    "title": "Discono Club"
+  },
+  {
+    "audience": "For all",
+    "description": "Join voixjuivesmtl & helemtl for a special wild pride montreal Shabbat. We’ll light candles, break challah, and sip grape juice together as an anti-zonist community gathering to rest, reflect, and reenergize in the fight for Palestinian liberation.\nOpen to all, regardless of faith.\nBring your own picnic + blanket.\nThis is a family-friendly event.\nPlease be mindful of distancing.",
+    "image": "https://wildpride.ca/assets/shabbat.png",
+    "link": "https://wildpride.ca/en/dates/shabbat-dinner/",
+    "location": "Parc Charlevoix (2700 rue Rufus-Rockhead)",
+    "organizer": "Helem Montreal & IJV",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-08 19:00:00",
+        "venue": "Parc Charlevoix (2700 rue Rufus-Rockhead)"
+      }
+    ],
+    "title": "Shabbat Dinner"
+  },
+  {
+    "audience": "For sapphics, 18 plus",
+    "description": "On August 8th we’re taking over @cinemalamour for a Pride riot, two rules only: be extra and serve glamour.\nFor this edition, we’re diving into a theme that it close to the heart of our community but we’re also crafting an experience even more immersive than usual.\nBehind the decks Ari Cherry, Paolo Askia, Sisi Superstar, Monib and TIKKOII will make you sweat while our beloved QUINT and Fraud will light up the iconic cinema screen. We are also excited to welcome the waackers Blossom and Étincelle that will hypnotise you with their performance💃🏼\nSee you there and don’t forget to dress like you’re too much because you are, right?\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/virtualis/assets/virtualis.png",
+    "link": "https://wildpride.ca/en/dates/virtualis/",
+    "location": "Cinema l'Amour",
+    "organizer": "Virtualis",
+    "price": "Ticketed",
+    "showtimes": [
+      {
+        "datetime": "2025-08-08 21:00:00",
+        "end_time": "04:00",
+        "venue": "Cinema l'Amour"
+      }
+    ],
+    "title": "Sapphic Rave"
+  },
+  {
+    "audience": "For Black Queer folks",
+    "description": "This workshop offers a communal dance experience using the principles of expressive arts therapy (i.e. dance/movement therapy) to Black queer community members based in Tio’tia:ke (Montreal).Together we will tap into the healing power of dance/movement to facilitate creative expression, a deeper connection to self and a more intimate connection to community. We will create together a safe enough haven to explore our relationship with movement outside of any particular dance discipline. Using African and afro-diasporic music, the facilitator will propose a warm-up, playful and creative activities to encourage introspective movement and connection with others, followed by a closing circle. We will be reclaiming playfulness and embodied freedom as our birthrights.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/dancing.png",
+    "link": "https://wildpride.ca/en/dates/dancing-freedom/",
+    "location": "Black Healing Centre (2100 av. de Marlowe, suite 449)",
+    "organizer": "Kathleen Charles",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-09 13:00:00",
+        "end_time": "15:00",
+        "venue": "Black Healing Centre (2100 av. de Marlowe, suite 449)"
+      }
+    ],
+    "title": "Dancing Freedom"
+  },
+  {
+    "audience": "For lesbo-queer community, trans-friendly",
+    "description": "Community lesbo-queer picnic — snacks, safe space and relaxed vibes.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/rlq.png",
+    "link": "https://wildpride.ca/en/dates/lesboqueer-picnic/",
+    "location": "Mederic-Martin park",
+    "organizer": "Reseau des lesbiennes du Quebec",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-09 13:00:00",
+        "end_time": "17:00",
+        "venue": "Mederic-Martin park"
+      }
+    ],
+    "title": "Lesbo-Queer Picnic"
+  },
+  {
+    "audience": "For all",
+    "description": "Outdoor physical theatre workshop to explore queer movement. A 3 hour workshop focused on physical theatre practices, movement qualities, and more.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/physical-therapy.png",
+    "link": "https://wildpride.ca/en/dates/physical-theatre/",
+    "location": "Teesri Duniya Theatre, outside gardin",
+    "organizer": "Dense & Stage",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-09 14:00:00",
+        "end_time": "17:00",
+        "venue": "Teesri Duniya Theatre, outside gardin"
+      }
+    ],
+    "title": "Physical Theatre Community Workshop"
+  },
+  {
+    "audience": "For all",
+    "image": "",
+    "link": "https://wildpride.ca/en/dates/queer-market/",
+    "location": "151 Ontario St E",
+    "organizer": "Flintyfae",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-09 14:00:00",
+        "end_time": "17:00",
+        "venue": "151 Ontario St E"
+      }
+    ],
+    "title": "Queer Market"
+  },
+  {
+    "audience": "All",
+    "description": "Our Pride March: no cops, no corporations.\nA radical, grassroots Pride rooted in our struggles.",
+    "image": "https://wildpride.ca/en/dates/march/",
+    "link": "https://wildpride.ca/en/dates/march/",
+    "location": "Place des Arts",
+    "organizer": "Wild Pride",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-10 14:00:00",
+        "venue": "Place des Arts"
+      }
+    ],
+    "title": "Pride March"
+  },
+  {
+    "audience": "For all",
+    "description": "The Rainbow Spice Collective is a grassroots initiative led by trans/non-binary, disabled, neurodivergent, and chronically ill people of color. We’re building a more radically accessible world by creating inclusive, community-driven spaces that center those often pushed to the margins.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/rainbow-spice.jpg",
+    "link": "https://wildpride.ca/en/dates/art-and-poetry-night/",
+    "location": "Black Healing Centre",
+    "organizer": "Rainbow Spice Collective",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-13 19:00:00",
+        "venue": "Black Healing Centre"
+      }
+    ],
+    "title": "Intersectional Art & Poetry Night"
+  },
+  {
+    "audience": "For all",
+    "description": "This is a workshop open to all experience levels and backgrounds but will involve some reflection work and some movement. It is based off of a longer series of classes I teach at arabesque burlesque and will dive into the sensual and creative world of burlesque using the archetype of the Fool from tarot's the major arcana. If you're interested in magic, tarot, burlesque, sensuality and being a little foolish....this workshop is for you! Taught mostly in english and limited to 20 people.\nPlease email missminaminou@gmail.com to register.",
+    "image": "https://wildpride.ca/en/dates/magic-and-movement/",
+    "link": "https://wildpride.ca/en/dates/magic-and-movement/",
+    "location": "Brique par Brique",
+    "organizer": "Mina Minou",
+    "price": "PWYC",
+    "showtimes": [
+      {
+        "datetime": "2025-08-13 17:30:00",
+        "end_time": "19:00",
+        "venue": "Brique par Brique"
+      }
+    ],
+    "title": "Magic & Movement"
+  },
+  {
+    "audience": "For all",
+    "description": "Venez grouiller, danser et célébrer la joie d'être vous-même avec WUTLESS & WILD\nBBQ  | RYTHMES  | COCKTAILS  | COMMUNAUTÉ\nSoca, dancehall, sons afro + chaleur des Îles\nBarbecue grésillant et boissons tropicales\nL'énergie de la fierté Afro\nUne foule adulte et sexy\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/queer-caribbean-bbq/",
+    "link": "https://wildpride.ca/en/dates/queer-caribbean-bbq/",
+    "location": "UNIA Hall",
+    "organizer": "Wutless",
+    "price": "$7",
+    "showtimes": [
+      {
+        "datetime": "2025-08-13 17:00:00",
+        "end_time": "22:00",
+        "venue": "UNIA Hall"
+      }
+    ],
+    "title": "Le Rhum Shoppe, Queer Caribbean BBQ (Fr)"
+  },
+  {
+    "audience": "For all",
+    "description": "This gentle, quiet competition invites participants to practice the art of mental (dis)engagement—finding peace in simply being rather than doing. Contestants sit or lay down comfortably and attempt to release active thoughts, maintaining a soft, unfocused gaze while hanging out with whatever arises naturally in their minds. The contest starts at 7pm.\nWhat to Bring:\n\nA potluck dish to share (optional but encouraged)\nComfort items (blanket, cushions, yoga mat, or chair)\nDonations Welcome!\n\nAll proceeds will be donated to Brick by Brick, supporting their vital and generous work in community. Every contribution, big or small, helps build a stronger foundation against gentrification of Park Ex.\nCome as you are, leave when you want anytime.\nQuestions? Reach out to @queersangha on IG or queersanghamtl@gmail.com.\n\n See more here.",
+    "image": "https://wildpride.ca/assets/zone-out.png",
+    "link": "https://wildpride.ca/en/dates/zone-out-contest/",
+    "location": "Parc Jarry",
+    "organizer": "Queer Sangha",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-13 19:00:00",
+        "end_time": "21:00",
+        "venue": "Parc Jarry"
+      }
+    ],
+    "title": "Zone Out Contest"
+  },
+  {
+    "audience": "For Black folks",
+    "description": "Dialogue centering Black trans femmes and women.\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/conflict/",
+    "link": "https://wildpride.ca/en/dates/conflict/",
+    "location": "Black Healing Centre",
+    "organizer": "Black Gxrl Sesh",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-14 20:00:00",
+        "end_time": "22:00",
+        "venue": "Black Healing Centre"
+      }
+    ],
+    "title": "Conflict Resolution Panel"
+  },
+  {
+    "audience": "For all",
+    "description": "Juice Me is a multifaceted burlesque show! Join us for burlesque, gogo, drag and SO MUCH MORE! We'll have a popsicle and lemonade stand (ren faire bar wench style), button making, silk screening (BYOShirt), a spanking/slapping/hugging/words of affirmation booth, a photo wall, a little bit of a gentle cruising element, and lots of free resources to learn about the defund la police movement! This show will be fundraising for defund la police and all our activities and treats will be accessibly priced but with a goal of raising money for this awesome grassroots cause. Tickets available now online at a sliding scale, please pick the price that's right for you! Lets get juicy!\nWe’ll be raising money for @defundlapolice and giving you an awesome show with lots of interactive elements:\n-popsicle stand\n-silk screening station (bring a shirt or something!)\n-button making station!\n-Photo Booth wall\n-kissing/words of affirmation/spanking booth\n-snacks\n-free resources to learn about abolition and the defund movement!\n-an awesome raffle with fun prizes\n-maybe more things we’ll see!\n\n See more here.",
+    "image": "https://wildpride.ca/assets/burlesque.jpg",
+    "link": "https://wildpride.ca/en/dates/burlesque-wild-pride/",
+    "location": "Espace Tapage, Batiment 7 (1900 rue le Ber)",
+    "organizer": "Juice Me Collective & Wild Pride",
+    "price": "Ticketed at sliding scale from $10",
+    "showtimes": [
+      {
+        "datetime": "2025-08-15 20:00:00",
+        "venue": "Espace Tapage, Batiment 7 (1900 rue le Ber)"
+      }
+    ],
+    "title": "Juice Me - Burlesque"
+  },
+  {
+    "audience": "For sex workers, allies & those interested in sex work",
+    "description": "A panel & discussion on queer sex work hosted by and for sex workers.",
+    "image": "https://wildpride.ca/assets/queering-sex-work.png",
+    "link": "https://wildpride.ca/en/dates/queering-sex-work/",
+    "location": "l'Euguelionne (1462 rue Beaudry)",
+    "organizer": "Wild Pride, Chez Stella, ASTT(e)Q & others",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-15 17:00:00",
+        "end_time": "20:00",
+        "venue": "l'Euguelionne (1462 rue Beaudry)"
+      }
+    ],
+    "title": "Queering Sex Work"
+  },
+  {
+    "audience": "All",
+    "description": "Lesbian, queer and trans club night. Come sweat it out on the dancefloor. MESSY’s first club event is going to be an all-out night of ass shaking for the final weekend of Wild Pride. Email (elluimtl.com) or DM us for a 20% QTBIPOC discount code, or for PWYC tickets!\nDJs\n\nSpinelli\nLucia\nDJ Punani\n\n\n See more here.",
+    "image": "https://wildpride.ca/assets/messy.png",
+    "link": "https://wildpride.ca/en/dates/messy/",
+    "location": "Bain Mathieu",
+    "organizer": "Messy collective",
+    "price": "Ticketed",
+    "showtimes": [
+      {
+        "datetime": "2025-08-16 23:00:00",
+        "end_time": "03:00",
+        "venue": "Bain Mathieu"
+      }
+    ],
+    "title": "Messy Party Night"
+  },
+  {
+    "audience": "For all, Black folks centered",
+    "image": "",
+    "link": "https://wildpride.ca/en/dates/queer-legacy-kiki-ball/",
+    "location": "Ausgang Plaza",
+    "organizer": "Black Gxrl Sesh x Cxsper Constantine x Sapphire 007 x Wild Pride",
+    "price": "Free for Black folks, sliding scale for others",
+    "showtimes": [
+      {
+        "datetime": "2025-08-16 20:00:00",
+        "end_time": "00:00",
+        "venue": "Ausgang Plaza"
+      }
+    ],
+    "title": "Queer Legacy Kiki Ball - Ballroom"
+  },
+  {
+    "audience": "For Trans people & loved ones",
+    "description": "A safer swimming space for trans families: trans kids, parents, uncles/aunts, loving kin.\nA gentle moment to relax, splash and be free together.\n\n See more here.",
+    "image": "https://wildpride.ca/en/dates/trans-swim/",
+    "link": "https://wildpride.ca/en/dates/trans-swim/",
+    "location": "Piscine Quintal",
+    "organizer": "Wild Pride",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-17 15:00:00",
+        "end_time": "16:00",
+        "venue": "Piscine Quintal"
+      }
+    ],
+    "title": "Swimming for trans families"
+  },
+  {
+    "audience": "For all, QTBIPOC centered",
+    "description": "See more here.",
+    "image": "https://wildpride.ca/en/dates/abolitionist-meditation/",
+    "link": "https://wildpride.ca/en/dates/abolitionist-meditation/",
+    "location": "Black Healing Centre",
+    "organizer": "L'Asterisk",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-17 12:00:00",
+        "venue": "Black Healing Centre"
+      }
+    ],
+    "title": "Abolitionist Community Meditation"
+  },
+  {
+    "audience": "For all",
+    "image": "",
+    "link": "https://wildpride.ca/en/dates/closing-ceremony/",
+    "location": "Square Saint-Louis",
+    "organizer": "Tealy Ka'Senni:Saks Normandin",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-18 17:30:00",
+        "venue": "Square Saint-Louis"
+      }
+    ],
+    "title": "Closing Ceremony"
+  }
+]

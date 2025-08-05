@@ -28,6 +28,7 @@ FESTIVALS = [
         "path": "src/presence-autochtone-2025/shows.json",
         "name": "Présence Autochtone",
     },
+    {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride"},
 ]
 
 

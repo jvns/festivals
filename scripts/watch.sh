@@ -1,1 +1,1 @@
-find src | grep -v json | entr bash scripts/build.sh
+find src | grep -v json | entr bash scripts/generate.sh

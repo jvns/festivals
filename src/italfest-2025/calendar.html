@@ -1,0 +1,22 @@
+{% extends 'calendar-base.html' %}
+
+{% block title %}ItalfestMTL 2025 Calendar{% endblock %}
+
+{% block header %}
+<header>
+    <h1>ItalfestMTL 2025</h1>
+    <a href="https://italfestmtl.ca/en/">View All Events</a>
+</header>
+{% endblock %}
+
+{% block event_content %}
+<article class="card">
+    <time>{{ event.time }}</time>
+    <div>
+        <a href="{{ event.link }}">{{ event.title }}</a>
+        {% if event.venue %}
+        <br><small>{{ event.venue }}</small>
+        {% endif %}
+    </div>
+</article>
+{% endblock %}

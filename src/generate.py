@@ -34,6 +34,7 @@ FESTIVALS = [
         "color": "#fb630b"
     },
     {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride", "color": "#fccaca"},
+    {"path": "src/italfest-2025/shows.json", "name": "Italfest", "color": "#009639"},
 ]
 
 
@@ -86,7 +87,7 @@ def get_festivals_metadata():
         slug = festival_config["name"].lower().replace(' ', '-').replace("'", '').replace('ï', 'i').replace('é', 'e')
         if slug == "shakespeare-in-the-park":
             slug = "shakespeare"
-        
+
         metadata = {
             "name": festival_config["name"],
             "slug": slug,

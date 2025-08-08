@@ -18,5 +18,15 @@
         <br><small>{{ event.venue }}</small>
         {% endif %}
     </div>
+    <img onclick="opendialog(event)" src="/images/info.svg">
+    <dialog closed style="--image: url('{{event.image}}')">
+    <p><strong>Title:</strong> {{event.title}}</p>
+    {% if event.venue %}
+    <p><strong>Venue:</strong> {{ event.venue }}</p>
+    {% endif %}
+    {% if event.description %}
+    <p><strong>Description:</strong> {{ event.description }}</p>
+    {% endif %}
+    </dialog>
 </article>
 {% endblock %}

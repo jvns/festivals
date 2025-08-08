@@ -5,6 +5,7 @@ ItalfestMTL scraper - fetches festival data
 import json
 import re
 from pathlib import Path
+from urllib.parse import urljoin
 
 from dateutil import parser
 from bs4 import BeautifulSoup
@@ -41,12 +42,16 @@ def get_shows():
         if not showtimes:
             continue
 
+        # Extract image
+        image_url = extract_image(event_soup, link)
+
         show = Show(
             title=title,
             showtimes=showtimes,
             link=link,
             extra={
                 "description": content_text[:500] if content_text else "",
+                "image": image_url,
             },
         )
         shows.append(show)
@@ -110,6 +115,16 @@ def parse_datetime_from_text(text):
 def clean_venue_text(text):
     # Remove long addresses
     return re.sub(r"\s+\d{3,}.*", "", text).strip()
+
+def extract_image(soup, base_url):
+    """Extract the main event image from the page."""
+    # Try elementor featured image first
+    elementor_img = soup.find('div', class_='elementor-widget-theme-post-featured-image')
+    if elementor_img:
+        img = elementor_img.find('img')
+        if img and img.get('src'):
+            return urljoin(base_url, img['src'])
+    return None
 
 def main():
     shows = get_shows()

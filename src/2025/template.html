@@ -50,7 +50,9 @@
       <br><small>{{ event.venue }}</small>
       {% endif %}
       </div>
-      <a class="cal-link" target="_blank" href="{{ generate_google_calendar_link(event, festival_name) }}"><img src="/images/add-to-cal.svg"></a>
+      <a class="cal-link" target="_blank" href="{{ generate_google_calendar_link(event, festival_name) }}">
+        <img title="Add to calendar" alt="Add to calendar" src="/images/add-to-cal.svg">
+      </a>
   </div>
     {% endmacro %}
 

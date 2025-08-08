@@ -64,22 +64,22 @@ main article {
 
 .cal-link {
   text-decoration: none;
-  display: none;
+  display: inline;
   padding: 4px 6px;
   position: absolute;
   right: -18px;
   color: #777;
-
   top: -6px;
-}
 
-.cal-link img {
-  width: 25px;
-}
+  img {
+    width: 25px;
+    opacity: 0.2;
+    transition: opacity .5s ease;
 
-.event:hover .cal-link {
-  display: inline;
-  font-weight: bold;
+    .event:hover & {
+      opacity: 1;
+    }
+  }
 }
 
 .event {

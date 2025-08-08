@@ -9,13 +9,13 @@ FESTIVALS = [
     {
         "path": "src/shakespeare-2025/shows.json",
         "name": "Shakespeare in the Park",
-        "color": "#ff65c3"
+        "color": "#E91E63"
     },
-    {"path": "src/mutek-2025/shows.json", "name": "MUTEK", "color": "#ff6347"},
+    {"path": "src/mutek-2025/shows.json", "name": "MUTEK", "color": "#673AB7"},
     {
         "path": "src/theatre-de-verdure-2025/shows.json",
         "name": "Theatre de Verdure",
-        "color": "#228b22"
+        "color": "#4CAF50"
     },
     {"path": "src/fireworks-2025/shows.json", "name": "Fireworks", "color": "#4169e1"},
     {
@@ -31,10 +31,10 @@ FESTIVALS = [
     {
         "path": "src/presence-autochtone-2025/shows.json",
         "name": "Présence Autochtone",
-        "color": "#fb630b"
+        "color": "#FF9800"
     },
-    {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride", "color": "#fccaca"},
-    {"path": "src/italfest-2025/shows.json", "name": "Italfest", "color": "#009639"},
+    {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride", "color": "#9C27B0"},
+    {"path": "src/italfest-2025/shows.json", "name": "Italfest", "color": "#2E7D32"},
 ]
 
 

@@ -24,8 +24,8 @@
       <li><a href="/2025/fringe">Fringe</a></li>
       {% for festival in festivals_metadata %}
       {% if festival.start_date and festival.end_date %}
-      <li><a href="/2025/{{ festival.slug }}" 
-             data-start-date="{{ festival.start_date.isoformat() }}" 
+      <li><a href="/2025/{{ festival.slug }}"
+             data-start-date="{{ festival.start_date.isoformat() }}"
              data-end-date="{{ festival.end_date.isoformat() }}">{{ festival.name }}</a></li>
       {% endif %}
       {% endfor %}
@@ -89,7 +89,7 @@
     const today = new Date().toISOString().split('T')[0];
     const main = document.querySelector('main');
     let firstVisibleColumn = null;
-    
+
     document.querySelectorAll('main time[datetime]').forEach(time => {
       const section = time.closest('section');
       if (time.getAttribute('datetime') < today) {
@@ -98,7 +98,7 @@
         firstVisibleColumn = parseInt(section.style.gridColumn);
       }
     });
-    
+
     // insert empty sections
     for (let i = 1; i < firstVisibleColumn; i++) {
       const emptySection = document.createElement('section');

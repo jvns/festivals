@@ -35,6 +35,7 @@ FESTIVALS = [
     },
     {"path": "src/wild-pride-2025/shows.json", "name": "Wild Pride", "color": "#9C27B0"},
     {"path": "src/italfest-2025/shows.json", "name": "Italfest", "color": "#2E7D32"},
+    {"path": "src/cinemania-2025/shows.json", "name": "Cinemania", "color": "#d32f2f"},
 ]
 
 

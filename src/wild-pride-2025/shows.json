@@ -359,7 +359,7 @@
     "title": "FRKY x Wild Pride"
   },
   {
-    "audience": "For lesbo-queer community, trans-friendly",
+    "audience": "For all",
     "description": "Bring yourselves and some snacks to share, and join LSM4P in reading stories of queer Palestinians, grabbing some stickers/pins to wear, and learning about pinkwashing in Montréal and beyond.\nWe will have activities, a mini-exhibition, and more. And, if you’re curious about how to get more involved after learning about pinkwashing and Palestine solidarity work, local organizers in attendance will be happy to share how to join up with organizing for Palestine in Montréal!\nFor access information: The closest metro is Laurier (use the “Rue Laurier” exit), and there are bathrooms nearby, up four stairs.\n(Please bring tupperware or reusable plates if you can to mitigate the environmental impact.)\n\n See more here.",
     "image": "https://wildpride.ca/assets/picnic-palestine.png",
     "link": "https://wildpride.ca/en/dates/picnic-for-palestine/",
@@ -738,9 +738,9 @@
     "title": "Pride March"
   },
   {
-    "audience": "For all",
+    "audience": "Lead by disabled, racialized queers, but also open to respectful allies",
     "description": "The Rainbow Spice Collective is a grassroots initiative led by trans/non-binary, disabled, neurodivergent, and chronically ill people of color. We’re building a more radically accessible world by creating inclusive, community-driven spaces that center those often pushed to the margins.\n\n See more here.",
-    "image": "https://wildpride.ca/assets/rainbow-spice.jpg",
+    "image": "https://wildpride.ca/assets/art-poetry.png",
     "link": "https://wildpride.ca/en/dates/art-and-poetry-night/",
     "location": "Black Healing Centre",
     "organizer": "Rainbow Spice Collective",
@@ -823,6 +823,23 @@
   },
   {
     "audience": "For all",
+    "description": "With Sweet like honey and as part as Wild Pride we’re welcoming you to a party in our image : BIPOC and intergenerational! As usual music and good food are on the program, with calm activities for our more introvert folks\nCome eat and dance with us!\nAnd if you are more introverted, there will also be quieter activities (board games, bracelet making, etc.)",
+    "image": "https://wildpride.ca/assets/cdn.png",
+    "link": "https://wildpride.ca/en/dates/fierte-au-centre/",
+    "location": "6767 Chemin de la Cote-des-neiges",
+    "organizer": "Sweet Like Honey & Femmes du Monde",
+    "price": "Free",
+    "showtimes": [
+      {
+        "datetime": "2025-08-14 17:00:00",
+        "end_time": "20:00",
+        "venue": "6767 Chemin de la Cote-des-neiges"
+      }
+    ],
+    "title": "Pride At The Centre"
+  },
+  {
+    "audience": "For all",
     "description": "Juice Me is a multifaceted burlesque show! Join us for burlesque, gogo, drag and SO MUCH MORE! We'll have a popsicle and lemonade stand (ren faire bar wench style), button making, silk screening (BYOShirt), a spanking/slapping/hugging/words of affirmation booth, a photo wall, a little bit of a gentle cruising element, and lots of free resources to learn about the defund la police movement! This show will be fundraising for defund la police and all our activities and treats will be accessibly priced but with a goal of raising money for this awesome grassroots cause. Tickets available now online at a sliding scale, please pick the price that's right for you! Lets get juicy!\nWe’ll be raising money for @defundlapolice and giving you an awesome show with lots of interactive elements:\n-popsicle stand\n-silk screening station (bring a shirt or something!)\n-button making station!\n-Photo Booth wall\n-kissing/words of affirmation/spanking booth\n-snacks\n-free resources to learn about abolition and the defund movement!\n-an awesome raffle with fun prizes\n-maybe more things we’ll see!\n\n See more here.",
     "image": "https://wildpride.ca/assets/burlesque.jpg",
     "link": "https://wildpride.ca/en/dates/burlesque-wild-pride/",
@@ -889,16 +906,16 @@
   },
   {
     "audience": "For Trans people & loved ones",
-    "description": "A safer swimming space for trans families: trans kids, parents, uncles/aunts, loving kin.\nA gentle moment to relax, splash and be free together.\n\n See more here.",
-    "image": "https://wildpride.ca/en/dates/trans-swim/",
+    "description": "A safer swimming space for trans families: trans kids, parents, uncles/aunts, loving kin.\nA gentle moment to relax, splash and be free together.\nThis space is for families with trans adults and/or trans kids, centering youth under 18 in a safer, affirming, and community-based environment.\nTrans youth ages 14–17 may attend solo if they can swim. Please be mindful: this event is meant for youth and their trusted grown-ups.",
+    "image": "https://wildpride.ca/assets/trans-swim.png",
     "link": "https://wildpride.ca/en/dates/trans-swim/",
     "location": "Piscine Quintal",
     "organizer": "Wild Pride",
     "price": "Free",
     "showtimes": [
       {
-        "datetime": "2025-08-17 15:00:00",
-        "end_time": "16:00",
+        "datetime": "2025-08-17 11:00:00",
+        "end_time": "15:00",
         "venue": "Piscine Quintal"
       }
     ],

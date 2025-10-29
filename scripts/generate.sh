@@ -8,6 +8,7 @@ python3 src/haiti-en-folie-2025/generate.py
 python3 src/presence-autochtone-2025/generate.py
 python3 src/wild-pride-2025/generate.py
 python3 src/italfest-2025/generate.py
+python3 src/cinemania-2025/generate.py
 
 cp -R src/fringe-2025 site/2025/fringe
 

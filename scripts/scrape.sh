@@ -8,3 +8,4 @@ python3 src/haiti-en-folie-2025/scrape.py
 python3 src/presence-autochtone-2025/scrape.py
 python3 src/wild-pride-2025/scrape.py
 python3 src/italfest-2025/scrape.py
+python3 src/cinemania-2025/scrape.py

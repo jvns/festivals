@@ -1,0 +1,52 @@
+{% extends 'calendar-base.html' %}
+
+{% block title %}Festival Cinemania 2025 Calendar{% endblock %}
+
+{% block header %}
+<header>
+    <h1>Festival Cinemania 2025</h1>
+    <a href="https://festivalcinemania.com">Festival Website</a>
+</header>
+{% endblock %}
+
+{% block event_content %}
+<article class="card">
+    <time>{{ event.time }}</time>
+    <a href="{{ event.link }}">{{ event.title }}
+        {% if event.director %}
+        - {{ event.director }}
+        {% endif %}
+    </a>
+    <img onclick="opendialog(event)" src="/images/info.svg">
+    <dialog closed style="--image: url('{{event.image}}')">
+    <p><strong>Title:</strong> {{event.title}}</p>
+    {% if event.venue %}
+    <p><strong>Venue:</strong> {{ event.venue }}</p>
+    {% endif %}
+    {% if event.films %}
+    <p><strong>Films:</strong></p>
+    <ul>
+    {% for film in event.films %}
+        <li>{{ film }}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    {% if event.director %}
+    <p><strong>Director:</strong> {{ event.director }}</p>
+    {% endif %}
+    {% if event.category %}
+    <p><strong>Genre:</strong> {{ event.category }}</p>
+    {% endif %}
+    {% if event.country %}
+    <p><strong>Country:</strong> {{ event.country }}</p>
+    {% endif %}
+    {% if event.section %}
+    <p><strong>Section:</strong> {{ event.section }}</p>
+    {% endif %}
+    {% if event.ticket_url %}
+    <p><strong>Tickets:</strong> <a href="{{ event.ticket_url }}" target="_blank">Buy Tickets</a></p>
+    {% endif %}
+    <button>✕</button>
+    </dialog>
+</article>
+{% endblock %}

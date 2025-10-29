@@ -1,0 +1,17 @@
+header a {
+  background-color: #d32f2f;
+}
+
+article {
+  background-color: #f8f8f8;
+  border-left: 4px solid #d32f2f;
+}
+
+article.card {
+  transition: transform 0.2s ease;
+}
+
+article.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,3208 @@
+[
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/DALLOWAY.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-residence",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 13:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/014CINE25",
+    "title": "The Residence"
+  },
+  {
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/SiVersailles_0876557.jpg",
+    "link": "https://festivalcinemania.com/en/films/royal-affairs-in-versailles",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 13:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/061CINE25",
+    "title": "Royal Affairs in Versailles"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_PAR_AMOUR_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/call-of-water",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 15:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/015CINE25",
+    "title": "Call of Water"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/chien_51_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/dog-51",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 18:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/016CINE25",
+    "title": "Dog 51"
+  },
+  {
+    "category": "Documentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_VERONIQUE_Tom_Volf_-_INA_-00_15_51_11.jpg",
+    "link": "https://festivalcinemania.com/en/films/veronique",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 18:05:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/062CINE25",
+    "title": "Veronique"
+  },
+  {
+    "category": "Fiction",
+    "country": "France, Germany",
+    "image": "https://festivalcinemania.com/public/LA_PETITE_DERNIE_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-little-sister",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 19:10:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/151CINE25",
+    "title": "The Little Sister"
+  },
+  {
+    "category": "Comedy",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/JUSTE_XAVIER_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/juste-xavier",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 20:40:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/017CINE25",
+    "title": "Juste Xavier"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_DIS-MOI_JUSTE_QUE_TU_M_AIMES_PHOTO_4.jpg",
+    "link": "https://festivalcinemania.com/en/films/dis-moi-juste-que-tu-maimes",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05 20:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/063CINE25",
+    "title": "Dis-moi juste que tu m'aimes"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/VIE_PRIVE_E.jpg",
+    "link": "https://festivalcinemania.com/en/films/a-private-life",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 12:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/018CINE25",
+    "title": "A Private Life"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/L_I_LE_DE_LA_DEMOISELLE.JPG",
+    "link": "https://festivalcinemania.com/en/films/a-survivors-tale",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 13:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/064CINE25",
+    "title": "A Survivor's Tale"
+  },
+  {
+    "category": "Documentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/GP_17.jpg",
+    "link": "https://festivalcinemania.com/en/films/les-metamorphoses-du-grand-palais",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 14:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/109CINE25",
+    "title": "Les Métamorphoses du Grand Palais"
+  },
+  {
+    "category": "Fiction",
+    "country": "France, Germany",
+    "image": "https://festivalcinemania.com/public/LA_PETITE_DERNIE_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-little-sister",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 15:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/019CINE25",
+    "title": "The Little Sister"
+  },
+  {
+    "category": "Fiction",
+    "country": "Switzerland, Belgium, France",
+    "image": "https://festivalcinemania.com/public/A_BRAS_LE_CORPS_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/silent-rebellion",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 15:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/065CINE25",
+    "title": "Silent Rebellion"
+  },
+  {
+    "category": "Documentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/IN_I-IN_MOTION_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/in-i-in-motion",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 17:40:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/020CINE25",
+    "title": "In-I In Motion"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/C_jeunes_mere.jpg",
+    "link": "https://festivalcinemania.com/en/films/young-mothers",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 18:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/066CINE25",
+    "title": "Young Mothers"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_QUI_BRILLE_AU_COMBAT_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-wonderers",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 18:05:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/180CINE25",
+    "title": "The Wonderers"
+  },
+  {
+    "category": "Animation, Fantastic drama",
+    "country": "France, Morocco, Portugal, Qatar",
+    "films": [
+      "The Shadow of the Butterflies",
+      "Animalia"
+    ],
+    "link": "https://festivalcinemania.com/en/program/animalia-3",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 18:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/110CINE25",
+    "title": "Animalia"
+  },
+  {
+    "category": "History",
+    "country": "Morocco",
+    "image": "https://festivalcinemania.com/public/affiche_marche_120x160.jpg",
+    "link": "https://festivalcinemania.com/en/films/al-massira",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 20:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/067CINE25",
+    "title": "Al Massira"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/DPA_PHOTOGRAMME_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/love-letters",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 20:35:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/021CINE25",
+    "title": "Love Letters"
+  },
+  {
+    "category": "Opening film",
+    "country": "Canada (Quebec), Luxembourg",
+    "image": "https://festivalcinemania.com/public/ON_SERA_HEUREUX_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/well-find-happiness",
+    "section": "GALA PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-06 21:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/111CINE25",
+    "title": "We'll Find Happiness"
+  },
+  {
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/CAMILLE_CLAUDEL_1915.jpg",
+    "link": "https://festivalcinemania.com/en/films/camille-claudel-1915",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 12:40:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/152CINE25",
+    "title": "Camille Claudel 1915"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/trois-amies.jpg",
+    "link": "https://festivalcinemania.com/en/films/three-friends",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 13:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/068CINE25",
+    "title": "THREE FRIENDS"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_CLASSE_MOYENNE_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/classe-moyenne",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 13:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/022CINE25",
+    "title": "Classe Moyenne"
+  },
+  {
+    "category": "Social drama",
+    "country": "France, Morocco",
+    "image": "https://festivalcinemania.com/public/Affiche_du_film.jpg",
+    "link": "https://festivalcinemania.com/en/films/retour-a-bollene",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 14:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/112CINE25",
+    "title": "Retour à Bollène"
+  },
+  {
+    "category": "Documentary",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/BARDOT_1.png",
+    "link": "https://festivalcinemania.com/en/films/bardot",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 14:45:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/153CINE25",
+    "title": "Bardot"
+  },
+  {
+    "category": "Documentary, Social drama",
+    "country": "Canada, Canada (Quebec)",
+    "films": [
+      "Mokhtar",
+      "Like a Spiral",
+      "Here and there",
+      "Nitrate",
+      "Fantas"
+    ],
+    "link": "https://festivalcinemania.com/en/program/diaspora-en-images",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 15:30:00",
+        "venue": "Cinémathèque québécoise | Salle Fernand-Séguin"
+      }
+    ],
+    "ticket_url": "https://www.eventbrite.ca/e/billets-diaspora-en-images-1835662288319?aff=oddtdtcreator",
+    "title": "Diaspora en images"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_DIS-MOI_JUSTE_QUE_TU_M_AIMES_PHOTO_4.jpg",
+    "link": "https://festivalcinemania.com/en/films/dis-moi-juste-que-tu-maimes",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 15:45:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/069CINE25",
+    "title": "Dis-moi juste que tu m'aimes"
+  },
+  {
+    "category": "Adult animation",
+    "country": "Italy, Morocco, United States",
+    "image": "https://festivalcinemania.com/public/BOUCHRA_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/bouchra",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 16:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/113CINE25",
+    "title": "Bouchra"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/les_braises2.jpg",
+    "link": "https://festivalcinemania.com/en/films/ablaze",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 16:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/023CINE25",
+    "title": "Ablaze"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_A_TRAVERS_TES_YEUX.jpg",
+    "link": "https://festivalcinemania.com/en/films/a-travers-tes-yeux",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 17:10:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/154CINE25",
+    "title": "À Travers Tes Yeux"
+  },
+  {
+    "category": "Documentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_VERONIQUE_Tom_Volf_-_INA_-00_15_51_11.jpg",
+    "link": "https://festivalcinemania.com/en/films/veronique",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 18:15:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/115CINE25",
+    "title": "Veronique"
+  },
+  {
+    "category": "Drama",
+    "country": "Morocco",
+    "image": "https://festivalcinemania.com/public/CASANEGRAAFF.jpg",
+    "link": "https://festivalcinemania.com/en/films/casanegra",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 18:05:00",
+        "venue": "Cinémathèque québécoise | Salle Fernand-Séguin"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/114CINE25",
+    "title": "Casanegra"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_QUI_BRILLE_AU_COMBAT_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-wonderers",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 18:20:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/070CINE25",
+    "title": "The Wonderers"
+  },
+  {
+    "category": "Drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_A12_02-14-44-01.png",
+    "link": "https://festivalcinemania.com/en/films/the-mechanics-of-borders",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 18:40:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/024CINE25",
+    "title": "The Mechanics of Borders"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_L_HOMME_QUI_RE_TRE_CIT_2_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-shrinking-man",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 19:40:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/155CINE25",
+    "title": "The Shrinking Man"
+  },
+  {
+    "category": "Thriller",
+    "country": "Belgium, Netherlands, Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/CF_-_SELECTION_JUILLET_2025_1_1_53.jpg",
+    "link": "https://festivalcinemania.com/en/films/cap-farewell",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 20:20:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/116CINE25",
+    "title": "Cap Farewell"
+  },
+  {
+    "category": "Comedy",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_REINE_ME_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/queen-mom",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 20:45:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/071CINE25",
+    "title": "Queen Mom"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/DALLOWAY.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-residence",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-07 21:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/025CINE25",
+    "title": "The Residence"
+  },
+  {
+    "category": "Animation",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/BANIERE-1.png",
+    "link": "https://festivalcinemania.com/en/films/belfort-lupin",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 10:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/072CINE25",
+    "title": "Belfort & Lupin"
+  },
+  {
+    "category": "Documentary",
+    "country": "Luxembourg",
+    "image": "https://festivalcinemania.com/public/LFAG_003_Tarantula-2024.jpg",
+    "link": "https://festivalcinemania.com/en/films/whats-left",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 11:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/117CINE25",
+    "title": "What's Left ?"
+  },
+  {
+    "category": "Animation",
+    "country": "France, Belgium, Luxembourg",
+    "image": "https://festivalcinemania.com/public/C_PAGNOL_1_2025_What_the_Prod_-_Mediawan_Kids_Family_Cine_ma_-_Bidibul_Productions_-_Walking_the_Dog.jpg",
+    "link": "https://festivalcinemania.com/en/films/a-magnificent-life",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 11:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/026CINE25",
+    "title": "A Magnificent Life"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/La_purge_Affiche.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-purge-lgbt",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 11:40:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/156CINE25",
+    "title": "The Purge LGBT"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_L_HOMME_QUI_RE_TRE_CIT_2_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-shrinking-man",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 12:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/073CINE25",
+    "title": "The Shrinking Man"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/DPA_PHOTOGRAMME_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/love-letters",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 13:05:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/182CINE25",
+    "title": "Love Letters"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_L_HOMME_QUI_RE_TRE_CIT_2_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-shrinking-man",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 13:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/027CINE25",
+    "title": "The Shrinking Man"
+  },
+  {
+    "category": "Social drama",
+    "country": "Morocco, France, Qatar",
+    "image": "https://festivalcinemania.com/public/VolubilisPoster40x60cm.jpg",
+    "link": "https://festivalcinemania.com/en/films/volubilis",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 13:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/118CINE25",
+    "title": "Volubilis"
+  },
+  {
+    "category": "Drama",
+    "country": "Canada (Quebec), Morocco",
+    "image": "https://festivalcinemania.com/public/L_HE_RITIER_DES_SECRETS_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/lheritier-des-secrets",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 13:35:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/194CINE25",
+    "title": "L'Héritier des secrets"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/C_jeunes_mere.jpg",
+    "link": "https://festivalcinemania.com/en/films/young-mothers",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 14:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/157CINE25",
+    "title": "Young Mothers"
+  },
+  {
+    "category": "Comedy",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/JUSTE_XAVIER_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/juste-xavier",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 15:05:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/074CINE25",
+    "title": "Juste Xavier"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_LA_FE_TE_DES_PE_RES.png",
+    "link": "https://festivalcinemania.com/en/films/la-fete-des-peres",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 15:20:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/119CINE25",
+    "title": "La Fête des pères"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_L_HOMME_QUI_RE_TRE_CIT_2_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-shrinking-man",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 15:40:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/183CINE25",
+    "title": "The Shrinking Man"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/MA_FRE_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/ma-frere",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 15:45:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/028CINE25",
+    "title": "Ma Frère"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_A_TRAVERS_TES_YEUX.jpg",
+    "link": "https://festivalcinemania.com/en/films/a-travers-tes-yeux",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 16:35:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/195CINE25",
+    "title": "À Travers Tes Yeux"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/LA_DANSE_DES_RENARDS_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/wild-foxes",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 17:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/075CINE25",
+    "title": "Wild Foxes"
+  },
+  {
+    "category": "Animation, Documentary, Drama, Social drama",
+    "country": "England, France, Morocco, Portugal, Qatar",
+    "films": [
+      "So What If the Goats Die",
+      "Ayam",
+      "The Shadow of the Butterflies",
+      "Voice of the Arena",
+      "Le Depart",
+      "MILK BROTHERS"
+    ],
+    "link": "https://festivalcinemania.com/en/program/programme-de-courts-metrages-maroc-a-lhonneur",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 17:45:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/184CINE25",
+    "title": "Programme de courts métrages Maroc à l'Honneur"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/L_I_LE_DE_LA_DEMOISELLE.JPG",
+    "link": "https://festivalcinemania.com/en/films/a-survivors-tale",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 18:15:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/120CINE25",
+    "title": "A Survivor's Tale"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/VIE_PRIVE_E.jpg",
+    "link": "https://festivalcinemania.com/en/films/a-private-life",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 18:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/029CINE25",
+    "title": "A Private Life"
+  },
+  {
+    "category": "Drama",
+    "country": "France, Italy, Belgium",
+    "image": "https://festivalcinemania.com/public/ENZO_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/enzo",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 19:45:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/076CINE25",
+    "title": "Enzo"
+  },
+  {
+    "category": "Fiction",
+    "country": "Morocco, France, Spain, Germany",
+    "image": "https://festivalcinemania.com/public/RUE_MALAGA.jpg",
+    "link": "https://festivalcinemania.com/en/films/calla-malaga",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 20:30:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/185CINE25",
+    "title": "Calla Málaga"
+  },
+  {
+    "category": "Fiction",
+    "country": "France, Tunisia, Qatar",
+    "image": "https://festivalcinemania.com/public/PROMIS_LE_CIEL.jpg",
+    "link": "https://festivalcinemania.com/en/films/promised-sky",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 20:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/121CINE25",
+    "title": "Promised Sky"
+  },
+  {
+    "category": "Thriller",
+    "country": "Spain, France",
+    "image": "https://festivalcinemania.com/public/C_C_sirat-1.jpg",
+    "link": "https://festivalcinemania.com/en/films/sirat",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-08 21:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/030CINE25",
+    "title": "Sirât"
+  },
+  {
+    "category": "Thriller",
+    "country": "Belgium, Netherlands, Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/CF_-_SELECTION_JUILLET_2025_1_1_53.jpg",
+    "link": "https://festivalcinemania.com/en/films/cap-farewell",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 11:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/158CINE25",
+    "title": "Cap Farewell"
+  },
+  {
+    "category": "Animation",
+    "country": "Belgium, France, Switzerland",
+    "films": [
+      "Windy day",
+      "Mary Anning"
+    ],
+    "link": "https://festivalcinemania.com/en/program/mary-anning",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 11:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/077CINE25",
+    "title": "Mary Anning"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/MOI_QUI_T_AIMAIS_1.JPG",
+    "link": "https://festivalcinemania.com/en/films/moi-qui-taimais",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 11:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/031CINE25",
+    "title": "Moi qui t'aimais"
+  },
+  {
+    "category": "Social drama",
+    "country": "Morocco, France",
+    "image": "https://festivalcinemania.com/public/POSTER_MICA.jpg",
+    "link": "https://festivalcinemania.com/en/films/mica-2",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 11:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/122CINE25",
+    "title": "Mica"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "films": [
+      "Three years",
+      "Différente"
+    ],
+    "link": "https://festivalcinemania.com/en/program/differente",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 13:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/078CINE25",
+    "title": "Différente"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "Morocco, France",
+    "image": "https://festivalcinemania.com/public/120x160_rtc_15-07_rvb.jpg",
+    "link": "https://festivalcinemania.com/en/films/rock-the-casbah",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 13:20:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/123CINE25",
+    "title": "Rock The Casbah"
+  },
+  {
+    "category": "Drama",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_L_E_TRANGE_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/pieces-of-a-foreign-life",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 13:30:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/159CINE25",
+    "title": "Pieces of a Foreign Life"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_LOVE_ME_TENDER_PHOTO3.jpg",
+    "link": "https://festivalcinemania.com/en/films/love-me-tender",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 13:50:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/032CINE25",
+    "title": "Love Me Tender"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium, France",
+    "films": [
+      "Tsunami",
+      "Wild Foxes"
+    ],
+    "link": "https://festivalcinemania.com/en/program/la-danse-des-renards",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 14:00:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/186CINE25",
+    "title": "La Danse des Renards"
+  },
+  {
+    "category": "Adult animation",
+    "country": "Italy, Morocco, United States",
+    "image": "https://festivalcinemania.com/public/BOUCHRA_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/bouchra",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 15:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/124CINE25",
+    "title": "Bouchra"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/L_INCONNU_DE_LA_GRANDE_ARCHE_1_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/linconnu-de-la-grande-arche",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 15:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/079CINE25",
+    "title": "L'Inconnu de la Grande Arche"
+  },
+  {
+    "category": "Drama",
+    "country": "Canada (Quebec), Morocco",
+    "image": "https://festivalcinemania.com/public/L_HE_RITIER_DES_SECRETS_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/lheritier-des-secrets",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 16:10:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/160CINE25",
+    "title": "L'Héritier des secrets"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/Connemara-Stills-Press-Photos-8640x5760-Melanie-THIERRY-2.jpg",
+    "link": "https://festivalcinemania.com/en/films/connemara",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 16:15:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/187CINE25",
+    "title": "Connemara"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/T_AS_PAS_CHANGE.jpg",
+    "link": "https://festivalcinemania.com/en/films/tas-pas-change",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 17:20:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/033CINE25",
+    "title": "T'as pas changé"
+  },
+  {
+    "country": "Morocco",
+    "image": "https://festivalcinemania.com/public/rrr.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-hounds",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 17:35:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/125CINE25",
+    "title": "The Hounds"
+  },
+  {
+    "category": "Drama",
+    "country": "France, Armenia",
+    "image": "https://festivalcinemania.com/public/IN_THE_LAND_OF_ARTO_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/in-the-land-of-arto",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 18:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/080CINE25",
+    "title": "In the Land of Arto"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_LOVE_ME_TENDER_PHOTO3.jpg",
+    "link": "https://festivalcinemania.com/en/films/love-me-tender",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 18:50:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/188CINE25",
+    "title": "Love Me Tender"
+  },
+  {
+    "category": "Experimental",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/ORAISON_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/after-the-ashes",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 19:40:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/161CINE25",
+    "title": "After the Ashes"
+  },
+  {
+    "category": "Drama",
+    "country": "Morocco",
+    "image": "https://festivalcinemania.com/public/Affiche_Une_porte_sur_le_ciel.jpg",
+    "link": "https://festivalcinemania.com/en/films/a-door-to-the-sky",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 19:35:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/126CINE25",
+    "title": "A Door to the Sky"
+  },
+  {
+    "category": "Fiction",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/C_L_INTE_RE_T_D_DAM.jpg",
+    "link": "https://festivalcinemania.com/en/films/adams-sake",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 20:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/034CINE25",
+    "title": "Adam's sake"
+  },
+  {
+    "category": "Documentary",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_C_D_UN_MONDE_A_L_AUTRE_1_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/dun-monde-a-lautre",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-09 20:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/081CINE25",
+    "title": "D'un monde à l'autre"
+  },
+  {
+    "category": "Thriller",
+    "country": "France (Guadeloupe)",
+    "image": "https://festivalcinemania.com/public/zion2.jpg",
+    "link": "https://festivalcinemania.com/en/films/zion",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 12:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/127CINE25",
+    "title": "Zion"
+  },
+  {
+    "category": "Biopic",
+    "country": "France, Luxembourg, Canada (Quebec), Belgium",
+    "image": "https://festivalcinemania.com/public/C_Fanon_-_Photo_5.png",
+    "link": "https://festivalcinemania.com/en/films/fanon",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 13:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/082CINE25",
+    "title": "Fanon"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_meteors.jpg",
+    "link": "https://festivalcinemania.com/en/films/meteors",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 13:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/035CINE25",
+    "title": "Météors"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_LES_FILLES_DE_SIR_PHOTO_6.png",
+    "link": "https://festivalcinemania.com/en/films/the-girls-we-want",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 16:05:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/083CINE25",
+    "title": "The Girls We Want"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_LES_TOURMENTE_S_PHOTO_10_David_Koskas_-_BIZIBI.jpg",
+    "link": "https://festivalcinemania.com/en/films/haunted-minds",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 16:15:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/036CINE25",
+    "title": "Haunted Minds"
+  },
+  {
+    "category": "Fiction",
+    "country": "France (Guadeloupe)",
+    "image": "https://festivalcinemania.com/public/MAGMA.jpg",
+    "link": "https://festivalcinemania.com/en/films/magma",
+    "section": "FOCUS ON GUADELOUPE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 16:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/128CINE25",
+    "title": "Magma"
+  },
+  {
+    "category": "Social drama",
+    "country": "Belgium, France, Luxembourg",
+    "image": "https://festivalcinemania.com/public/C_jahia.jpg",
+    "link": "https://festivalcinemania.com/en/films/jahias-summer",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 18:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/129CINE25",
+    "title": "Jahia's Summer"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/REMBRANDT_PHOTO_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/rembrandt",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 18:30:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/162CINE25",
+    "title": "Rembrandt"
+  },
+  {
+    "category": "Family drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_OU_VONT_LES_A_MES_2.png",
+    "link": "https://festivalcinemania.com/en/films/ou-vont-les-ames",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 19:10:00",
+        "venue": "PDA - Théâtre Maisonneuve"
+      }
+    ],
+    "title": "Où vont les âmes"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_PAR_AMOUR_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/call-of-water",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 19:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/084CINE25",
+    "title": "Call of Water"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/MOI_QUI_T_AIMAIS_1.JPG",
+    "link": "https://festivalcinemania.com/en/films/moi-qui-taimais",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 19:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/037CINE25",
+    "title": "Moi qui t'aimais"
+  },
+  {
+    "category": "Fiction",
+    "country": "Burkina Faso, France",
+    "image": "https://festivalcinemania.com/public/LES_INVERTUEUSES.jpg",
+    "link": "https://festivalcinemania.com/en/films/unvirtuous",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 20:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/130CINE25",
+    "title": "Unvirtuous"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/les_braises2.jpg",
+    "link": "https://festivalcinemania.com/en/films/ablaze",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-10 20:45:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/163CINE25",
+    "title": "Ablaze"
+  },
+  {
+    "category": "Comedy, Fiction",
+    "country": "France",
+    "films": [
+      "Guarantors",
+      "Mother and law"
+    ],
+    "link": "https://festivalcinemania.com/en/program/la-pire-mere-au-monde",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 13:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/038CINE25",
+    "title": "La Pire Mère Au Monde"
+  },
+  {
+    "category": "Biopic",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/MUGANGA.jpg",
+    "link": "https://festivalcinemania.com/en/films/muganga",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 13:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/085CINE25",
+    "title": "Muganga"
+  },
+  {
+    "category": "Animation, Comedy, Documentary, Experimental",
+    "country": "Canada",
+    "films": [
+      "Earth",
+      "Fernand&#8217;s Christmas",
+      "Mosaic",
+      "Correspondance Poem or Mirror Island",
+      "Recouped",
+      "C'est loin",
+      "Daniel le tisserand",
+      "Between Two Bends",
+      "Al-Ghoûla at the beach"
+    ],
+    "link": "https://festivalcinemania.com/en/program/carte-blanche-ficfa-programme-de-courts-metrages-des-provinces-atlantiques",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 13:45:00",
+        "venue": "ONF"
+      }
+    ],
+    "title": "Carte blanche FICFA - Programme de courts-métrages des Provinces Atlantiques"
+  },
+  {
+    "category": "Documentary",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_C_D_UN_MONDE_A_L_AUTRE_1_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/dun-monde-a-lautre",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 15:35:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/039CINE25",
+    "title": "D'un monde à l'autre"
+  },
+  {
+    "category": "Fiction",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/1_7_2_1_7_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/universal-language",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 15:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/131CINE25",
+    "title": "Universal language"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_lacs1.png",
+    "link": "https://festivalcinemania.com/en/films/love-is-overrated",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 16:15:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/086CINE25",
+    "title": "Love Is Overrated"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada",
+    "image": "https://festivalcinemania.com/public/C_Trecarre_10132900_72dpi_Credit-photo-ONF.jpg",
+    "link": "https://festivalcinemania.com/en/films/trecarre",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 17:00:00",
+        "venue": "ONF"
+      }
+    ],
+    "title": "Trécarré"
+  },
+  {
+    "category": "Documentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/LES_ENFANTS_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/children",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 17:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/132CINE25",
+    "title": "Children"
+  },
+  {
+    "category": "Drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/GAGNE_TON_CIEL_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/gagne-ton-ciel",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 18:10:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/040CINE25",
+    "title": "Gagne ton ciel"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/L_INCONNU_DE_LA_GRANDE_ARCHE_1_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/linconnu-de-la-grande-arche",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 18:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/164CINE25",
+    "title": "L'Inconnu de la Grande Arche"
+  },
+  {
+    "category": "Animation, Documentary, Fiction",
+    "country": "Canada (Quebec)",
+    "films": [
+      "Wings",
+      "The Girl Who Cried Pearls",
+      "Ghislaine's Place",
+      "Les oubliés",
+      "What I Want to Believe",
+      "Petticoats"
+    ],
+    "link": "https://festivalcinemania.com/en/program/la-grande-soiree-des-courts-quebecois",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 18:15:00",
+        "venue": "Espace Saint-Denis"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873559",
+    "title": "La Grande Soirée des Courts Québécois"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_LES_FILLES_DE_SIR_PHOTO_6.png",
+    "link": "https://festivalcinemania.com/en/films/the-girls-we-want",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 18:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/087CINE25",
+    "title": "The Girls We Want"
+  },
+  {
+    "category": "Fiction",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/C_L_INTE_RE_T_D_DAM.jpg",
+    "link": "https://festivalcinemania.com/en/films/adams-sake",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 19:05:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/189CINE25",
+    "title": "Adam's sake"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "Canada",
+    "image": "https://festivalcinemania.com/public/LFDA_01.jpg",
+    "link": "https://festivalcinemania.com/en/films/astrid-8217-s-many-failures",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 19:30:00",
+        "venue": "ONF"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/207CINE25",
+    "title": "Astrid&#8217;s Many Failures"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec), France",
+    "films": [
+      "Friends first",
+      "The Day To Come Is A Bright New Day"
+    ],
+    "link": "https://festivalcinemania.com/en/program/vies-du-quebec-fragments-memoires",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 19:45:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/133CINE25",
+    "title": "VIES DU QUÉBEC : FRAGMENTS, MÉMOIRES"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/LE_FAUX_MONNAYEUR_-_L_AFFAIRE_BOJARSKI.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-money-maker",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 20:20:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/165CINE25",
+    "title": "The Money Maker"
+  },
+  {
+    "category": "Animation, Drama, Fiction",
+    "country": "Canada, Canada (Quebec)",
+    "films": [
+      "Pippa and Leo",
+      "Who Will Remember Us",
+      "What We Leave Behind",
+      "Leveret Road",
+      "Dormance",
+      "No Matter The Weather"
+    ],
+    "link": "https://festivalcinemania.com/en/program/la-grande-soiree-des-courts-quebecois-partie-2",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 20:30:00",
+        "venue": "Espace Saint-Denis"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873559",
+    "title": "La Grande Soirée des Courts Québécois - Partie 2"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/T_AS_PAS_CHANGE.jpg",
+    "link": "https://festivalcinemania.com/en/films/tas-pas-change",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 20:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/088CINE25",
+    "title": "T'as pas changé"
+  },
+  {
+    "category": "Thriller",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/13_jours_13_nuits_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/13-days-13-nights",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-11 21:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/041CINE25",
+    "title": "13 Days, 13 Nights"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/LE_FAUX_MONNAYEUR_-_L_AFFAIRE_BOJARSKI.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-money-maker",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 12:35:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/042CINE25",
+    "title": "The Money Maker"
+  },
+  {
+    "category": "Documentary",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_C_D_UN_MONDE_A_L_AUTRE_1_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/dun-monde-a-lautre",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 13:05:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/089CINE25",
+    "title": "D'un monde à l'autre"
+  },
+  {
+    "country": "Switzerland, France",
+    "image": "https://festivalcinemania.com/public/C_photo_hd_03-54-scaled.jpg",
+    "link": "https://festivalcinemania.com/en/films/comme-des-voleurs-a-lest",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 15:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/134CINE25",
+    "title": "Comme des voleurs (à l'est)"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "films": [
+      "CERFA 151-86",
+      "Différente"
+    ],
+    "link": "https://festivalcinemania.com/en/program/differente-2",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 15:15:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/090CINE25",
+    "title": "Différente"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "Luxembourg, Switzerland, France",
+    "image": "https://festivalcinemania.com/public/LA_CACHE.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-safe-house",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 15:50:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/043CINE25",
+    "title": "The Safe House"
+  },
+  {
+    "category": "Fiction",
+    "country": "France (Guadeloupe)",
+    "image": "https://festivalcinemania.com/public/MAGMA.jpg",
+    "link": "https://festivalcinemania.com/en/films/magma",
+    "section": "FOCUS ON GUADELOUPE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 16:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/166CINE25",
+    "title": "Magma"
+  },
+  {
+    "category": "Drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_A12_02-14-44-01.png",
+    "link": "https://festivalcinemania.com/en/films/the-mechanics-of-borders",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 17:35:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/196CINE25",
+    "title": "The Mechanics of Borders"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_A_PIED_D_OEUVRE.jpg",
+    "link": "https://festivalcinemania.com/en/films/at-work",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 17:35:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/002CINE25",
+    "title": "At work"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_LES_TOURMENTE_S_PHOTO_10_David_Koskas_-_BIZIBI.jpg",
+    "link": "https://festivalcinemania.com/en/films/haunted-minds",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 18:05:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/091CINE25",
+    "title": "Haunted Minds"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/DELEAU.JPG",
+    "link": "https://festivalcinemania.com/en/films/deleau-cinema-unchained",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 18:05:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/167CINE25",
+    "title": "Deleau : Cinema unchained"
+  },
+  {
+    "category": "Animation, Drama, Family drama, Fiction",
+    "country": "Cameroon, Côte d'ivoire, France, Luxembourg, Togo",
+    "films": [
+      "Last snows",
+      "Genealogy of violence",
+      "A walk into the afterlife",
+      "Life with an idiot",
+      "AYO",
+      "Strong as a lion"
+    ],
+    "link": "https://festivalcinemania.com/en/program/grande-soiree-des-courts-internationaux-partie-1",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 18:15:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873558",
+    "title": "Grande soirée des courts internationaux - partie 1"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "Canada (Quebec)",
+    "films": [
+      "Casse-gueule",
+      "Empathie"
+    ],
+    "link": "https://festivalcinemania.com/en/program/nuit-de-la-serie",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 18:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1665097821",
+    "title": "NUIT DE LA SÉRIE"
+  },
+  {
+    "category": "Family drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_OU_VONT_LES_A_MES_2.png",
+    "link": "https://festivalcinemania.com/en/films/ou-vont-les-ames",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 20:05:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/197CINE25",
+    "title": "Où vont les âmes"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/LA_FEMME_LA_PLUS_RICHE_DU_MONDE_PHOTO_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/la-femme-la-plus-riche-du-monde",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 20:05:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/003CINE25",
+    "title": "La Femme la plus riche du monde"
+  },
+  {
+    "category": "Animation, Fiction",
+    "country": "Canada (Saskatchewan), France, France (La Réunion), Mauricius",
+    "films": [
+      "In Style",
+      "The Boy Who Cheated Death",
+      "HAVE A SAFE TRIP",
+      "Black Tide",
+      "Notes from a Poet",
+      "To arms, Christopher"
+    ],
+    "link": "https://festivalcinemania.com/en/program/grande-soiree-des-courts-internationaux-partie-2",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 20:15:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873558",
+    "title": "Grande soirée des courts internationaux - partie 2"
+  },
+  {
+    "category": "Fiction",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/KIKA.jpg",
+    "link": "https://festivalcinemania.com/en/films/kika",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 20:35:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/168CINE25",
+    "title": "Kika"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_FURCY_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/furcy-ne-libre",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-12 20:45:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/092CINE25",
+    "title": "Furcy, né libre"
+  },
+  {
+    "category": "Drama, Sentimental drama",
+    "country": "France",
+    "films": [
+      "In the mud",
+      "TRIAL BY FIRE"
+    ],
+    "link": "https://festivalcinemania.com/en/program/lepreuve-du-feu",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 13:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/093CINE25",
+    "title": "L'Épreuve du Feu"
+  },
+  {
+    "category": "Adult animation",
+    "country": "France, Luxembourg, Belgium, Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_ALLAH_N_EST_PAS_OBLIGE.jpg",
+    "link": "https://festivalcinemania.com/en/films/allah-is-not-obliged",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 13:35:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/045CINE25",
+    "title": "Allah is not obliged"
+  },
+  {
+    "country": "Switzerland, Portugal, France",
+    "image": "https://festivalcinemania.com/public/les-grandes-ondes-a-l-ouest_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/longwave",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 15:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/137CINE25",
+    "title": "Longwave"
+  },
+  {
+    "category": "Biopic",
+    "country": "France, Luxembourg, Canada (Quebec), Belgium",
+    "image": "https://festivalcinemania.com/public/C_Fanon_-_Photo_5.png",
+    "link": "https://festivalcinemania.com/en/films/fanon",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 15:50:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/046CINE25",
+    "title": "Fanon"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_01_LE_REPONDEUR_-_2025_Emmanuelle_Jacobson-Roques_-_Le_Bureau_Films.jpg",
+    "link": "https://festivalcinemania.com/en/films/guess-who-is-calling",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 16:10:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/094CINE25",
+    "title": "Guess Who Is Calling?"
+  },
+  {
+    "category": "Fiction, Social drama",
+    "country": "Belgium, France, Luxembourg",
+    "films": [
+      "Table 12",
+      "Jahia's Summer"
+    ],
+    "link": "https://festivalcinemania.com/en/program/lete-de-jahia-2",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 17:15:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/138CINE25",
+    "title": "L'Été de Jahia"
+  },
+  {
+    "category": "Historical drama",
+    "country": "Russia, Germany, Belarus",
+    "image": "https://festivalcinemania.com/public/CMG_PersianLessons_1_5d75afd5-8cb0-ec11-a9dc-0edcbcd33718.jpg",
+    "link": "https://festivalcinemania.com/en/films/persian-lessons",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 18:00:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/190CINE25",
+    "title": "Persian Lessons"
+  },
+  {
+    "category": "Drama",
+    "country": "France, Armenia",
+    "image": "https://festivalcinemania.com/public/IN_THE_LAND_OF_ARTO_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/in-the-land-of-arto",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 18:30:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/169CINE25",
+    "title": "In the Land of Arto"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/LA_PIRE_ME_RE_AU_MONDE.jpg",
+    "link": "https://festivalcinemania.com/en/films/mother-and-law",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 18:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/095CINE25",
+    "title": "Mother and law"
+  },
+  {
+    "category": "Documentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_JE_N_AVAIS_QUE_LE_NE_ANT.jpg",
+    "link": "https://festivalcinemania.com/en/films/all-i-had-was-nothingness",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 18:45:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/047CINE25",
+    "title": "All I Had Was Nothingness"
+  },
+  {
+    "category": "Drama, Fiction",
+    "country": "Belgium, Madagascar",
+    "films": [
+      "Bahamas",
+      "Rano"
+    ],
+    "link": "https://festivalcinemania.com/en/program/rano-2",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 19:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/139CINE25",
+    "title": "Rano"
+  },
+  {
+    "category": "Romantic comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_L_A_ME_IDE_ALE.jpg",
+    "link": "https://festivalcinemania.com/en/films/lame-ideale",
+    "section": "GALA PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 20:10:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/004CINE25",
+    "title": "L'Âme Idéale"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_C_NINO.jpg",
+    "link": "https://festivalcinemania.com/en/films/nino",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 20:50:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/096CINE25",
+    "title": "Nino"
+  },
+  {
+    "category": "Thriller",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/Nervures_SC128_dannytaillon-2057.jpg",
+    "link": "https://festivalcinemania.com/en/films/nervures",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 20:55:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/170CINE25",
+    "title": "Nervures"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_LE_JOUR_J_Marie-Camille_Orlando_2025_-_FIRSTEP_-_RADAR_FILMS_-_Une_socie_te_Mediawan_-_APOLLO_FILMS_-_M6_FILMS_DSC08697.jpg",
+    "link": "https://festivalcinemania.com/en/films/g-day",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-13 21:10:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/048CINE25",
+    "title": "G-Day"
+  },
+  {
+    "category": "Documentary",
+    "country": "Andorra",
+    "image": "https://festivalcinemania.com/public/andor2.jpg",
+    "link": "https://festivalcinemania.com/en/films/andorra-patrimoine-mondial-de-lunesco",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 10:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/140CINE25",
+    "title": "Andorra, Patrimoine mondial de l'UNESCO"
+  },
+  {
+    "category": "Comedy",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_C_E_TAIT_MIEUX_DEMAIN.jpg",
+    "link": "https://festivalcinemania.com/en/films/cetait-mieux-demain",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 13:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/049CINE25",
+    "title": "C'Était Mieux Demain"
+  },
+  {
+    "category": "Documentary",
+    "country": "France, Switzerland",
+    "image": "https://festivalcinemania.com/public/C_le-chantier_2025-10-23-222108_rekw.jpg",
+    "link": "https://festivalcinemania.com/en/films/le-chantier",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 13:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/097CINE25",
+    "title": "Le Chantier"
+  },
+  {
+    "category": "Thriller",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/13_jours_13_nuits_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/13-days-13-nights",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 14:30:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/005CINE25",
+    "title": "13 Days, 13 Nights"
+  },
+  {
+    "country": "Switzerland, France",
+    "image": "https://festivalcinemania.com/public/C_La-de_rive-des-continents-_-2022-BANDITA-LOSANGE_4KB.jpg",
+    "link": "https://festivalcinemania.com/en/films/continental-drift-south",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 15:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/141CINE25",
+    "title": "Continental Drift (South)"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_01_LE_REPONDEUR_-_2025_Emmanuelle_Jacobson-Roques_-_Le_Bureau_Films.jpg",
+    "link": "https://festivalcinemania.com/en/films/guess-who-is-calling",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 15:40:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/050CINE25",
+    "title": "Guess Who Is Calling?"
+  },
+  {
+    "category": "Comedy",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_REINE_ME_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/queen-mom",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 15:45:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/098CINE25",
+    "title": "Queen Mom"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_FURCY_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/furcy-ne-libre",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 17:15:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/142CINE25",
+    "title": "Furcy, né libre"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/DEUX_PIANOS_PHOTO_2_Emmanuelle_Firman_-_Why_Not_Productions.jpg",
+    "link": "https://festivalcinemania.com/en/films/two-pianos",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 17:35:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/006CINE25",
+    "title": "Two Pianos"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium",
+    "image": "https://festivalcinemania.com/public/ON_VOUS_CROIT_PHOTO_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/we-believe-you",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 18:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/051CINE25",
+    "title": "We Believe You"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/Baie-James_Paysage_Picbois_Productions_Rezolution_Pictures.png",
+    "link": "https://festivalcinemania.com/en/films/james-bay-1975",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 18:10:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/171CINE25",
+    "title": "James Bay 1975"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec), France",
+    "films": [
+      "Friends first",
+      "The Day To Come Is A Bright New Day"
+    ],
+    "link": "https://festivalcinemania.com/en/program/vies-du-quebec-fragments-memoires-2",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 18:00:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/198CINE25",
+    "title": "VIES DU QUÉBEC : FRAGMENTS, MÉMOIRES"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Morocco",
+    "image": "https://festivalcinemania.com/public/BADH_-_Fiche_film_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/badh",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 18:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/099CINE25",
+    "title": "Badh"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_INDOMPTABLES.jpg",
+    "link": "https://festivalcinemania.com/en/films/indomptables",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 18:35:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/191CINE25",
+    "title": "Indomptables"
+  },
+  {
+    "category": "Fiction",
+    "country": "France, Belgium, Senegal, Benin",
+    "image": "https://festivalcinemania.com/public/un_autre_pere1.JPG",
+    "link": "https://festivalcinemania.com/en/films/another-father",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 19:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/143CINE25",
+    "title": "Another Father"
+  },
+  {
+    "category": "Social drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_INVISIBLES_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/invisibles",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 20:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/052CINE25",
+    "title": "INVISIBLES"
+  },
+  {
+    "category": "Mockumentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/I_LOVE_PERU.jpg",
+    "link": "https://festivalcinemania.com/en/films/i-love-peru",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 20:35:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/007CINE25",
+    "title": "I Love Peru"
+  },
+  {
+    "category": "Drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/GAGNE_TON_CIEL_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/gagne-ton-ciel",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 20:30:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/199CINE25",
+    "title": "Gagne ton ciel"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/MA_FRE_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/ma-frere",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 20:45:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/100CINE25",
+    "title": "Ma Frère"
+  },
+  {
+    "category": "Fiction",
+    "country": "Burkina Faso, France",
+    "image": "https://festivalcinemania.com/public/LES_INVERTUEUSES.jpg",
+    "link": "https://festivalcinemania.com/en/films/unvirtuous",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-14 21:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/172CINE25",
+    "title": "Unvirtuous"
+  },
+  {
+    "category": "Animation",
+    "country": "France, Belgium, Luxembourg",
+    "image": "https://festivalcinemania.com/public/C_PAGNOL_1_2025_What_the_Prod_-_Mediawan_Kids_Family_Cine_ma_-_Bidibul_Productions_-_Walking_the_Dog.jpg",
+    "link": "https://festivalcinemania.com/en/films/a-magnificent-life",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 10:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/144CINE25",
+    "title": "A Magnificent Life"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/trois-amies.jpg",
+    "link": "https://festivalcinemania.com/en/films/three-friends",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 11:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/173CINE25",
+    "title": "THREE FRIENDS"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/LA_FEMME_LA_PLUS_RICHE_DU_MONDE_PHOTO_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/la-femme-la-plus-riche-du-monde",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 11:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/053CINE25",
+    "title": "La Femme la plus riche du monde"
+  },
+  {
+    "category": "Thriller",
+    "country": "Spain, France",
+    "image": "https://festivalcinemania.com/public/C_C_sirat-1.jpg",
+    "link": "https://festivalcinemania.com/en/films/sirat",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 11:30:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/008CINE25",
+    "title": "Sirât"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_INDOMPTABLES.jpg",
+    "link": "https://festivalcinemania.com/en/films/indomptables",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 11:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/101CINE25",
+    "title": "Indomptables"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/120-battements-par-minute.jpg",
+    "link": "https://festivalcinemania.com/en/films/bpm-beats-per-minute",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 13:00:00",
+        "venue": "Cinéma Beaubien | Salle 1"
+      }
+    ],
+    "ticket_url": "https://billetterie.cinemabeaubien.com/US/movie-purchase.awp?P1=01&P2=01&P3=37129",
+    "title": "BPM (Beats Per Minute)"
+  },
+  {
+    "category": "Drama",
+    "country": "France, Italy, Belgium",
+    "image": "https://festivalcinemania.com/public/ENZO_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/enzo",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 13:30:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/174CINE25",
+    "title": "Enzo"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_LE_JOUR_J_Marie-Camille_Orlando_2025_-_FIRSTEP_-_RADAR_FILMS_-_Une_socie_te_Mediawan_-_APOLLO_FILMS_-_M6_FILMS_DSC08697.jpg",
+    "link": "https://festivalcinemania.com/en/films/g-day",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 13:50:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/102CINE25",
+    "title": "G-Day"
+  },
+  {
+    "category": "Romantic comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_L_A_ME_IDE_ALE.jpg",
+    "link": "https://festivalcinemania.com/en/films/lame-ideale",
+    "section": "GALA PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 14:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/054CINE25",
+    "title": "L'Âme Idéale"
+  },
+  {
+    "category": "Fiction",
+    "country": "Belgium, France",
+    "image": "https://festivalcinemania.com/public/KIKA.jpg",
+    "link": "https://festivalcinemania.com/en/films/kika",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 14:05:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/192CINE25",
+    "title": "Kika"
+  },
+  {
+    "category": "Documentary",
+    "country": "Senegal",
+    "image": "https://festivalcinemania.com/public/Affiche_Essamaay_Bocande_2025-10-23-222625_inzm.jpg",
+    "link": "https://festivalcinemania.com/en/films/essamaay-bocande-la-panthere",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 14:00:00",
+        "venue": "Cinémathèque québécoise | Salle Fernand-Séguin"
+      }
+    ],
+    "title": "Essamaay Bocande la Panthère"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/Baie-James_Paysage_Picbois_Productions_Rezolution_Pictures.png",
+    "link": "https://festivalcinemania.com/en/films/james-bay-1975",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 14:05:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/200CINE25",
+    "title": "James Bay 1975"
+  },
+  {
+    "category": "Drama comedy",
+    "country": "Luxembourg, Switzerland, France",
+    "image": "https://festivalcinemania.com/public/LA_CACHE.jpg",
+    "link": "https://festivalcinemania.com/en/films/the-safe-house",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 15:00:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/145CINE25",
+    "title": "The Safe House"
+  },
+  {
+    "category": "Documentary",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/BARDOT_1.png",
+    "link": "https://festivalcinemania.com/en/films/bardot",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 15:45:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/175CINE25",
+    "title": "Bardot"
+  },
+  {
+    "category": "Fiction",
+    "country": "Belgium, Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_L_ENFANT_BE_LIER_PHOTO_3.jpg",
+    "link": "https://festivalcinemania.com/en/films/lenfant-belier",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 16:00:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/103CINE25",
+    "title": "L'Enfant Bélier"
+  },
+  {
+    "category": "Experimental",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/ORAISON_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/after-the-ashes",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 16:45:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/201CINE25",
+    "title": "After the Ashes"
+  },
+  {
+    "category": "Mockumentary",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/I_LOVE_PERU.jpg",
+    "link": "https://festivalcinemania.com/en/films/i-love-peru",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 16:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/055CINE25",
+    "title": "I Love Peru"
+  },
+  {
+    "category": "Fiction",
+    "country": "Morocco, France, Spain, Germany",
+    "image": "https://festivalcinemania.com/public/RUE_MALAGA.jpg",
+    "link": "https://festivalcinemania.com/en/films/calla-malaga",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 16:45:00",
+        "venue": "Cinéma du Parc | Salle 1"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/193CINE25",
+    "title": "Calla Málaga"
+  },
+  {
+    "category": "Fiction",
+    "country": "France, Belgium, Senegal, Benin",
+    "image": "https://festivalcinemania.com/public/un_autre_pere1.JPG",
+    "link": "https://festivalcinemania.com/en/films/another-father",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 17:40:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/146CINE25",
+    "title": "Another Father"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium, Madagascar",
+    "image": "https://festivalcinemania.com/public/C_Franco_Boonjing.jpg",
+    "link": "https://festivalcinemania.com/en/films/rano",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 18:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/176CINE25",
+    "title": "Rano"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_Les_enfants_vont_bien_-_photo.jpg",
+    "link": "https://festivalcinemania.com/en/films/out-of-love",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 19:30:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873556",
+    "title": "Out Of Love"
+  },
+  {
+    "category": "Drama",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_L_E_TRANGE_RE.jpg",
+    "link": "https://festivalcinemania.com/en/films/pieces-of-a-foreign-life",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 19:30:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/104CINE25",
+    "title": "Pieces of a Foreign Life"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_CLASSE_MOYENNE_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/classe-moyenne",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-15 20:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/056CINE25",
+    "title": "Classe Moyenne"
+  },
+  {
+    "category": "Animation",
+    "country": "Belgium, France",
+    "films": [
+      "Peninsula",
+      "Le Secret des Mésanges"
+    ],
+    "link": "https://festivalcinemania.com/en/program/le-secret-des-mesanges",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 10:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/147CINE25",
+    "title": "Le Secret des Mésanges"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/DEUX_PIANOS_PHOTO_2_Emmanuelle_Firman_-_Why_Not_Productions.jpg",
+    "link": "https://festivalcinemania.com/en/films/two-pianos",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 11:05:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/177CINE25",
+    "title": "Two Pianos"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_Les_enfants_vont_bien_-_photo.jpg",
+    "link": "https://festivalcinemania.com/en/films/out-of-love",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 11:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/057CINE25",
+    "title": "Out Of Love"
+  },
+  {
+    "category": "Documentary",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/DELEAU.JPG",
+    "link": "https://festivalcinemania.com/en/films/deleau-cinema-unchained",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 11:35:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/202CINE25",
+    "title": "Deleau : Cinema unchained"
+  },
+  {
+    "category": "Drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_C_NINO.jpg",
+    "link": "https://festivalcinemania.com/en/films/nino",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 11:35:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/010CINE25",
+    "title": "Nino"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_lacs1.png",
+    "link": "https://festivalcinemania.com/en/films/love-is-overrated",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 11:35:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/105CINE25",
+    "title": "Love Is Overrated"
+  },
+  {
+    "category": "Sentimental drama",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_EpreuveDuFeu_Photogramme_JPEG_UHD-166_EC_Rec709G24_20250617.jpg",
+    "link": "https://festivalcinemania.com/en/films/trial-by-fire",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 13:05:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/148CINE25",
+    "title": "TRIAL BY FIRE"
+  },
+  {
+    "category": "Drama",
+    "country": "Belgium",
+    "image": "https://festivalcinemania.com/public/ON_VOUS_CROIT_PHOTO_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/we-believe-you",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 14:05:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/058CINE25",
+    "title": "We Believe You"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Morocco",
+    "image": "https://festivalcinemania.com/public/BADH_-_Fiche_film_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/badh",
+    "section": "MOROCCO, COUNTRY OF HONOR",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 14:05:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/011CINE25",
+    "title": "Badh"
+  },
+  {
+    "category": "Fiction",
+    "country": "Belgium, Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_Photo_2.png",
+    "link": "https://festivalcinemania.com/en/films/all-yours",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 14:00:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/178CINE25",
+    "title": "All Yours"
+  },
+  {
+    "category": "Social drama",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_INVISIBLES_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/invisibles",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 14:05:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/203CINE25",
+    "title": "INVISIBLES"
+  },
+  {
+    "category": "Adult animation",
+    "country": "France, Luxembourg, Belgium, Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/C_ALLAH_N_EST_PAS_OBLIGE.jpg",
+    "link": "https://festivalcinemania.com/en/films/allah-is-not-obliged",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 14:40:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/106CINE25",
+    "title": "Allah is not obliged"
+  },
+  {
+    "category": "Fiction",
+    "country": "Switzerland, Belgium, France",
+    "image": "https://festivalcinemania.com/public/A_BRAS_LE_CORPS_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/silent-rebellion",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 15:30:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/149CINE25",
+    "title": "Silent Rebellion"
+  },
+  {
+    "category": "Comedy",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/C_C_E_TAIT_MIEUX_DEMAIN.jpg",
+    "link": "https://festivalcinemania.com/en/films/cetait-mieux-demain",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 16:30:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/059CINE25",
+    "title": "C'Était Mieux Demain"
+  },
+  {
+    "category": "Thriller",
+    "country": "Canada (Quebec)",
+    "image": "https://festivalcinemania.com/public/Nervures_SC128_dannytaillon-2057.jpg",
+    "link": "https://festivalcinemania.com/en/films/nervures",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 16:35:00",
+        "venue": "Cinéma Moderne"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/204CINE25",
+    "title": "Nervures"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/DPA_PHOTOGRAMME_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/love-letters",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 16:45:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/107CINE25",
+    "title": "Love Letters"
+  },
+  {
+    "category": "Thriller",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/chien_51_1.jpg",
+    "link": "https://festivalcinemania.com/en/films/dog-51",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 17:10:00",
+        "venue": "Monument National"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/012CINE25",
+    "title": "Dog 51"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/REMBRANDT_PHOTO_2.jpg",
+    "link": "https://festivalcinemania.com/en/films/rembrandt",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 17:30:00",
+        "venue": "Cinéma du Musée"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/179CINE25",
+    "title": "Rembrandt"
+  },
+  {
+    "category": "Biopic",
+    "country": "France, Belgium",
+    "image": "https://festivalcinemania.com/public/MUGANGA.jpg",
+    "link": "https://festivalcinemania.com/en/films/muganga",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 17:45:00",
+        "venue": "Cinémathèque québécoise | Salle principale"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/150CINE25",
+    "title": "Muganga"
+  },
+  {
+    "category": "Comedy",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/Connemara-Stills-Press-Photos-8640x5760-Melanie-THIERRY-2.jpg",
+    "link": "https://festivalcinemania.com/en/films/connemara",
+    "section": "PREMIERE",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 19:00:00",
+        "venue": "Cineplex Quartier Latin | Salle 9"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/060CINE25",
+    "title": "Connemara"
+  },
+  {
+    "category": "Fiction",
+    "country": "France",
+    "image": "https://festivalcinemania.com/public/C_meteors.jpg",
+    "link": "https://festivalcinemania.com/en/films/meteors",
+    "section": "COMPETITIONS",
+    "showtimes": [
+      {
+        "datetime": "2025-11-16 19:15:00",
+        "venue": "Cineplex Quartier Latin  | Salle 10"
+      }
+    ],
+    "ticket_url": "https://festivalcinemania.ticketpro.ca/en/pages/1664873557/performances/108CINE25",
+    "title": "Météors"
+  }
+]

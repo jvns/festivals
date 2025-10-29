@@ -21,7 +21,10 @@
   </p>
   <nav>
     <ul>
-      <li><a href="/2025/fringe">Fringe</a></li>
+      <li><a href="/2025/fringe"
+        data-start-date="2025-05-01"
+        data-end-date="2025-06-13"
+      >Fringe</a></li>
       {% for festival in festivals_metadata %}
       {% if festival.start_date and festival.end_date %}
       <li><a href="/2025/{{ festival.slug }}"

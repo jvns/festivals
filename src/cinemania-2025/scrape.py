@@ -50,113 +50,49 @@ def get_shows():
     id: ["not", $currentID]
     orderBy: "program_date_start ASC"
   ) {
-    ...Program
-    __typename
-  }
-}
-
-fragment Program on program_zf_program_zf_Entry {
-  id
-  typeHandle
-  url
-  title
-  program_ticket_url
-  program_ticket_code
-  program_date_start
-  program_date_end
-  program_name
-  program_description
-  program_description_short
-  select_venue {
-    ...Venue
-    __typename
-  }
-  program_films(orderBy: "heure ASC") {
-    ... on program_films_bloc_program_films_BlockType {
-      id
-      film {
-        ...Movie
-        __typename
-      }
-      mention
+    id
+    url
+    title
+    program_ticket_url
+    program_date_start
+    select_venue {
+      title
+      venue_name
+    }
+    program_films(orderBy: "heure ASC") {
       heure
-      __typename
-    }
-    __typename
-  }
-  __typename
-}
-
-fragment Movie on film_zf_film_zf_Entry {
-  id
-  url
-  slug
-  typeHandle
-  title
-  select_category {
-    ... on category_zf_default_Entry {
-      id
-      slug
-      title
-      __typename
-    }
-    __typename
-  }
-  select_generic {
-    ... on generic_zf_default_Entry {
-      id
-      generic_id
-      generic_post
-      generic_name_first
-      generic_name_last
-      __typename
-    }
-    __typename
-  }
-  select_section {
-    ... on section_zf_section_zf_Entry {
-      id
-      slug
-      title
-      __typename
-    }
-    __typename
-  }
-  select_country {
-    ... on country_zf_default_Entry {
-      id
-      slug
-      title
-      __typename
-    }
-    __typename
-  }
-  film_image {
-    ... on film_image_bloc_film_image_BlockType {
-      image {
+      film {
+        id
         url
-        alt
         title
-        __typename
+        select_category {
+          title
+        }
+        select_generic {
+          generic_post
+          generic_name_first
+          generic_name_last
+        }
+        select_section {
+          title
+        }
+        select_country {
+          title
+        }
+        film_image {
+          ... on film_image_bloc_film_image_BlockType {
+            image {
+              url
+              alt
+              title
+            }
+            principal
+            poster
+          }
+        }
       }
-      principal
-      poster
-      __typename
     }
-    __typename
   }
-  __typename
-}
-
-fragment Venue on venue_zf_venue_zf_Entry {
-  id
-  typeHandle
-  url
-  slug
-  title
-  venue_name
-  venue_address
-  __typename
 }"""
         }
 
@@ -210,18 +146,14 @@ def process_program(program):
     shows = []
 
     program_date = program.get('program_date_start')
-    venue_name = ""
     ticket_url = program.get('program_ticket_url', '')
 
     # Get venue
+    venue_name = ""
     if program.get('select_venue'):
-        # select_venue might be a list or single object
-        if isinstance(program['select_venue'], list):
-            if len(program['select_venue']) > 0:
-                venue = program['select_venue'][0]
-                venue_name = venue.get('venue_name') or venue.get('title', '')
-        else:
-            venue = program['select_venue']
+        venues = program['select_venue']
+        if venues:
+            venue = venues[0] if isinstance(venues, list) else venues
             venue_name = venue.get('venue_name') or venue.get('title', '')
 
     # Check if this is a multi-film program (like short film collections)
@@ -239,39 +171,29 @@ def process_program(program):
         categories = set()
 
         for film_entry in program_films:
-            film_data = film_entry.get('film')
-            if not film_data:
+            films = film_entry.get('film', [])
+            if not films:
                 continue
 
-            # film might be a list, get the first one
-            if isinstance(film_data, list):
-                if len(film_data) == 0:
-                    continue
-                film = film_data[0]
-            else:
-                film = film_data
-
+            film = films[0] if isinstance(films, list) else films
             film_titles.append(film.get('title', ''))
 
             # Collect directors
-            if film.get('select_generic'):
-                for person in film['select_generic']:
-                    if person.get('generic_post') in ['Réalisateur', 'Réalisatrice', 'Director']:
-                        first_name = person.get('generic_name_first', '')
-                        last_name = person.get('generic_name_last', '')
-                        full_name = f"{first_name} {last_name}".strip()
-                        if full_name:
-                            directors.add(full_name)
+            for person in film.get('select_generic', []):
+                if person.get('generic_post') in ['Réalisateur', 'Réalisatrice', 'Director']:
+                    first_name = person.get('generic_name_first', '')
+                    last_name = person.get('generic_name_last', '')
+                    full_name = f"{first_name} {last_name}".strip()
+                    if full_name:
+                        directors.add(full_name)
 
             # Collect countries
-            if film.get('select_country'):
-                for country in film['select_country']:
-                    countries.add(country['title'])
+            for country in film.get('select_country', []):
+                countries.add(country['title'])
 
             # Collect categories
-            if film.get('select_category'):
-                for cat in film['select_category']:
-                    categories.add(cat['title'])
+            for cat in film.get('select_category', []):
+                categories.add(cat['title'])
 
         extra = {}
         if directors:
@@ -306,65 +228,58 @@ def process_program(program):
     else:
         # Single film program - process as individual film
         for film_entry in program_films:
-            film_data = film_entry.get('film')
-            if not film_data:
+            films = film_entry.get('film', [])
+            if not films:
                 continue
 
-            # film might be a list, get the first one
-            if isinstance(film_data, list):
-                if len(film_data) == 0:
-                    continue
-                film = film_data[0]
-            else:
-                film = film_data
+            film = films[0] if isinstance(films, list) else films
 
-            # Extract film details
             title = film['title']
             url = film['url']
             extra = {}
 
             # Get category
-            if film.get('select_category'):
-                for cat in film['select_category']:
-                    extra['category'] = cat['title']
-                    break
+            categories = film.get('select_category', [])
+            if categories:
+                extra['category'] = categories[0]['title']
 
             # Get section
-            if film.get('select_section'):
-                for section in film['select_section']:
-                    extra['section'] = section['title']
-                    break
+            sections = film.get('select_section', [])
+            if sections:
+                extra['section'] = sections[0]['title']
 
             # Get country
-            if film.get('select_country'):
-                countries = [country['title'] for country in film['select_country']]
+            countries = [country['title'] for country in film.get('select_country', [])]
+            if countries:
                 extra['country'] = ', '.join(countries)
 
             # Get director(s)
-            if film.get('select_generic'):
-                directors = []
-                for person in film['select_generic']:
-                    if person.get('generic_post') in ['Réalisateur', 'Réalisatrice', 'Director']:
-                        first_name = person.get('generic_name_first', '')
-                        last_name = person.get('generic_name_last', '')
-                        full_name = f"{first_name} {last_name}".strip()
-                        if full_name:
-                            directors.append(full_name)
-                if directors:
-                    extra['director'] = ', '.join(directors)
+            directors = []
+            for person in film.get('select_generic', []):
+                if person.get('generic_post') in ['Réalisateur', 'Réalisatrice', 'Director']:
+                    first_name = person.get('generic_name_first', '')
+                    last_name = person.get('generic_name_last', '')
+                    full_name = f"{first_name} {last_name}".strip()
+                    if full_name:
+                        directors.append(full_name)
+            if directors:
+                extra['director'] = ', '.join(directors)
 
             # Get image
-            if film.get('film_image'):
-                for img_block in film['film_image']:
-                    if img_block.get('poster') and img_block.get('image'):
-                        # image might be a list or single object
-                        if isinstance(img_block['image'], list):
-                            if len(img_block['image']) > 0:
-                                extra['image'] = img_block['image'][0]['url']
-                                break
-                        else:
-                            extra['image'] = img_block['image']['url']
-                            break
+            for img_block in film.get('film_image', []):
+                if img_block.get('poster') and img_block.get('image'):
+                    images = img_block['image']
+                    if images:
+                        image = images[0] if isinstance(images, list) else images
+                        extra['image'] = image['url']
+                        break
+                # Fallback to any image if no poster
+                elif img_block.get('image'):
+                    images = img_block['image']
+                    if images:
+                        image = images[0] if isinstance(images, list) else images
+                        extra['image'] = image['url']
+                        break
 
             # Add ticket URL if available
             if ticket_url:

@@ -1,0 +1,11 @@
+[project]
+name = "mtlfests"
+version = "0.1.0"
+dependencies = [
+    "beautifulsoup4",
+    "python-dateutil",
+    "requests",
+    "html-sanitizer",
+    "jinja2",
+]
+requires-python = ">=3.12"

@@ -5,8 +5,9 @@ websites to generate a static HTML site.
 
 ## building
 
-* `bash scripts/build.sh` rebuilds everything
-* `bash scripts/watch.sh` rebuild automatically when files changes
+* `uv run bash scripts/build.sh` rebuilds everything
+* `uv run bash scripts/watch.sh` rebuild automatically when files changes
+* `uv run bash scripts/generate.sh` just runs the "generate" scripts (doesn't rerun the scrapers)
 
 You can rebuild just one festival by doing something like this:
 

@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Théâtre de Verdure 2025
+  </title>
+  <link href="/2025/calendar-base.css" rel="stylesheet"/>
+  <link href="calendar.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <nav class="site-nav">
+   <a href="/">
+    julia's montreal festival site
+   </a>
+   <ul>
+    <li>
+     <a href="/2025/fringe">
+      Fringe
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-03" data-start-date="2025-07-16" href="/2025/fantasia">
+      Fantasia
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-16" data-start-date="2025-07-24" href="/2025/shakespeare">
+      Shakespeare in the Park
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-24" data-start-date="2025-08-19" href="/2025/mutek">
+      MUTEK
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-24" data-start-date="2025-07-11" href="/2025/theatre-de-verdure">
+      Theatre de Verdure
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-31" data-start-date="2025-06-26" href="/2025/fireworks">
+      Fireworks
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-20" data-start-date="2025-07-15" href="/2025/nuits-dafrique">
+      Nuits d'Afrique
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-27" data-start-date="2025-07-23" href="/2025/haiti-en-folie">
+      Haïti en Folie
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-14" data-start-date="2025-08-05" href="/2025/presence-autochtone">
+      Présence Autochtone
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-18" data-start-date="2025-07-30" href="/2025/wild-pride">
+      Wild Pride
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-17" data-start-date="2025-08-08" href="/2025/italfest">
+      Italfest
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-11-16" data-start-date="2025-11-05" href="/2025/cinemania">
+      Cinemania
+     </a>
+    </li>
+   </ul>
+  </nav>
+  <script>
+   function opendialog(event) {
+    const dialog = event.target.nextElementSibling;
+    dialog.showModal();
+
+    const closeButton = dialog.querySelector('button');
+    closeButton.onclick = () => dialog.close();
+
+    // Close dialog when clicking on backdrop
+    dialog.addEventListener('click', (event) => {
+        if (event.target === dialog) {
+            dialog.close();
+        }
+    });
+}
+
+// Hide ended festivals from navigation
+document.addEventListener('DOMContentLoaded', function() {
+    const today = new Date().toISOString().split('T')[0];
+    
+    document.querySelectorAll('.site-nav a[data-end-date]').forEach(link => {
+        const endDate = link.getAttribute('data-end-date');
+        if (endDate && endDate < today) {
+            link.parentElement.style.display = 'none';
+        }
+    });
+});
+  </script>
+  <header>
+   <h1>
+    Théâtre de Verdure 2025
+   </h1>
+   <h2>
+    Parc La Fontaine
+   </h2>
+   <a href="https://montreal.ca/lieux/theatre-de-verdure">
+    Official Site
+   </a>
+  </header>
+  <main>
+   <div class="weekday">
+    Mon
+   </div>
+   <div class="weekday">
+    Tue
+   </div>
+   <div class="weekday">
+    Wed
+   </div>
+   <div class="weekday">
+    Thu
+   </div>
+   <div class="weekday">
+    Fri
+   </div>
+   <div class="weekday">
+    Sat
+   </div>
+   <div class="weekday">
+    Sun
+   </div>
+   <section>
+   </section>
+   <section>
+   </section>
+   <section>
+   </section>
+   <section>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     July 11
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/forro-sem-palavras-89592">
+      Forró sem Palavras
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     July 12
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/unicum-supernova-4-88273">
+      Unicum - SuperNova 4
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     July 13
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     July 14
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     July 15
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     July 16
+    </h2>
+    <article class="card">
+     <time>
+      21:00
+     </time>
+     <a href="https://montreal.ca/evenements/prism-tentacle-tribe-89597">
+      Prism - Tentacle Tribe
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     July 17
+    </h2>
+    <article class="card">
+     <time>
+      21:00
+     </time>
+     <a href="https://montreal.ca/evenements/bergers-88990">
+      Bergers
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     July 18
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/gairloch-la-musique-ecossaise-au-quebec-88275">
+      Gairloch - la musique écossaise au Québec
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     July 19
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/eadse-et-anyma-ora-89614">
+      Eadsé et Anyma Ora’
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     July 20
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     July 21
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     July 22
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     July 23
+    </h2>
+    <article class="card">
+     <time>
+      21:00
+     </time>
+     <a href="https://montreal.ca/evenements/lecho-des-racines-la-sporee-sarah-bronsard-88277">
+      L'écho des racines - La Sporée -  Sarah Bronsard
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     July 24
+    </h2>
+    <article class="card">
+     <time>
+      21:00
+     </time>
+     <a href="https://montreal.ca/evenements/dahomey-89615">
+      Dahomey
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     July 25
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/ziya-likouri-88278">
+      Ziya - LiKouri
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     July 26
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     July 27
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     July 28
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     July 29
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     July 30
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/acte-iii-simon-leoza-89616">
+      Acte III - Simon Leoza
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     July 31
+    </h2>
+    <article class="card">
+     <time>
+      21:00
+     </time>
+     <a href="https://montreal.ca/evenements/en-fanfare-89617">
+      En fanfare
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 01
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/violoneux-et-folklores-du-nord-orchestre-de-lagora-89618">
+      Violoneux et folklores du nord - Orchestre de l'agora
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 02
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/macroscope-small-world-project-88279">
+      Macroscope - Small World Project
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     August 03
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     August 04
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     August 05
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     August 06
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/roots-dominique-fils-aime-89741">
+      Roots - Dominique Fils-Aimé
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     August 07
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/la-bataille-de-saint-leonard-89744">
+      La bataille de Saint-Léonard
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 08
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/de-memoire-kleyn-kabaret-88280">
+      De Mémoire - Kleyn Kabaret
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 09
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/rom-com-caroline-savoie-89746">
+      Rom-Com - Caroline Savoie
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     August 10
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     August 11
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     August 12
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     August 13
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/danse-lhasa-danse-pps-danse-89752">
+      Danse Lhasa danse - PPS danse
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     August 14
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/never-jordan-officer-89753">
+      Like Never Before - Jordan Officer
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 15
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 16
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     August 17
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     August 18
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/albertine-en-cinq-temps-lopera-89755">
+      Albertine en cinq temps – l'opéra
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     August 19
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     August 20
+    </h2>
+    <article class="card">
+     <time>
+      20:00
+     </time>
+     <a href="https://montreal.ca/evenements/musiques-electroniques-performatives-mutek-89758">
+      Musiques électroniques performatives - MUTEK
+     </a>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     August 21
+    </h2>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 22
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 23
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/les-quatre-temperaments-et-desir-les-grands-ballets-canadiens-89898">
+      Les Quatre Tempéraments et Désir - Les Grands Ballets Canadiens
+     </a>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     August 24
+    </h2>
+    <article class="card">
+     <time>
+      20:30
+     </time>
+     <a href="https://montreal.ca/evenements/les-quatre-temperaments-et-desir-les-grands-ballets-canadiens-89903">
+      Les Quatre Tempéraments et Désir - Les Grands Ballets Canadiens
+     </a>
+    </article>
+   </section>
+  </main>
+ </body>
+</html>

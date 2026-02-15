@@ -1,0 +1,15 @@
+header a {
+  background-color: #ff7400;
+  color: white;
+}
+
+/* Styling for free vs ticketed events */
+article.free {
+  background-color: #e8f5e8;
+  border-left-color: #4caf50;
+}
+
+article.ticketed {
+  background-color: #fff3e0;
+  border-left-color: #ff9800;
+}

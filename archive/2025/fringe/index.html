@@ -1,0 +1,159 @@
+<html>
+  <head>
+    <script src="vue.global.js"></script>
+    <!-- "defer" means that the DOM gets loaded before the script is executed -->
+    <meta charset="utf-8" />
+    <!-- make the page responsive (though I don't always want this) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="vue-multiselect.js"></script>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="vue-multiselect.css">
+    <title>fringe 2025</title>
+<script src="upup.min.js"></script>
+<script>
+UpUp.start({
+  'content-url': 'index.html',
+  'assets': ["./performances-2025.json", "./script.js", "./vue-multiselect.css", "./vue-multiselect.js", "./vue.global.js"],
+});
+</script>
+  </head>
+<style>
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 1px;
+  background: #ccc; /* becomes the line color */
+  border: 1px solid #ccc;
+}
+
+.header {
+  text-align: center;
+  background: white;
+}
+
+.day {
+  padding: 8px;
+  background: white;
+  min-height: 50px;
+}
+h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  margin-bottom: .5rem;
+}
+.intro {
+  padding-bottom: 1rem;
+}
+.language-switcher {
+  padding: 1rem;
+  text-align: right;
+  right: 0;
+  top: 0;
+  font-size: 1.5rem;
+}
+
+.language-switcher a {
+  cursor: pointer;
+  text-decoration: underline;
+}
+h1 {
+  text-align: center;
+}
+.allclear {
+  text-decoration: underline;
+  cursor: pointer;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  vertical-align: top;
+  padding: 3px 0;
+}
+td:first-child {
+  padding-right: 5px;
+}
+
+.title {
+  color: black;
+}
+
+</style>
+  <body>
+    <div id="app">
+      <h1 v-if="english">Unofficial Fringe 2025 calendar</h1>
+      <h1 v-else>Calendrier non officiel du Fringe 2025</h1>
+      <div class="intro">
+        <span v-if="english"> Choose the shows you're interested in (<a class="allclear" @click="titles = Object.keys(performances)">all</a>, 
+          <a class="allclear" @click="titles = []">clear</a>): </span>
+        <span v-else> Choisissez les événements qui vous intéressent: (<a class="allclear" @click="titles = Object.keys(performances)">tout</a>, 
+          <a class="allclear" @click="titles = []">effacer</a>): </span>
+        <vue-multiselect v-model="titles" 
+                         :multiple="true" 
+                         :placeholder="english ? 'Select some shows' : 'Sélectionnez des événements'"
+                         :select-label="english ? 'Press enter to select' : 'Appuyez sur Entrée pour sélectionner'"
+                         :deselect-label="english ? 'Press enter to remove' : 'Appuyez sur Entrée pour supprimer'"
+                         :selected-label="english ? 'Selected' : 'Sélectionné'"
+                         :clear-on-select="false" 
+                         :options="performanceTitles()">
+          <template #tag="{ option, remove }">
+            <span class="multiselect__tag"
+                  @mouseover="hoveredShow = option" @mouseleave="hoveredShow = undefined"
+                  >
+                  {{ option }}
+                  <i 
+                  class="multiselect__tag-icon" 
+                  @mousedown.prevent="remove(option)"
+                  ></i>
+
+            </span>
+          </template>
+        </vue-multiselect>
+      </div>
+
+      <div class="calendar">
+        <div class="header"> <span v-if="english">Mon</span> <span v-else>Lun</span> </div>
+        <div class="header"> <span v-if="english">Tue</span> <span v-else>Mar</span> </div> 
+        <div class="header"> <span v-if="english">Wed</span> <span v-else>Mer</span> </div>
+        <div class="header"> <span v-if="english">Thu</span> <span v-else>Jeu</span> </div>
+        <div class="header"> <span v-if="english">Fri</span> <span v-else>Ven</span> </div>
+        <div class="header"> <span v-if="english">Sat</span> <span v-else>Sam</span> </div>
+        <div class="header"> <span v-if="english">Sun</span> <span v-else>Dim</span> </div>
+
+        <div class="day" v-for="day in fringeDates()" :key="day">
+          <h2>
+            <span v-if="english">{{ formatDate(day, 'en') }} </span>
+            <span v-else>{{ formatDate(day, 'fr') }}</span>
+          </h2>
+          <table>
+            <tr v-for="show in fringeShows(day)" :key="show.title"
+
+                  @mouseover="hoveredShow = show.title" @mouseleave="hoveredShow = undefined"
+                  :style="{'background-color': hoveredShow === show.title ? '#fffad7' : 'transparent'}"
+              >
+              <!-- format: 6pm  -- I Hate Magic (link)-->
+              <td>
+                {{ show.time}}
+              </td>
+              <td
+                  ><a class="title" :href="show.link" 
+                     >{{ show.title }}</a>
+              </td>
+            </tr>
+          </table>
+        </div>
+        
+    </div>
+    <div class="language-switcher">
+      <span v-if="english">
+        EN | <a @click="language = 'fr'">FR</a>
+      </span>
+      <span v-else>
+        <a @click="language = 'en'">EN</a> | FR
+      </span>
+    </div>
+
+  </body>
+</html>

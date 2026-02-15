@@ -1,0 +1,8 @@
+header a {
+  background-color: #d21034; /* Red from Haitian flag */
+}
+
+article {
+  background-color: #f8f9fa; /* Light background for readability */
+  border-left: 3px solid #003d82; /* Blue from Haitian flag */
+}

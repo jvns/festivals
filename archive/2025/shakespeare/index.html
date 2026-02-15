@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Shakespeare in the Park 2025
+  </title>
+  <link href="/2025/calendar-base.css" rel="stylesheet"/>
+  <link href="calendar.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <nav class="site-nav">
+   <a href="/">
+    julia's montreal festival site
+   </a>
+   <ul>
+    <li>
+     <a href="/2025/fringe">
+      Fringe
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-03" data-start-date="2025-07-16" href="/2025/fantasia">
+      Fantasia
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-16" data-start-date="2025-07-24" href="/2025/shakespeare">
+      Shakespeare in the Park
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-24" data-start-date="2025-08-19" href="/2025/mutek">
+      MUTEK
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-24" data-start-date="2025-07-11" href="/2025/theatre-de-verdure">
+      Theatre de Verdure
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-31" data-start-date="2025-06-26" href="/2025/fireworks">
+      Fireworks
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-20" data-start-date="2025-07-15" href="/2025/nuits-dafrique">
+      Nuits d'Afrique
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-27" data-start-date="2025-07-23" href="/2025/haiti-en-folie">
+      Haïti en Folie
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-14" data-start-date="2025-08-05" href="/2025/presence-autochtone">
+      Présence Autochtone
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-18" data-start-date="2025-07-30" href="/2025/wild-pride">
+      Wild Pride
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-17" data-start-date="2025-08-08" href="/2025/italfest">
+      Italfest
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-11-16" data-start-date="2025-11-05" href="/2025/cinemania">
+      Cinemania
+     </a>
+    </li>
+   </ul>
+  </nav>
+  <script>
+   function opendialog(event) {
+    const dialog = event.target.nextElementSibling;
+    dialog.showModal();
+
+    const closeButton = dialog.querySelector('button');
+    closeButton.onclick = () => dialog.close();
+
+    // Close dialog when clicking on backdrop
+    dialog.addEventListener('click', (event) => {
+        if (event.target === dialog) {
+            dialog.close();
+        }
+    });
+}
+
+// Hide ended festivals from navigation
+document.addEventListener('DOMContentLoaded', function() {
+    const today = new Date().toISOString().split('T')[0];
+    
+    document.querySelectorAll('.site-nav a[data-end-date]').forEach(link => {
+        const endDate = link.getAttribute('data-end-date');
+        if (endDate && endDate < today) {
+            link.parentElement.style.display = 'none';
+        }
+    });
+});
+  </script>
+  <header>
+   <h1>
+    Shakespeare in the Park 2025
+   </h1>
+   <h2>
+    The Importance of being Earnest
+   </h2>
+   <a href="https://www.repercussiontheatre.com/summer-tour-2025/">
+    Official Site
+   </a>
+  </header>
+  <main>
+   <div class="weekday">
+    Mon
+   </div>
+   <div class="weekday">
+    Tue
+   </div>
+   <div class="weekday">
+    Wed
+   </div>
+   <div class="weekday">
+    Thu
+   </div>
+   <div class="weekday">
+    Fri
+   </div>
+   <div class="weekday">
+    Sat
+   </div>
+   <div class="weekday">
+    Sun
+   </div>
+   <section>
+   </section>
+   <section>
+   </section>
+   <section>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     July 24
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Trenholme Park
+      </div>
+      <div class="city">
+       Notre-Dame-de-Grâce (NDG)
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     July 25
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Mount Royal Cemetery
+      </div>
+      <div class="city">
+       Outremont
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     July 26
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Stone Circle
+      </div>
+      <div class="city">
+       Stanstead
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     July 27
+    </h2>
+    <article class="card">
+     <time>
+      14:00
+     </time>
+     <div>
+      <div class="park">
+       Stone Circle
+      </div>
+      <div class="city">
+       Stanstead
+      </div>
+     </div>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     July 28
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     July 29
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Stewart Park
+      </div>
+      <div class="city">
+       Pointe-Claire
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     July 30
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Ecclestone Park
+      </div>
+      <div class="city">
+       Kirkland
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     July 31
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Parc Pine Beach
+      </div>
+      <div class="city">
+       Dorval
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 01
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Bibliothèque publique de Dollard-des-Ormeaux
+      </div>
+      <div class="city">
+       Dollard-des-Ormeaux (DDO)
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 02
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Ville Saint-Laurent
+      </div>
+      <div class="city">
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     August 03
+    </h2>
+    <article class="card">
+     <time>
+      17:00
+     </time>
+     <div>
+      <div class="park">
+       Greenwood center
+      </div>
+      <div class="city">
+       Hudson
+      </div>
+     </div>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     August 04
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     August 05
+    </h2>
+    <article class="card">
+     <time>
+      18:00
+     </time>
+     <div>
+      <div class="park">
+       Ashkelon Gardens
+      </div>
+      <div class="city">
+       Côte Saint Luc
+      </div>
+     </div>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     August 06
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     August 07
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Westmount Park
+      </div>
+      <div class="city">
+       Westmount
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 08
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Westmount Park
+      </div>
+      <div class="city">
+       Westmount
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 09
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Basler Park
+      </div>
+      <div class="city">
+       Morin Heights
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     August 10
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Sir-Wilfrid-Laurier Park
+      </div>
+      <div class="city">
+       Plateau Mont-Royal
+      </div>
+     </div>
+    </article>
+   </section>
+   <section class="empty">
+    <h2>
+     <span class="weekday-mobile">
+      Monday,
+     </span>
+     August 11
+    </h2>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     August 12
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Jarry Park
+      </div>
+      <div class="city">
+       Park Extension
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     August 13
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Armand-Bombardier Park
+      </div>
+      <div class="city">
+       Rivière Des Prairies
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     August 14
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Connought Park
+      </div>
+      <div class="city">
+       Town of Mount Royal
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 15
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Fritz Farm
+      </div>
+      <div class="city">
+       Baie D’Urfé
+      </div>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 16
+    </h2>
+    <article class="card">
+     <time>
+      19:00
+     </time>
+     <div>
+      <div class="park">
+       Westmount Park
+      </div>
+      <div class="city">
+       Westmount
+      </div>
+     </div>
+    </article>
+   </section>
+  </main>
+ </body>
+</html>

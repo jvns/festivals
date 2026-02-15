@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Mutek 2025 Calendar
+  </title>
+  <link href="/2025/calendar-base.css" rel="stylesheet"/>
+  <link href="calendar.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <nav class="site-nav">
+   <a href="/">
+    julia's montreal festival site
+   </a>
+   <ul>
+    <li>
+     <a href="/2025/fringe">
+      Fringe
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-03" data-start-date="2025-07-16" href="/2025/fantasia">
+      Fantasia
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-16" data-start-date="2025-07-24" href="/2025/shakespeare">
+      Shakespeare in the Park
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-24" data-start-date="2025-08-19" href="/2025/mutek">
+      MUTEK
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-24" data-start-date="2025-07-11" href="/2025/theatre-de-verdure">
+      Theatre de Verdure
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-31" data-start-date="2025-06-26" href="/2025/fireworks">
+      Fireworks
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-20" data-start-date="2025-07-15" href="/2025/nuits-dafrique">
+      Nuits d'Afrique
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-07-27" data-start-date="2025-07-23" href="/2025/haiti-en-folie">
+      Haïti en Folie
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-14" data-start-date="2025-08-05" href="/2025/presence-autochtone">
+      Présence Autochtone
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-18" data-start-date="2025-07-30" href="/2025/wild-pride">
+      Wild Pride
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-08-17" data-start-date="2025-08-08" href="/2025/italfest">
+      Italfest
+     </a>
+    </li>
+    <li>
+     <a data-end-date="2025-11-16" data-start-date="2025-11-05" href="/2025/cinemania">
+      Cinemania
+     </a>
+    </li>
+   </ul>
+  </nav>
+  <script>
+   function opendialog(event) {
+    const dialog = event.target.nextElementSibling;
+    dialog.showModal();
+
+    const closeButton = dialog.querySelector('button');
+    closeButton.onclick = () => dialog.close();
+
+    // Close dialog when clicking on backdrop
+    dialog.addEventListener('click', (event) => {
+        if (event.target === dialog) {
+            dialog.close();
+        }
+    });
+}
+
+// Hide ended festivals from navigation
+document.addEventListener('DOMContentLoaded', function() {
+    const today = new Date().toISOString().split('T')[0];
+    
+    document.querySelectorAll('.site-nav a[data-end-date]').forEach(link => {
+        const endDate = link.getAttribute('data-end-date');
+        if (endDate && endDate < today) {
+            link.parentElement.style.display = 'none';
+        }
+    });
+});
+  </script>
+  <header>
+   <h1>
+    MUTEK 2025
+   </h1>
+   <a href="https://montreal.mutek.org">
+    Official Site
+   </a>
+  </header>
+  <main>
+   <div class="weekday">
+    Mon
+   </div>
+   <div class="weekday">
+    Tue
+   </div>
+   <div class="weekday">
+    Wed
+   </div>
+   <div class="weekday">
+    Thu
+   </div>
+   <div class="weekday">
+    Fri
+   </div>
+   <div class="weekday">
+    Sat
+   </div>
+   <div class="weekday">
+    Sun
+   </div>
+   <section>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Tuesday,
+     </span>
+     August 19
+    </h2>
+    <article class="card free">
+     <time>
+      18:30
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/experience-1">
+       EXPÉRIENCE 1
+      </a>
+      <br/>
+      <small>
+       Esplanade Tranquille
+      </small>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Wednesday,
+     </span>
+     August 20
+    </h2>
+    <article class="card free">
+     <time>
+      17:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/experience-2">
+       EXPÉRIENCE 2
+      </a>
+      <br/>
+      <small>
+       Esplanade Tranquille
+      </small>
+     </div>
+    </article>
+    <article class="card free">
+     <time>
+      19:30
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/theatre-de-verdure">
+       THÉÂTRE DE VERDURE
+      </a>
+      <br/>
+      <small>
+       Théâtre de Verdure - Parc La Fontaine
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      22:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/nocturne-1">
+       NOCTURNE 1 ($)
+      </a>
+      <br/>
+      <small>
+       Société des arts technologiques [SAT]
+      </small>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Thursday,
+     </span>
+     August 21
+    </h2>
+    <article class="card free">
+     <time>
+      17:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/experience-3">
+       EXPÉRIENCE 3
+      </a>
+      <br/>
+      <small>
+       Esplanade Tranquille
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      19:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/special-event-max-cooper-presents-lattice-3d-av">
+       SPECIAL EVENT | Max Cooper presents Lattice 3D/AV ($)
+      </a>
+      <br/>
+      <small>
+       Théatre Maisonneuve de la Place des Arts
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      22:30
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/nocturne-2">
+       NOCTURNE 2 ($)
+      </a>
+      <br/>
+      <small>
+       Société des arts technologiques [SAT]
+      </small>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Friday,
+     </span>
+     August 22
+    </h2>
+    <article class="card free">
+     <time>
+      17:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/experience-4">
+       EXPÉRIENCE 4
+      </a>
+      <br/>
+      <small>
+       Esplanade Tranquille
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      18:15
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/a-visions-1">
+       A/VISIONS 1 ($)
+      </a>
+      <br/>
+      <small>
+       Théatre Maisonneuve de la Place des Arts
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      22:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/metropolis-1">
+       MÉTROPOLIS 1 ($)
+      </a>
+      <br/>
+      <small>
+       MTELUS
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      22:30
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/nocturne-3">
+       NOCTURNE 3 ($)
+      </a>
+      <br/>
+      <small>
+       Société des arts technologiques [SAT]
+      </small>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Saturday,
+     </span>
+     August 23
+    </h2>
+    <article class="card free">
+     <time>
+      17:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/experience-5">
+       EXPÉRIENCE 5
+      </a>
+      <br/>
+      <small>
+       Esplanade Tranquille
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      18:15
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/a-visions-2">
+       A/VISIONS 2 ($)
+      </a>
+      <br/>
+      <small>
+       Théatre Maisonneuve de la Place des Arts
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      22:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/metropolis-2">
+       MÉTROPOLIS 2 ($)
+      </a>
+      <br/>
+      <small>
+       MTELUS
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      22:30
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/nocturne-4">
+       NOCTURNE 4 ($)
+      </a>
+      <br/>
+      <small>
+       Société des arts technologiques [SAT]
+      </small>
+     </div>
+    </article>
+   </section>
+   <section>
+    <h2>
+     <span class="weekday-mobile">
+      Sunday,
+     </span>
+     August 24
+    </h2>
+    <article class="card ticketed">
+     <time>
+      14:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/piknic-electronik-mtl-11">
+       Piknic Electronik MTL #11 ($)
+      </a>
+      <br/>
+      <small>
+       Parc Jean-Drapeau
+      </small>
+     </div>
+    </article>
+    <article class="card free">
+     <time>
+      17:00
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/experience-6">
+       EXPÉRIENCE 6
+      </a>
+      <br/>
+      <small>
+       Esplanade Tranquille
+      </small>
+     </div>
+    </article>
+    <article class="card ticketed">
+     <time>
+      22:30
+     </time>
+     <div>
+      <a href="https://montreal.mutek.org/en/shows/2025/nocturne-5">
+       NOCTURNE 5 ($)
+      </a>
+      <br/>
+      <small>
+       Société des arts technologiques [SAT]
+      </small>
+     </div>
+    </article>
+   </section>
+  </main>
+ </body>
+</html>

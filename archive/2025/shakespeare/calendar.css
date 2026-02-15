@@ -1,0 +1,18 @@
+:root {
+  --light-pink: #ffebf4;
+  --dark-pink: #ff65c3;
+}
+
+header a {
+  background-color: var(--dark-pink);
+  color: white;
+}
+
+.city {
+  font-weight: bold;
+}
+
+article.card {
+  background: var(--light-pink);
+  border-left-color: var(--dark-pink);
+}
